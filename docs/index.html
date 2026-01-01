@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa Zawodów WZSS</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map { height: 600px; }
+        .filters { margin-bottom: 10px; }
+        .filters button { margin-left: 10px; }
+        .footer { margin-top: 10px; font-size: 0.8em; color: #666; }
+    </style>
+</head>
+<body>
+
+<h1>Mapa Zawodów WZSS</h1>
+
+<div class="filters">
+    <label for="club-filter">Klub:</label>
+    <select id="club-filter">
+        <option value="all">Wszystkie</option>
+    </select>
+
+    <label for="start-date">Od:</label>
+    <input type="date" id="start-date">
+
+    <label for="end-date">Do:</label>
+    <input type="date" id="end-date">
+    
+    <button onclick="applyFilters()">Filtruj</button>
+    <button onclick="resetMapView()">Resetuj widok</button>
+    <button onclick="showUserLocation()">Pokaż moją lokalizację</button>
+    <br>
+    <button onclick="setDateRange('next7days')">Najbliższe 7 dni</button>
+    <button onclick="setDateRange('next14days')">Najbliższe 14 dni</button>
+    <button onclick="setDateRange('currentMonth')">Aktualny miesiąc</button>
+    <button onclick="setDateRange('nextMonth')">Przyszły miesiąc</button>
+    <button onclick="setDateRange('fullYear')">Cały rok</button>
+</div>
+
+<div id="map"></div>
+
+<div class="footer">
+    Ostatnia aktualizacja: <span id="last-updated"></span> | Źródło danych: <a href="https://portal.wzss.pl/competitions/current" target="_blank">portal.wzss.pl</a>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script>
+    const initialCenter = [52.4064, 16.9252];
+    const initialZoom = 8;
+    const map = L.map('map').setView(initialCenter, initialZoom); 
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    let locations = [];
+    const markers = L.layerGroup().addTo(map);
+    let userLocationMarker;
+
+    const months = {'sty': 0, 'lut': 1, 'mar': 2, 'kwi': 3, 'maj': 4, 'cze': 5, 'lip': 6, 'sie': 7, 'wrz': 8, 'paź': 9, 'lis': 10, 'gru': 11};
+
+    function parseDate(dateStr) {
+        const yearMatch = dateStr.match(/(\d{4})$/);
+        const year = yearMatch ? parseInt(yearMatch[0], 10) : new Date().getFullYear();
+        const parts = dateStr.split(' ');
+        if (parts.length >= 3) {
+            const day = parseInt(parts[0], 10);
+            const monthStr = parts[1].toLowerCase();
+            if (monthStr in months) {
+                return new Date(year, months[monthStr], day);
+            }
+        }
+        return null;
+    }
+
+    function displayLocations(filteredLocations) {
+        markers.clearLayers();
+        filteredLocations.forEach(loc => {
+            if (loc.latitude && loc.longitude) {
+                let popupContent = `<b>${loc.club}</b><br>${loc.location}<br>`;
+                if (loc.website) {
+                    popupContent += `<a href="${loc.website}" target="_blank">Strona klubu</a><br>`;
+                }
+                popupContent += `<hr>`;
+                
+                loc.competitions.forEach(comp => {
+                    popupContent += `<b>${comp.name}</b><br><i>${comp.date}</i><br>`;
+                    if(comp.regulation_link) {
+                        popupContent += `<a href="${comp.regulation_link}" target="_blank">Regulamin</a><br>`;
+                    }
+                });
+                L.marker([loc.latitude, loc.longitude])
+                    .addTo(markers)
+                    .bindPopup(popupContent);
+            }
+        });
+    }
+
+    function applyFilters() {
+        const selectedClub = document.getElementById('club-filter').value;
+        const startDateValue = document.getElementById('start-date').value;
+        const endDateValue = document.getElementById('end-date').value;
+        const startDate = startDateValue ? new Date(startDateValue) : null;
+        const endDate = endDateValue ? new Date(endDateValue) : null;
+        
+        if(startDate) startDate.setHours(0,0,0,0);
+        if(endDate) endDate.setHours(23,59,59,999);
+
+        const filteredLocations = locations.filter(loc => {
+            const clubMatch = (selectedClub === 'all' || loc.club === selectedClub);
+            if (!clubMatch) return false;
+
+            if (!startDate && !endDate) return true;
+
+            return loc.competitions.some(comp => {
+                const compDate = parseDate(comp.date);
+                if (!compDate) return false;
+                if (startDate && endDate) return compDate >= startDate && compDate <= endDate;
+                if (startDate) return compDate >= startDate;
+                if (endDate) return compDate <= endDate;
+                return false;
+            });
+        });
+        displayLocations(filteredLocations);
+    }
+
+    function resetMapView() {
+        map.setView(initialCenter, initialZoom);
+    }
+
+    function showUserLocation() {
+        if (!navigator.geolocation) {
+            alert("Twoja przeglądarka nie wspiera geolokalizacji.");
+            return;
+        }
+        navigator.geolocation.getCurrentPosition(position => {
+            const { latitude: lat, longitude: lon } = position.coords;
+            if (userLocationMarker) {
+                map.removeLayer(userLocationMarker);
+            }
+            userLocationMarker = L.marker([lat, lon]).addTo(map)
+                .bindPopup('Twoja lokalizacja').openPopup();
+            map.setView([lat, lon], 13);
+        }, () => {
+            alert('Nie można pobrać Twojej lokalizacji.');
+        });
+    }
+    
+    function setDateRange(range) {
+        const today = new Date();
+        let firstDay, lastDay;
+
+        switch (range) {
+            case 'next7days':
+                firstDay = today;
+                lastDay = new Date(today.getTime() + 7 * 24 * 60 * 60 * 1000);
+                break;
+            case 'next14days':
+                firstDay = today;
+                lastDay = new Date(today.getTime() + 14 * 24 * 60 * 60 * 1000);
+                break;
+            case 'currentMonth':
+                firstDay = new Date(today.getFullYear(), today.getMonth(), 1);
+                lastDay = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+                break;
+            case 'nextMonth':
+                firstDay = new Date(today.getFullYear(), today.getMonth() + 1, 1);
+                lastDay = new Date(today.getFullYear(), today.getMonth() + 2, 0);
+                break;
+            case 'fullYear':
+                firstDay = new Date(today.getFullYear(), 0, 1);
+                lastDay = new Date(today.getFullYear(), 11, 31);
+                break;
+        }
+        document.getElementById('start-date').value = firstDay.toISOString().split('T')[0];
+        document.getElementById('end-date').value = lastDay.toISOString().split('T')[0];
+        applyFilters();
+    }
+
+    // Load data and initialize
+    fetch('competitions.json')
+        .then(response => {
+            const lastUpdated = response.headers.get('Last-Modified');
+            document.getElementById('last-updated').textContent = lastUpdated ? new Date(lastUpdated).toLocaleString() : new Date().toLocaleString();
+            return response.json();
+        })
+        .then(data => {
+            locations = data;
+            const clubs = [...new Set(locations.map(loc => loc.club))].sort();
+            const clubFilter = document.getElementById('club-filter');
+            clubs.forEach(club => {
+                const option = document.createElement('option');
+                option.value = club;
+                option.textContent = club;
+                clubFilter.appendChild(option);
+            });
+            displayLocations(locations);
+        });
+
+</script>
+
+</body>
+</html>

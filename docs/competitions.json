@@ -1,0 +1,1170 @@
+[
+    {
+        "club": "KBS Tarnowo Podgórne",
+        "location": "KURKOWE BRACTWO STRZELECKIE w TARNOWIE PODGÓRNYM ul. Zachodnia 3, 62-080 Tarnowo Podgórne",
+        "latitude": 52.433333,
+        "longitude": 16.733333,
+        "website": "https://kbs-tarnowo.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 sty 2026",
+                "name": "Otwarte Zawody Strzeleckie „Rozpoczęcie Sezonu”",
+                "regulation_link": "https://kbs-tarnowo.wzss.pl/regulation/1232",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "1 lut 2026",
+                "name": "Otwarte Zawody Strzeleckie „Zawody Rocznicowe”",
+                "regulation_link": "https://kbs-tarnowo.wzss.pl/regulation/1233",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GRUNWALD Poznań",
+        "location": "Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań",
+        "latitude": 52.3770214,
+        "longitude": 16.9147393,
+        "website": "https://wks-grunwald.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 sty 2026",
+                "name": "Rozpoczęcie Sezonu 2026",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1177",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "24 sty 2026",
+                "name": "Zawody Pistolet Wojskowy I + PN",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1213",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "31 sty 2026",
+                "name": "Zawody Pistolet Standard I + PN",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1252",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "NSS Czarnków",
+        "location": "Strzelnica KBS Margonin",
+        "latitude": 52.966667,
+        "longitude": 17.1,
+        "website": "https://nss.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 sty 2026",
+                "name": "Zawody Margonin 2026",
+                "regulation_link": "https://nss.wzss.pl/regulation/1229",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "JEDENASTKA Witaszyce",
+        "location": "Strzelnica Bryllandia",
+        "latitude": 51.9300422,
+        "longitude": 17.5798909,
+        "website": "https://jedenastka.wzss.pl",
+        "competitions": [
+            {
+                "date": "11 sty 2026",
+                "name": "Zimowe Strzały",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1190",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "15 lut 2026",
+                "name": "Serca na tarczy",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1191",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "14 mar 2026",
+                "name": "Wiosenne przebudzenie strzelców",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1192",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 kwi 2026",
+                "name": "Kwiaty i strzały",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1193",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "2 maj 2026",
+                "name": "Biało-Czerwony strzał",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1194",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 cze 2026",
+                "name": "Wakacyjny strzał",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1195",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "22 sie 2026",
+                "name": "Wakacyjna dogrywka",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1196",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 wrz 2026",
+                "name": "Kampania wrześniowa",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1197",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "name": "Jesienny wiatr na celowniku",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1198",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "14 lis 2026",
+                "name": "Andrzejkowe strzały",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1199",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 gru 2026",
+                "name": "Zimowe tarcze Mikołaja",
+                "regulation_link": "https://jedenastka.wzss.pl/regulation/1200",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "AMARANT Poznań",
+        "location": "Buk, ul. Dobieżyńska (w parku)",
+        "latitude": 52.357408,
+        "longitude": 16.5166799,
+        "website": "https://amarant.wzss.pl",
+        "competitions": [
+            {
+                "date": "11 sty 2026",
+                "name": "Zawody Jagiellońskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1228",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "KBS Opalenica",
+        "location": "ul.Parkowa 44 64-330 Opalenica",
+        "latitude": 52.308611,
+        "longitude": 16.415278,
+        "website": "https://kbs-opalenica.wzss.pl",
+        "competitions": [
+            {
+                "date": "18 sty 2026",
+                "name": "Ryngraf Św.Sebastiana",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1158",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "15 mar 2026",
+                "name": "Otwarte Zawody Strzeleckie „Wiosna w Opalenicy”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1159",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 kwi 2026",
+                "name": "Otwarte Zawody Strzeleckie „Mistrzostwa KBS Opalenica”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1160",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 maj 2026",
+                "name": "Otwarte Zawody Strzeleckie „Mistrzostwa Drużynowe”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1161",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "14 cze 2026",
+                "name": "Otwarte Zawody Strzeleckie „Puchar Prezesa”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1162",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "9 sie 2026",
+                "name": "Otwarte Zawody Strzeleckie „Lato w Opalenicy”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1163",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
+            },
+            {
+                "date": "6 wrz 2026",
+                "name": "Otwarte Zawody Strzeleckie „Kampania Wrześniowa”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1164",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 paź 2026",
+                "name": "Otwarte Zawody Strzeleckie „ Złota Jesień w Opalenicy”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1165",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 paź 2026",
+                "name": "Jesień w Opalenicy",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1166",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "8 lis 2026",
+                "name": "Otwarte Zawody Strzeleckie „Memoriał Andrzeja Szumińskiego”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1167",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 gru 2026",
+                "name": "Otwarte Zawody Strzeleckie „Gwiazdorskie Strzelanie”",
+                "regulation_link": "https://kbs-opalenica.wzss.pl/regulation/1168",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Kalisz, Śródmiejska 24A // Ostrów Wlkp Tomczeka 34",
+        "latitude": 51.6562,
+        "longitude": 18.0833,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "24 sty 2026",
+                "name": "XIII Zimowy Turniej Pneumatyczny",
+                "regulation_link": "https://bellona.wzss.pl/regulation/1208",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GILZA Pleszew",
+        "location": "Karczemka obok Pleszew",
+        "latitude": 51.883333,
+        "longitude": 17.783333,
+        "website": "",
+        "competitions": [
+            {
+                "date": "25 sty 2026",
+                "name": "Puchar wyzwolenia",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BOCK Rawicz",
+        "location": "Strzelnica sportowa OSIR -Rawicz ul. Leśna",
+        "latitude": 51.616667,
+        "longitude": 17.0,
+        "website": "",
+        "competitions": [
+            {
+                "date": "31 sty 2026",
+                "name": "Zawody z okazji 106 rocznicy Powrotu Rawicza do Polski",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "AMARANT Poznań",
+        "location": "Strzelnica KŻR w Buku, ul. Dobieżyńska (w parku)",
+        "latitude": 52.357408,
+        "longitude": 16.5166799,
+        "website": "https://amarant.wzss.pl",
+        "competitions": [
+            {
+                "date": "1 lut 2026",
+                "name": "Zawody Toruńskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1236",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "DEFENDU Poznań",
+        "location": "Hive, Młyńska, Józefowo",
+        "latitude": 52.4508,
+        "longitude": 16.2081,
+        "website": "https://defendu.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 lut 2026",
+                "name": "MGUN",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1148",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "21 mar 2026",
+                "name": "MGUN",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1189",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 kwi 2026",
+                "name": "Bitwa pod Racławicami",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1145",
+                "weapons": [
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "26 - 28 cze 2026",
+                "name": "Mistrzostwa Europy",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1205",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 lip 2026",
+                "name": "MGUN",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1201",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 wrz 2026",
+                "name": "Bitwa pod Beresteczkiem",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1149",
+                "weapons": [
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "name": "Bitwa pod Wiedniem",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1203",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "7 lis 2026",
+                "name": "MGUN",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1202",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "Memoriał Mariusza Koziarskiego",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1204",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Strzelnica KLARA, Sobótka 3A, 63-450 Ostrów Wlkp",
+        "latitude": 51.7611567,
+        "longitude": 17.8432614,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "14 lut 2026",
+                "name": "\"ZIMOWA 9  II/26 \"_ SI VIS PACEM PARABELLUM",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "PERUN Luboń",
+        "location": "Centrum Strzeleckie PERUN- Strzelnica Cieśle",
+        "latitude": 52.321389,
+        "longitude": 16.696389,
+        "website": "https://perun.wzss.pl",
+        "competitions": [
+            {
+                "date": "21 lut 2026",
+                "name": "Otwarte Zawody Klubowe #1",
+                "regulation_link": "https://perun.wzss.pl/regulation/1154",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 - 28 mar 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #1",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "24 - 25 kwi 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #2",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 - 13 cze 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #3",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 - 5 wrz 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #4",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "19 wrz 2026",
+                "name": "Otwarte Zawody Klubowe #2",
+                "regulation_link": "https://perun.wzss.pl/regulation/1155",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "16 - 17 paź 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #5 FINAŁ",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "Otwarte Zawody Klubowe #3",
+                "regulation_link": "https://perun.wzss.pl/regulation/1156",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "TARCZA Szamotuły",
+        "location": "Strzelnica klubowa w Mutowie",
+        "latitude": 52.638221868887385,
+        "longitude": 16.58586710625372,
+        "website": "https://tarcza-szamotuly.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "Karabin centralnego zapłon, snajper i mini snajper – 100m",
+                "regulation_link": "https://tarcza-szamotuly.wzss.pl/regulation/1186",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa „Klara”",
+        "latitude": 51.7611567,
+        "longitude": 17.8432614,
+        "website": "https://guardians.wzss.pl",
+        "competitions": [
+            {
+                "date": "27 lut - 1 mar 2026",
+                "name": "KLARA IPSC HG + PCC - L1",
+                "regulation_link": "https://guardians.wzss.pl/regulation/1230",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "AMARANT Poznań",
+        "location": "Strzelnica KŻR w Buku (w parku)",
+        "latitude": 52.357408,
+        "longitude": 16.5166799,
+        "website": "https://amarant.wzss.pl",
+        "competitions": [
+            {
+                "date": "1 mar 2026",
+                "name": "Zawody Parnawskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1237",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "FORT Słupca",
+        "location": "Gajowa 1, 62-400 Słupca",
+        "latitude": 51.0951816,
+        "longitude": 17.0405947,
+        "website": "https://fort.wzss.pl",
+        "competitions": [
+            {
+                "date": "14 mar 2026",
+                "name": "Powitanie Wiosny (link do zapisów w regulaminie)",
+                "regulation_link": "https://fort.wzss.pl/regulation/1206",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "23 maj 2026",
+                "name": "Majówka Z FORT-em",
+                "regulation_link": "https://fort.wzss.pl/regulation/1220",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "19 wrz 2026",
+                "name": "Zawody o Puchar Prezesa FORT",
+                "regulation_link": "https://fort.wzss.pl/regulation/1222",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "IC Piła",
+        "location": "Hubertus - Studzieniec 28a",
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
+        "website": "",
+        "competitions": [
+            {
+                "date": "21 mar 2026",
+                "name": "Puchar Wiosny",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "LESNA Leszno",
+        "location": "Robaczyn",
+        "latitude": 51.99254,
+        "longitude": 16.55936,
+        "website": "",
+        "competitions": [
+            {
+                "date": "21 mar 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 1",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 cze 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 2",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 wrz 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 3",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 gru 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 4",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "LBK Luboń",
+        "location": "Luboń ul. Poniatowskiego 20",
+        "latitude": 52.35,
+        "longitude": 16.9,
+        "website": "https://lbk.wzss.pl",
+        "competitions": [
+            {
+                "date": "28 mar 2026",
+                "name": "I Runda Pucharu LBK",
+                "regulation_link": "https://lbk.wzss.pl/regulation/1214",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "16 maj 2026",
+                "name": "II Runda Pucharu LBK",
+                "regulation_link": "https://lbk.wzss.pl/regulation/1215",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "24 paź 2026",
+                "name": "III Runda Pucharu LBK",
+                "regulation_link": "https://lbk.wzss.pl/regulation/1216",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "IV Runda Pucharu LBK",
+                "regulation_link": "https://lbk.wzss.pl/regulation/1217",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "AMARANT Poznań",
+        "location": "Strzelnica Trzcinowy Zakątek, Górsko",
+        "latitude": 52.566667,
+        "longitude": 16.333333,
+        "website": "https://amarant.wzss.pl",
+        "competitions": [
+            {
+                "date": "28 mar 2026",
+                "name": "Zawody Generalskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1238",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "25 kwi 2026",
+                "name": "Zawody Koronacyjne",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1239",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "30 maj 2026",
+                "name": "Zawody Konstytucyjne",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1240",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 cze 2026",
+                "name": "Zawody Mohylewskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1241",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "25 lip 2026",
+                "name": "Zawody Królewskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1242",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "29 sie 2026",
+                "name": "Zawody Połockie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1243",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "26 wrz 2026",
+                "name": "Zawody Bezdańskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1244",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "24 paź 2026",
+                "name": "Zawody Unijne",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1245",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "Zawody Oliwskie",
+                "regulation_link": "https://amarant.wzss.pl/regulation/1246",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WOLF PACK Szamotuły",
+        "location": "DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI",
+        "latitude": 52.68416,
+        "longitude": 16.8087,
+        "website": "https://wolfpack.wzss.pl",
+        "competitions": [
+            {
+                "date": "12 kwi 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1169",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "PKS Piła",
+        "location": "HUBERTUS Studzieniec 28A",
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
+        "website": "",
+        "competitions": [
+            {
+                "date": "25 kwi 2026",
+                "name": "PISTOL-MIX26",
+                "weapons": [
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "9 maj 2026",
+                "name": "RIFLE-MIX26",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 cze 2026",
+                "name": "Memoriał Mirosława Malickiego MMM26",
+                "weapons": [
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "name": "Ewokacja 6. Pułku Lotnictwa Myśliwsko-Bombowego",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GRYF Grodzisk Wlkp.",
+        "location": "ZDRÓJ",
+        "latitude": 52.233333,
+        "longitude": 16.433333,
+        "website": "",
+        "competitions": [
+            {
+                "date": "26 kwi 2026",
+                "name": "I RUNDA GRYF GUN",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 maj 2026",
+                "name": "II RUNDA GRYF GUN",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "21 cze 2026",
+                "name": "III RUNDA GRYF GUN",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "30 sie 2026",
+                "name": "IV RUNDA GRYF GUN",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WOLF PACK Szamotuły",
+        "location": "\"Nad Flintą\" Dąbrówka Leśna, ul. Gajowa 4/5, 64-600 Oborniki",
+        "latitude": 52.6871903,
+        "longitude": 16.8244783,
+        "website": "https://wolfpack.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 maj 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1179",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "7 cze 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1180",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 lip 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1181",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "13 wrz 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1182",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "11 paź 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1183",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "8 lis 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1184",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 gru 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
+                "regulation_link": "https://wolfpack.wzss.pl/regulation/1185",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    }
+]

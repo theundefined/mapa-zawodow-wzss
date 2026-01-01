@@ -1,0 +1,43 @@
+name: Update Competition Map
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Runs every day at 3 AM
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: "Fetch new data"
+        run: |
+          python fetch_competitions.py
+          
+      - name: Verify locations
+        run: |
+          python verify_locations.py
+          
+      - name: Update map files
+        run: |
+          cp map.html docs/index.html
+          cp competitions.json docs/
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated competition map update"
+          branch: main
+          file_pattern: 'docs/* locations.csv competitions.json'
