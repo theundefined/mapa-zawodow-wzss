@@ -32,7 +32,6 @@ jobs:
           
       - name: Update map files
         run: |
-          cp map.html docs/index.html
           cp competitions.json docs/
 
       - name: Commit and push changes
