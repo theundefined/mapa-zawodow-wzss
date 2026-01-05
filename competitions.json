@@ -652,6 +652,23 @@
         ]
     },
     {
+        "club": "BOCK Rawicz",
+        "location": "Rawicz - Dębno - leśniczówka",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "TARCZA Szamotuły",
         "location": "Strzelnica klubowa w Mutowie",
         "latitude": 52.638221868887385,
