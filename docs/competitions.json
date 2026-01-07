@@ -1183,5 +1183,34 @@
                 ]
             }
         ]
+    },
+    {
+        "club": "BŁYSK Odolanów",
+        "location": "Strzelnica Sportowa \"Jóźwiak\" Nowolipsk",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "5 lip 2026",
+                "name": "Ku pamięci Bitwy Kłuszyńskiej 4 VII 1610",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 paź 2026",
+                "name": "Ku pamięci Bitwy Odolanowskiej 22 X 1945 Największej Wielkopolskiej  Potyczki Żołnierzy Niezłomnych",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
     }
 ]
