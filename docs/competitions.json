@@ -652,23 +652,6 @@
         ]
     },
     {
-        "club": "BOCK Rawicz",
-        "location": "Rawicz - Dębno - leśniczówka",
-        "latitude": null,
-        "longitude": null,
-        "website": "",
-        "competitions": [
-            {
-                "date": "22 lut 2026",
-                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
-                "weapons": [
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "TARCZA Szamotuły",
         "location": "Strzelnica klubowa w Mutowie",
         "latitude": 52.638221868887385,
@@ -681,6 +664,23 @@
                 "regulation_link": "https://tarcza-szamotuly.wzss.pl/regulation/1186",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BOCK Rawicz",
+        "location": "Rawicz - Dębno - leśniczówka",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -1093,6 +1093,53 @@
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "KBSK Kalisz",
+        "location": "Strzelnica Kaliskiego Bractwa Strzelców Kurkowych, Wał Jagielloński 9, 62-800 Kalisz",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "9 maj 2026",
+                "name": "STRZELANIE OBYWATELSKIE",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "23 maj 2026",
+                "name": "Zawody strzeleckie o puchar Mieczysława Jałowieckiego",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "3 paź 2026",
+                "name": "JESIENNE ZAWODY STRZELECKIE",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "7 - 12 lis 2026",
+                "name": "STRZELANIE NIEPODLEGŁOŚCIOWE",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
