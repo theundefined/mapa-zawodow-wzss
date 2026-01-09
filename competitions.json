@@ -58,9 +58,19 @@
                 ]
             },
             {
-                "date": "31 sty 2026",
+                "date": "7 lut 2026",
                 "name": "Zawody Pistolet Standard I + PN",
                 "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1252",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "13 - 14 lut 2026",
+                "name": "I Runda Pucharu WKS Grunwald 2026",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1266",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -392,11 +402,12 @@
         "location": "Karczemka obok Pleszew",
         "latitude": 51.883333,
         "longitude": 17.783333,
-        "website": "",
+        "website": "https://gilza.wzss.pl",
         "competitions": [
             {
                 "date": "25 sty 2026",
                 "name": "Puchar wyzwolenia",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1223",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -1134,7 +1145,7 @@
                 ]
             },
             {
-                "date": "7 - 12 lis 2026",
+                "date": "7 lis 2026",
                 "name": "STRZELANIE NIEPODLEGŁOŚCIOWE",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
