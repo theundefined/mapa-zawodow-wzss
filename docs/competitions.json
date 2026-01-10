@@ -422,11 +422,12 @@
         "location": "Strzelnica sportowa OSIR -Rawicz ul. Leśna",
         "latitude": 51.616667,
         "longitude": 17.0,
-        "website": "",
+        "website": "https://bock.wzss.pl",
         "competitions": [
             {
                 "date": "31 sty 2026",
                 "name": "Zawody z okazji 106 rocznicy Powrotu Rawicza do Polski",
+                "regulation_link": "https://bock.wzss.pl/regulation/1188",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -566,6 +567,7 @@
             {
                 "date": "14 lut 2026",
                 "name": "\"ZIMOWA 9  II/26 \"_ SI VIS PACEM PARABELLUM",
+                "regulation_link": "https://bellona.wzss.pl/regulation/1209",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -596,6 +598,7 @@
             {
                 "date": "27 - 28 mar 2026",
                 "name": "Zawody \"W stronę słońca\" wg Steel Challenge #1",
+                "regulation_link": "https://perun.wzss.pl/regulation/1157",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -605,6 +608,7 @@
             {
                 "date": "24 - 25 kwi 2026",
                 "name": "Zawody \"W stronę słońca\" wg Steel Challenge #2",
+                "regulation_link": "https://perun.wzss.pl/regulation/1170",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -614,6 +618,7 @@
             {
                 "date": "12 - 13 cze 2026",
                 "name": "Zawody \"W stronę słońca\" wg Steel Challenge #3",
+                "regulation_link": "https://perun.wzss.pl/regulation/1171",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -623,6 +628,7 @@
             {
                 "date": "4 - 5 wrz 2026",
                 "name": "Zawody \"W stronę słońca\" wg Steel Challenge #4",
+                "regulation_link": "https://perun.wzss.pl/regulation/1172",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -643,6 +649,7 @@
             {
                 "date": "16 - 17 paź 2026",
                 "name": "Zawody \"W stronę słońca\" wg Steel Challenge #5 FINAŁ",
+                "regulation_link": "https://perun.wzss.pl/regulation/1174",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -685,11 +692,12 @@
         "location": "Rawicz - Dębno - leśniczówka",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://bock.wzss.pl",
         "competitions": [
             {
                 "date": "22 lut 2026",
                 "name": "XII zimowe zawody - Puchar Prezesa BOCK",
+                "regulation_link": "https://bock.wzss.pl/regulation/1259",
                 "weapons": [
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
