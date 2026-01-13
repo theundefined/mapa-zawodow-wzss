@@ -670,24 +670,6 @@
         ]
     },
     {
-        "club": "TARCZA Szamotuły",
-        "location": "Strzelnica klubowa w Mutowie",
-        "latitude": 52.638221868887385,
-        "longitude": 16.58586710625372,
-        "website": "https://tarcza-szamotuly.wzss.pl",
-        "competitions": [
-            {
-                "date": "22 lut 2026",
-                "name": "Karabin centralnego zapłon, snajper i mini snajper – 100m",
-                "regulation_link": "https://tarcza-szamotuly.wzss.pl/regulation/1186",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "BOCK Rawicz",
         "location": "Rawicz - Dębno - leśniczówka",
         "latitude": null,
@@ -700,6 +682,24 @@
                 "regulation_link": "https://bock.wzss.pl/regulation/1259",
                 "weapons": [
                     "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "TARCZA Szamotuły",
+        "location": "Strzelnica klubowa w Mutowie",
+        "latitude": 52.638221868887385,
+        "longitude": 16.58586710625372,
+        "website": "https://tarcza-szamotuly.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "Karabin centralnego zapłon, snajper i mini snajper – 100m",
+                "regulation_link": "https://tarcza-szamotuly.wzss.pl/regulation/1186",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -740,6 +740,25 @@
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 mar 2026",
+                "name": "Święto Kobiet206",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             }
         ]
