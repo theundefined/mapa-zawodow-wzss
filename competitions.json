@@ -68,7 +68,17 @@
                 ]
             },
             {
-                "date": "13 - 14 lut 2026",
+                "date": "14 lut 2026",
+                "name": "Puchar Zimy",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1268",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 - 28 lut 2026",
                 "name": "I Runda Pucharu WKS Grunwald 2026",
                 "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1266",
                 "weapons": [
@@ -488,7 +498,6 @@
             {
                 "date": "18 kwi 2026",
                 "name": "Bitwa pod Racławicami",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1145",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
@@ -497,7 +506,6 @@
             {
                 "date": "26 - 28 cze 2026",
                 "name": "Mistrzostwa Europy",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1205",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -518,7 +526,6 @@
             {
                 "date": "12 wrz 2026",
                 "name": "Bitwa pod Beresteczkiem",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1149",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
@@ -527,7 +534,6 @@
             {
                 "date": "10 paź 2026",
                 "name": "Bitwa pod Wiedniem",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1203",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -548,7 +554,6 @@
             {
                 "date": "28 lis 2026",
                 "name": "Memoriał Mariusza Koziarskiego",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1204",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -670,24 +675,6 @@
         ]
     },
     {
-        "club": "BOCK Rawicz",
-        "location": "Rawicz - Dębno - leśniczówka",
-        "latitude": null,
-        "longitude": null,
-        "website": "https://bock.wzss.pl",
-        "competitions": [
-            {
-                "date": "22 lut 2026",
-                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
-                "regulation_link": "https://bock.wzss.pl/regulation/1259",
-                "weapons": [
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "TARCZA Szamotuły",
         "location": "Strzelnica klubowa w Mutowie",
         "latitude": 52.638221868887385,
@@ -706,6 +693,24 @@
         ]
     },
     {
+        "club": "BOCK Rawicz",
+        "location": "Rawicz - Dębno - leśniczówka",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bock.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
+                "regulation_link": "https://bock.wzss.pl/regulation/1259",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa „Klara”",
         "latitude": 51.7611567,
@@ -715,7 +720,6 @@
             {
                 "date": "27 lut - 1 mar 2026",
                 "name": "KLARA IPSC HG + PCC - L1",
-                "regulation_link": "https://guardians.wzss.pl/regulation/1230",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -745,6 +749,24 @@
         ]
     },
     {
+        "club": "BOCK Rawicz",
+        "location": "Hala Sportowa w Sierakowie",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bock.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 mar 2026",
+                "name": "Mistrzostwa Wielkopolski",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            }
+        ]
+    },
+    {
         "club": "BELLONA Kalisz",
         "location": "",
         "latitude": null,
@@ -753,7 +775,7 @@
         "competitions": [
             {
                 "date": "7 mar 2026",
-                "name": "Święto Kobiet206",
+                "name": "Święto Kobiet 2026",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -806,6 +828,26 @@
         ]
     },
     {
+        "club": "BOCK Rawicz",
+        "location": "Strzelnica OSiR i myśliwska",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bock.wzss.pl",
+        "competitions": [
+            {
+                "date": "14 - 15 mar 2026",
+                "name": "Powitanie Wiosny",
+                "regulation_link": "https://bock.wzss.pl/regulation/1270",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "IC Piła",
         "location": "Hubertus - Studzieniec 28a",
         "latitude": 53.0077681,
@@ -829,7 +871,7 @@
         "location": "Robaczyn",
         "latitude": 51.99254,
         "longitude": 16.55936,
-        "website": "",
+        "website": "https://lesna.wzss.pl",
         "competitions": [
             {
                 "date": "21 mar 2026",
@@ -864,6 +906,7 @@
             {
                 "date": "12 gru 2026",
                 "name": "Puchar Prezesa KS LESNA Leszno Runda 4",
+                "regulation_link": "https://lesna.wzss.pl/regulation/1227",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -918,6 +961,33 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "ul. Kaliska 87 - strzelnica LOK",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "28 mar 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.1/3",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
+                ]
+            },
+            {
+                "date": "30 maj 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.3/3",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             }
         ]
@@ -1051,6 +1121,58 @@
         ]
     },
     {
+        "club": "BOCK Rawicz",
+        "location": "Rawicz Leśniczówka",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bock.wzss.pl",
+        "competitions": [
+            {
+                "date": "17 - 19 kwi 2026",
+                "name": "II Runda Pucharu Polski",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Strzelnica LEONHARD - Radziwiłów k/Gorzyce Wielkie",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "18 kwi 2026",
+                "name": "MITYNG Broni Kolekcjonerskiej i Małokalibrowej",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna i Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Sportowa LOK - ul.  Kaliska 87",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "25 kwi 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
+                "weapons": [
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
+                ]
+            }
+        ]
+    },
+    {
         "club": "PKS Piła",
         "location": "HUBERTUS Studzieniec 28A",
         "latitude": 53.0077681,
@@ -1178,6 +1300,25 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Strzelnica sportowa JÓŹWIAK -  Nowolipsk 59",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://bellona.wzss.pl",
+        "competitions": [
+            {
+                "date": "9 maj 2026",
+                "name": "DZIEŃ FLAGI RP 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna i Dynamiczna",
+                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
