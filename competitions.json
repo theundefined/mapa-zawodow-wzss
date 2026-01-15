@@ -563,6 +563,65 @@
         ]
     },
     {
+        "club": "MAGNUM Poznań",
+        "location": "Strzelnica Magnum, Poznań ul. Witosa 45",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "11 lut 2026",
+                "name": "Zawody Walentynkowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "7 mar 2026",
+                "name": "Zawody na Dzień Kobiet i Mężczyzn",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "1 kwi 2026",
+                "name": "Zawody Wielkanocne",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 maj 2026",
+                "name": "Majówka Strzelecka",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 cze 2026",
+                "name": "Powitanie Lata",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "BELLONA Kalisz",
         "location": "Strzelnica KLARA, Sobótka 3A, 63-450 Ostrów Wlkp",
         "latitude": 51.7611567,
@@ -768,7 +827,7 @@
     },
     {
         "club": "BELLONA Kalisz",
-        "location": "",
+        "location": "Strzelnica JÓŹWIAK, Nowolipsk 59 gm. Chocz",
         "latitude": null,
         "longitude": null,
         "website": "https://bellona.wzss.pl",
@@ -967,7 +1026,7 @@
     },
     {
         "club": "BELLONA Kalisz",
-        "location": "ul. Kaliska 87 - strzelnica LOK",
+        "location": "Ostrów Wlkp ul. Kaliska 87 - strzelnica LOK",
         "latitude": null,
         "longitude": null,
         "website": "https://bellona.wzss.pl",
@@ -978,6 +1037,13 @@
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
+                ]
+            },
+            {
+                "date": "25 kwi 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
+                "weapons": [
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             },
@@ -1139,7 +1205,7 @@
     },
     {
         "club": "BELLONA Kalisz",
-        "location": "Strzelnica LEONHARD - Radziwiłów k/Gorzyce Wielkie",
+        "location": "Strzelnica LEONHARD - Radziwiłłów k/Gorzyce Wielkie",
         "latitude": null,
         "longitude": null,
         "website": "https://bellona.wzss.pl",
@@ -1152,22 +1218,6 @@
                     "Pistolet:\n                                                    Statyczna i Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
-        "club": "BELLONA Kalisz",
-        "location": "Sportowa LOK - ul.  Kaliska 87",
-        "latitude": null,
-        "longitude": null,
-        "website": "https://bellona.wzss.pl",
-        "competitions": [
-            {
-                "date": "25 kwi 2026",
-                "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
-                "weapons": [
-                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             }
         ]
