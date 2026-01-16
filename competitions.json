@@ -424,14 +424,25 @@
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
                 ]
+            },
+            {
+                "date": "15 lut 2026",
+                "name": "Puchar Prezesa ZR",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1282",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
             }
         ]
     },
     {
         "club": "BOCK Rawicz",
-        "location": "Strzelnica sportowa OSIR -Rawicz ul. Leśna",
-        "latitude": 51.616667,
-        "longitude": 17.0,
+        "location": "Rawicz-Sierakowo",
+        "latitude": null,
+        "longitude": null,
         "website": "https://bock.wzss.pl",
         "competitions": [
             {
@@ -567,11 +578,12 @@
         "location": "Strzelnica Magnum, Poznań ul. Witosa 45",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://magnum.wzss.pl",
         "competitions": [
             {
                 "date": "11 lut 2026",
                 "name": "Zawody Walentynkowe",
+                "regulation_link": "https://magnum.wzss.pl/regulation/1277",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -582,6 +594,7 @@
             {
                 "date": "7 mar 2026",
                 "name": "Zawody na Dzień Kobiet i Mężczyzn",
+                "regulation_link": "https://magnum.wzss.pl/regulation/1278",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -592,6 +605,7 @@
             {
                 "date": "1 kwi 2026",
                 "name": "Zawody Wielkanocne",
+                "regulation_link": "https://magnum.wzss.pl/regulation/1279",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -602,6 +616,7 @@
             {
                 "date": "6 maj 2026",
                 "name": "Majówka Strzelecka",
+                "regulation_link": "https://magnum.wzss.pl/regulation/1280",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -612,6 +627,7 @@
             {
                 "date": "20 cze 2026",
                 "name": "Powitanie Lata",
+                "regulation_link": "https://magnum.wzss.pl/regulation/1281",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -753,7 +769,7 @@
     },
     {
         "club": "BOCK Rawicz",
-        "location": "Rawicz - Dębno - leśniczówka",
+        "location": "Rawicz-leśniczówka",
         "latitude": null,
         "longitude": null,
         "website": "https://bock.wzss.pl",
@@ -803,24 +819,6 @@
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
-        "club": "BOCK Rawicz",
-        "location": "Hala Sportowa w Sierakowie",
-        "latitude": null,
-        "longitude": null,
-        "website": "https://bock.wzss.pl",
-        "competitions": [
-            {
-                "date": "7 mar 2026",
-                "name": "Mistrzostwa Wielkopolski",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
                 ]
             }
         ]
@@ -888,7 +886,7 @@
     },
     {
         "club": "BOCK Rawicz",
-        "location": "Strzelnica OSiR i myśliwska",
+        "location": "Rawicz-Sierakowo, Rawicz-leśniczówka",
         "latitude": null,
         "longitude": null,
         "website": "https://bock.wzss.pl",
@@ -897,6 +895,39 @@
                 "date": "14 - 15 mar 2026",
                 "name": "Powitanie Wiosny",
                 "regulation_link": "https://bock.wzss.pl/regulation/1270",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 - 7 cze 2026",
+                "name": "Grand Prix Rawicza",
+                "regulation_link": "https://bock.wzss.pl/regulation/1284",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 - 18 paź 2026",
+                "name": "Mistrzostwa Klubu Bock",
+                "regulation_link": "https://bock.wzss.pl/regulation/1285",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 - 6 gru 2026",
+                "name": "Zawody Mikołajkowe",
+                "regulation_link": "https://bock.wzss.pl/regulation/1286",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -935,6 +966,7 @@
             {
                 "date": "21 mar 2026",
                 "name": "Puchar Prezesa KS LESNA Leszno Runda 1",
+                "regulation_link": "https://lesna.wzss.pl/regulation/1224",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -945,6 +977,7 @@
             {
                 "date": "6 cze 2026",
                 "name": "Puchar Prezesa KS LESNA Leszno Runda 2",
+                "regulation_link": "https://lesna.wzss.pl/regulation/1225",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -955,6 +988,7 @@
             {
                 "date": "12 wrz 2026",
                 "name": "Puchar Prezesa KS LESNA Leszno Runda 3",
+                "regulation_link": "https://lesna.wzss.pl/regulation/1226",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -1180,23 +1214,6 @@
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
-        "club": "BOCK Rawicz",
-        "location": "Rawicz Leśniczówka",
-        "latitude": null,
-        "longitude": null,
-        "website": "https://bock.wzss.pl",
-        "competitions": [
-            {
-                "date": "17 - 19 kwi 2026",
-                "name": "II Runda Pucharu Polski",
-                "weapons": [
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
