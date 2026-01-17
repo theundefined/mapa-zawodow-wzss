@@ -1201,6 +1201,70 @@
         ]
     },
     {
+        "club": "NIECZAJNA Złotniki",
+        "location": "Strzelnica Nieczajna",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://nieczajna.wzss.pl",
+        "competitions": [
+            {
+                "date": "11 kwi 2026",
+                "name": "Turniej Wiosenny KSK Nieczajna",
+                "regulation_link": "https://nieczajna.wzss.pl/regulation/1287",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 cze 2026",
+                "name": "Turniej Wakacyjny KSK Nieczajna",
+                "regulation_link": "https://nieczajna.wzss.pl/regulation/1289",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "8 sie 2026",
+                "name": "Turniej Letni KSK Nieczajna",
+                "regulation_link": "https://nieczajna.wzss.pl/regulation/1290",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "26 wrz 2026",
+                "name": "Turniej Jesienny KSK Nieczajna",
+                "regulation_link": "https://nieczajna.wzss.pl/regulation/1292",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "14 lis 2026",
+                "name": "Turniej Zimowy KSK Nieczajna",
+                "regulation_link": "https://nieczajna.wzss.pl/regulation/1293",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "WOLF PACK Szamotuły",
         "location": "DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI",
         "latitude": 52.68416,
