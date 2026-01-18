@@ -225,6 +225,145 @@ def main():
 
         save_competitions_json(final_competitions)
         update_locations_csv(all_locations, locations_data, locations_competitions)
+        save_calendars(final_competitions)
+
+
+def generate_slug(text: str) -> str:
+    """Generates a URL-safe slug from text."""
+    # Transliterate Polish chars manually for simplicity if needed, or just let regex handle it
+    # Ideally we'd use unidecode but let's stick to stdlib
+    replacements = {
+        'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
+        'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N', 'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z'
+    }
+    for k, v in replacements.items():
+        text = text.replace(k, v)
+    
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9]+', '_', text)
+    return text.strip('_')
+
+
+def parse_date_range_for_ics(date_str: str) -> Optional[Tuple[str, str]]:
+    """Parses date string like '10 sty 2026' or '27 - 28 lut 2026' into YYYYMMDD strings."""
+    months = {
+        'sty': 1, 'lut': 2, 'mar': 3, 'kwi': 4, 'maj': 5, 'cze': 6,
+        'lip': 7, 'sie': 8, 'wrz': 9, 'paź': 10, 'lis': 11, 'gru': 12
+    }
+    
+    try:
+        # Find year
+        year_match = re.search(r'(\d{4})', date_str)
+        year = int(year_match.group(1)) if year_match else 2026 # Fallback
+        
+        # Find month
+        month = 0
+        for m_str, m_int in months.items():
+            if m_str in date_str.lower():
+                month = m_int
+                break
+        if month == 0: return None
+
+        # Find day(s)
+        # Check for range "27 - 28"
+        range_match = re.search(r'(\d+)\s*-\s*(\d+)', date_str)
+        if range_match:
+            start_day = int(range_match.group(1))
+            end_day = int(range_match.group(2))
+            
+            start_date = f"{year:04d}{month:02d}{start_day:02d}"
+            # ICS end date is exclusive, so we need end_day + 1
+            # Simple handling: assume same month. If end_day wraps month, logic is complex without datetime lib
+            # Using datetime to be safe
+            from datetime import date, timedelta
+            d_start = date(year, month, start_day)
+            d_end = date(year, month, end_day) + timedelta(days=1)
+            end_date = d_end.strftime("%Y%m%d")
+            
+            return start_date, end_date
+        else:
+            # Single day
+            day_match = re.search(r'^(\d+)', date_str)
+            if day_match:
+                day = int(day_match.group(1))
+                from datetime import date, timedelta
+                d_start = date(year, month, day)
+                d_end = d_start + timedelta(days=1)
+                return d_start.strftime("%Y%m%d"), d_end.strftime("%Y%m%d")
+                
+    except Exception as e:
+        print(f"Error parsing date '{date_str}': {e}")
+        return None
+    
+    return None
+
+
+def save_calendars(competitions_data: List[Dict[str, Any]]):
+    """Generates and saves ICS files for each club."""
+    calendars_dir = os.path.join(os.path.dirname(COMPETITIONS_JSON_FILE), "calendars")
+    os.makedirs(calendars_dir, exist_ok=True)
+    
+    # Group by club
+    clubs_data = {}
+    for entry in competitions_data:
+        club_name = entry['club']
+        if club_name not in clubs_data:
+            clubs_data[club_name] = {'competitions': [], 'location': entry['location']}
+        # Merge competitions
+        clubs_data[club_name]['competitions'].extend(entry['competitions'])
+
+    from datetime import datetime
+    now_str = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+
+    for club_name, data in clubs_data.items():
+        slug = generate_slug(club_name)
+        filepath = os.path.join(calendars_dir, f"{slug}.ics")
+        
+        ics_content = [
+            "BEGIN:VCALENDAR",
+            "VERSION:2.0",
+            "PRODID:-//WZSS//Mapa Zawodow//PL",
+            "CALSCALE:GREGORIAN",
+            "METHOD:PUBLISH",
+            f"X-WR-CALNAME:{club_name} - Zawody",
+            "REFRESH-INTERVAL;VALUE=DURATION:P1D" # Suggest daily refresh
+        ]
+        
+        for comp in data['competitions']:
+            dates = parse_date_range_for_ics(comp['date'])
+            if not dates:
+                continue
+                
+            start_date, end_date = dates
+            
+            # Clean weapons text
+            weapons_desc = ", ".join([w.replace('\n', ' ').strip() for w in comp.get('weapons', [])])
+            weapons_desc = re.sub(r'\s+', ' ', weapons_desc)
+            
+            description = f"Bronie: {weapons_desc}"
+            if comp.get('regulation_link'):
+                description += f"\\nRegulamin: {comp['regulation_link']}"
+            
+            uid = f"{start_date}-{generate_slug(comp['name'])}@wzss.map"
+            
+            ics_content.extend([
+                "BEGIN:VEVENT",
+                f"DTSTART;VALUE=DATE:{start_date}",
+                f"DTEND;VALUE=DATE:{end_date}",
+                f"DTSTAMP:{now_str}",
+                f"UID:{uid}",
+                f"SUMMARY:{comp['name']}",
+                f"DESCRIPTION:{description}",
+                f"LOCATION:{data['location']}",
+                "END:VEVENT"
+            ])
+            
+        ics_content.append("END:VCALENDAR")
+        
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write("\r\n".join(ics_content))
+            
+    print(f"Generated {len(clubs_data)} ICS calendars in {calendars_dir}")
 
 
 if __name__ == "__main__":

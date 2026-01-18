@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WOLF PACK Szamotuły - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+DTSTAMP:20260118T195537Z
+UID:20260412-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1169
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260118T195537Z
+UID:20260510-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1179
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DTSTAMP:20260118T195537Z
+UID:20260607-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1180
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+DTSTAMP:20260118T195537Z
+UID:20260712-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1181
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260118T195537Z
+UID:20260913-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1182
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260118T195537Z
+UID:20261011-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1183
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260118T195537Z
+UID:20261108-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1184
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260118T195537Z
+UID:20261227-otwarte_zawody_strzeleckie_wolf_pack@wzss.map
+SUMMARY:OTWARTE ZAWODY STRZELECKIE WOLF PACK
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://wolfpack.wzss.pl/regulation/1185
+LOCATION:DĄBRÓWKA LEŚNA, GAJOWA 5/4, 64-600 OBORNIKI
+END:VEVENT
+END:VCALENDAR

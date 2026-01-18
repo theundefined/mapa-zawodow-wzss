@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LESNA Leszno - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+DTSTAMP:20260118T195537Z
+UID:20260321-puchar_prezesa_ks_lesna_leszno_runda_1@wzss.map
+SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 1
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1224
+LOCATION:Robaczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DTSTAMP:20260118T195537Z
+UID:20260606-puchar_prezesa_ks_lesna_leszno_runda_2@wzss.map
+SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 2
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1225
+LOCATION:Robaczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260118T195537Z
+UID:20260912-puchar_prezesa_ks_lesna_leszno_runda_3@wzss.map
+SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 3
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1226
+LOCATION:Robaczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260118T195537Z
+UID:20261212-puchar_prezesa_ks_lesna_leszno_runda_4@wzss.map
+SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 4
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1227
+LOCATION:Robaczyn
+END:VEVENT
+END:VCALENDAR

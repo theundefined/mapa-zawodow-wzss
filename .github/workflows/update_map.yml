@@ -33,6 +33,8 @@ jobs:
       - name: Update map files
         run: |
           cp competitions.json docs/
+          mkdir -p docs/calendars
+          cp -r calendars/* docs/calendars/
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
