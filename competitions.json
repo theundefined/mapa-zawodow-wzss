@@ -795,6 +795,7 @@
             {
                 "date": "27 lut - 1 mar 2026",
                 "name": "KLARA IPSC HG + PCC - L1",
+                "regulation_link": "https://guardians.wzss.pl/regulation/1230",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1565,6 +1566,25 @@
             {
                 "date": "18 paź 2026",
                 "name": "Ku pamięci Bitwy Odolanowskiej 22 X 1945 Największej Wielkopolskiej  Potyczki Żołnierzy Niezłomnych",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "LBK Luboń",
+        "location": "Poznań ul Bałtycka 79",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://lbk.wzss.pl",
+        "competitions": [
+            {
+                "date": "29 sie 2026",
+                "name": "Turniej Rocznicowy",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
