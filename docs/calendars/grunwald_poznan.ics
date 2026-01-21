@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
-DTSTAMP:20260120T040434Z
+DTSTAMP:20260121T040344Z
 UID:20260110-rozpoczecie_sezonu_2026@wzss.map
 SUMMARY:Rozpoczęcie Sezonu 2026
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1177
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-DTSTAMP:20260120T040434Z
+DTSTAMP:20260121T040344Z
 UID:20260124-zawody_pistolet_wojskowy_i_pn@wzss.map
 SUMMARY:Zawody Pistolet Wojskowy I + PN
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1213
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-DTSTAMP:20260120T040434Z
+DTSTAMP:20260121T040344Z
 UID:20260131-zawody_pistolet_standard_i_pn@wzss.map
 SUMMARY:Zawody Pistolet Standard I + PN
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1252
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
-DTSTAMP:20260120T040434Z
+DTSTAMP:20260121T040344Z
 UID:20260214-puchar_zimy@wzss.map
 SUMMARY:Puchar Zimy
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1268
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260301
-DTSTAMP:20260120T040434Z
+DTSTAMP:20260121T040344Z
 UID:20260227-i_runda_pucharu_wks_grunwald_2026@wzss.map
 SUMMARY:I Runda Pucharu WKS Grunwald 2026
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1266
