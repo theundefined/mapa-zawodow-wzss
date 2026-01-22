@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-DTSTAMP:20260121T040344Z
+DTSTAMP:20260122T040626Z
 UID:20260125-puchar_wyzwolenia@wzss.map
 SUMMARY:Puchar wyzwolenia
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1223
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
-DTSTAMP:20260121T040344Z
+DTSTAMP:20260122T040626Z
 UID:20260215-puchar_prezesa_zr@wzss.map
 SUMMARY:Puchar Prezesa ZR
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1282

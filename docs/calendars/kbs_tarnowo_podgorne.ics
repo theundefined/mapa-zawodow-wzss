@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
-DTSTAMP:20260121T040344Z
+DTSTAMP:20260122T040626Z
 UID:20260110-otwarte_zawody_strzeleckie_rozpoczecie_sezonu@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Rozpoczęcie Sezonu”
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://kbs-tarnowo.wzss.pl/regulation/1232
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20260121T040344Z
+DTSTAMP:20260122T040626Z
 UID:20260201-otwarte_zawody_strzeleckie_zawody_rocznicowe@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Zawody Rocznicowe”
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://kbs-tarnowo.wzss.pl/regulation/1233
