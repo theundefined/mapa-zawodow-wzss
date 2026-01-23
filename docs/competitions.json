@@ -486,7 +486,7 @@
         "competitions": [
             {
                 "date": "7 lut 2026",
-                "name": "MGUN",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
                 "regulation_link": "https://defendu.wzss.pl/regulation/1148",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
@@ -1080,6 +1080,7 @@
             {
                 "date": "25 kwi 2026",
                 "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
+                "regulation_link": "https://bellona.wzss.pl/regulation/1273",
                 "weapons": [
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
