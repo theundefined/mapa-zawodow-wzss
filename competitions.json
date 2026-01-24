@@ -750,6 +750,51 @@
         ]
     },
     {
+        "club": "VIS Gostyń",
+        "location": "Gostyń, ul. Wrocławska 45 A",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "15 mar 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "15 lis 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 gru 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "TARCZA Szamotuły",
         "location": "Strzelnica klubowa w Mutowie",
         "latitude": 52.638221868887385,
@@ -819,6 +864,24 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "TARCZA Poznań",
+        "location": "Strzelnica NITRO os. Lipowe 16",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "6 - 8 mar 2026",
+                "name": "IV EDYCJA POZNAŃ FIVE STEEL O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -1206,6 +1269,65 @@
         ]
     },
     {
+        "club": "TARCZA Poznań",
+        "location": "Strzelnica NITRO Mościenica os. Lipowe 16",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "10 - 12 kwi 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 - 8 lis 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 - 22 lis 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 - 6 gru 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 - 30 gru 2026",
+                "name": "TURNIEJ ZALICZENIOWY OSTATNIEJ SZANSY (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "NIECZAJNA Złotniki",
         "location": "Strzelnica Nieczajna",
         "latitude": null,
@@ -1303,6 +1425,55 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna i Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "VIS Gostyń",
+        "location": "Strzelnica TRAP Krotoszyn, ul. Bolewskiego",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "19 kwi 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 maj 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "14 cze 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "13 wrz 2026",
+                "name": "Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -1547,6 +1718,49 @@
         ]
     },
     {
+        "club": "TARCZA Poznań",
+        "location": "Strzelnica NIECZAJNA 33",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "29 - 31 maj 2026",
+                "name": "LETNIA STRZELBA IPSC L.2 O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
+                "weapons": [
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "TARCZA Poznań",
+        "location": "Strzelnic NIECZAJNA 33",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "6 - 7 cze 2026",
+                "name": "MISTRZOSTWA WIELKOPOLSKI PISTOLET IPSC L.1 + PCC + MINI RIFLE",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "11 - 13 wrz 2026",
+                "name": "MISTRZOSTWA WIELKOPOLSKI STRZELBA IPSC L.2",
+                "weapons": [
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "BŁYSK Odolanów",
         "location": "Strzelnica Sportowa \"Jóźwiak\" Nowolipsk",
         "latitude": null,
@@ -1586,6 +1800,25 @@
                 "date": "29 sie 2026",
                 "name": "Turniej Rocznicowy",
                 "regulation_link": "https://lbk.wzss.pl/regulation/1294",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "VIS Gostyń",
+        "location": "Krzywiń, ul. Strzelecka 15",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "18 paź 2026",
+                "name": "Zawody Klubowe",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",

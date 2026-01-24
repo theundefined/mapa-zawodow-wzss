@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TARCZA Poznań - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260309
+DTSTAMP:20260124T035706Z
+UID:20260306-iv_edycja_poznan_five_steel_o_puchar_prezesa_wielkopolskiego_zwiazku_strzelectwa_sportowego@wzss.map
+SUMMARY:IV EDYCJA POZNAŃ FIVE STEEL O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260413
+DTSTAMP:20260124T035706Z
+UID:20260410-turniej_strzelecki_4_pistolety_2_karabiny_2_strzelby@wzss.map
+SUMMARY:TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260124T035706Z
+UID:20261106-turniej_strzelecki_4_pistolety_2_karabiny_2_strzelby@wzss.map
+SUMMARY:TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260124T035706Z
+UID:20261120-turniej_strzelecki_4_pistolety_2_karabiny_2_strzelby@wzss.map
+SUMMARY:TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20260124T035706Z
+UID:20261204-turniej_strzelecki_4_pistolety_2_karabiny_2_strzelby@wzss.map
+SUMMARY:TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260124T035706Z
+UID:20261228-turniej_zaliczeniowy_ostatniej_szansy_4_pistolety_2_karabiny_2_strzelby@wzss.map
+SUMMARY:TURNIEJ ZALICZENIOWY OSTATNIEJ SZANSY (4 Pistolety, 2 Karabiny, 2 Strzelby)
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20260124T035706Z
+UID:20260529-letnia_strzelba_ipsc_l_2_o_puchar_prezesa_wielkopolskiego_zwiazku_strzelectwa_sportowego@wzss.map
+SUMMARY:LETNIA STRZELBA IPSC L.2 O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO
+DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+DTSTAMP:20260124T035706Z
+UID:20260606-mistrzostwa_wielkopolski_pistolet_ipsc_l_1_pcc_mini_rifle@wzss.map
+SUMMARY:MISTRZOSTWA WIELKOPOLSKI PISTOLET IPSC L.1 + PCC + MINI RIFLE
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260124T035706Z
+UID:20260911-mistrzostwa_wielkopolski_strzelba_ipsc_l_2@wzss.map
+SUMMARY:MISTRZOSTWA WIELKOPOLSKI STRZELBA IPSC L.2
+DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open
+LOCATION:Strzelnica NITRO os. Lipowe 16
+END:VEVENT
+END:VCALENDAR

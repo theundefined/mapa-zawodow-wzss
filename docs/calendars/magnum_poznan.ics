@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260123T040233Z
+DTSTAMP:20260124T035706Z
 UID:20260211-zawody_walentynkowe@wzss.map
 SUMMARY:Zawody Walentynkowe
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1277
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260123T040233Z
+DTSTAMP:20260124T035706Z
 UID:20260307-zawody_na_dzien_kobiet_i_mezczyzn@wzss.map
 SUMMARY:Zawody na Dzień Kobiet i Mężczyzn
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1278
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260123T040233Z
+DTSTAMP:20260124T035706Z
 UID:20260401-zawody_wielkanocne@wzss.map
 SUMMARY:Zawody Wielkanocne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1279
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260123T040233Z
+DTSTAMP:20260124T035706Z
 UID:20260506-majowka_strzelecka@wzss.map
 SUMMARY:Majówka Strzelecka
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1280
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260123T040233Z
+DTSTAMP:20260124T035706Z
 UID:20260620-powitanie_lata@wzss.map
 SUMMARY:Powitanie Lata
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1281
