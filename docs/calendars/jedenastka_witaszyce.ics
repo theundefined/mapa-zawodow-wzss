@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260111-zimowe_strzaly@wzss.map
 SUMMARY:Zimowe Strzały
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1190
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260215-serca_na_tarczy@wzss.map
 SUMMARY:Serca na tarczy
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1191
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260314-wiosenne_przebudzenie_strzelcow@wzss.map
 SUMMARY:Wiosenne przebudzenie strzelców
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1192
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260418-kwiaty_i_strzaly@wzss.map
 SUMMARY:Kwiaty i strzały
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1193
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260502-bialo_czerwony_strzal@wzss.map
 SUMMARY:Biało-Czerwony strzał
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1194
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260627-wakacyjny_strzal@wzss.map
 SUMMARY:Wakacyjny strzał
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1195
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260822-wakacyjna_dogrywka@wzss.map
 SUMMARY:Wakacyjna dogrywka
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1196
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20260927-kampania_wrzesniowa@wzss.map
 SUMMARY:Kampania wrześniowa
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1197
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20261010-jesienny_wiatr_na_celowniku@wzss.map
 SUMMARY:Jesienny wiatr na celowniku
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1198
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20261114-andrzejkowe_strzaly@wzss.map
 SUMMARY:Andrzejkowe strzały
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1199
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260125T041115Z
+DTSTAMP:20260126T041344Z
 UID:20261205-zimowe_tarcze_mikolaja@wzss.map
 SUMMARY:Zimowe tarcze Mikołaja
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://jedenastka.wzss.pl/regulation/1200
