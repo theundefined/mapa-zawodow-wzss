@@ -1491,6 +1491,55 @@
         ]
     },
     {
+        "club": "7,62 Trzcianka",
+        "location": "Strzelnica Sarbka",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "19 kwi 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 maj 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 wrz 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "11 paź 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "PKS Piła",
         "location": "HUBERTUS Studzieniec 28A",
         "latitude": 53.0077681,

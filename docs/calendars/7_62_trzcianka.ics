@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:7,62 Trzcianka - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DTSTAMP:20260127T040439Z
+UID:20260419-cykl_otwartych_zawodow_wss_7_62@wzss.map
+SUMMARY:Cykl Otwartych Zawodów WSS 7.62
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+LOCATION:Strzelnica Sarbka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DTSTAMP:20260127T040439Z
+UID:20260517-cykl_otwartych_zawodow_wss_7_62@wzss.map
+SUMMARY:Cykl Otwartych Zawodów WSS 7.62
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+LOCATION:Strzelnica Sarbka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260127T040439Z
+UID:20260920-cykl_otwartych_zawodow_wss_7_62@wzss.map
+SUMMARY:Cykl Otwartych Zawodów WSS 7.62
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+LOCATION:Strzelnica Sarbka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260127T040439Z
+UID:20261011-cykl_otwartych_zawodow_wss_7_62@wzss.map
+SUMMARY:Cykl Otwartych Zawodów WSS 7.62
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+LOCATION:Strzelnica Sarbka
+END:VEVENT
+END:VCALENDAR
