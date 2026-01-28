@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260328-i_runda_pucharu_lbk@wzss.map
 SUMMARY:I Runda Pucharu LBK
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://lbk.wzss.pl/regulation/1214
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260516-ii_runda_pucharu_lbk@wzss.map
 SUMMARY:II Runda Pucharu LBK
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://lbk.wzss.pl/regulation/1215
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20261024-iii_runda_pucharu_lbk@wzss.map
 SUMMARY:III Runda Pucharu LBK
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://lbk.wzss.pl/regulation/1216
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20261128-iv_runda_pucharu_lbk@wzss.map
 SUMMARY:IV Runda Pucharu LBK
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://lbk.wzss.pl/regulation/1217
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260829-turniej_rocznicowy@wzss.map
 SUMMARY:Turniej Rocznicowy
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lbk.wzss.pl/regulation/1294

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260110-zawody_margonin_2026@wzss.map
 SUMMARY:Zawody Margonin 2026
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nss.wzss.pl/regulation/1229

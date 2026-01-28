@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260321-puchar_prezesa_ks_lesna_leszno_runda_1@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 1
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1224
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260606-puchar_prezesa_ks_lesna_leszno_runda_2@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 2
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1225
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20260912-puchar_prezesa_ks_lesna_leszno_runda_3@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 3
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1226
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260127T040439Z
+DTSTAMP:20260128T040410Z
 UID:20261212-puchar_prezesa_ks_lesna_leszno_runda_4@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 4
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://lesna.wzss.pl/regulation/1227
