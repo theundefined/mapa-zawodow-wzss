@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 DTEND;VALUE=DATE:20260119
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260118-trophy_ryngraf_sw_sebastiana_zawody_odbywaja_sie_w_cyklu_brackie@wzss.map
 SUMMARY:trophy
     
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260215-trophy_ryngraf_sw_sebastiana_test_zawody_odbywaja_sie_w_cyklu_brackie@wzss.map
 SUMMARY:trophy
     
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260315-trophy_otwarte_zawody_strzeleckie_wiosna_w_opalenicy_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260412-trophy_otwarte_zawody_strzeleckie_mistrzostwa_kbs_opalenica_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260517-trophy_otwarte_zawody_strzeleckie_mistrzostwa_druzynowe_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260614-trophy_otwarte_zawody_strzeleckie_puchar_prezesa_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260809-trophy_otwarte_zawody_strzeleckie_lato_w_opalenicy_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -155,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260906-trophy_otwarte_zawody_strzeleckie_kampania_wrzesniowa_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261004-trophy_otwarte_zawody_strzeleckie_zlota_jesien_w_opalenicy_zawody_odbywaja_sie_w_cyklu_spotowe@wzss.map
 SUMMARY:trophy
     
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261018-jesien_w_opalenicy@wzss.map
 SUMMARY:Jesień w Opalenicy
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://kbs-opalenica.wzss.pl/regulation/1166
@@ -206,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261108-otwarte_zawody_strzeleckie_memorial_andrzeja_szuminskiego@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Memoriał Andrzeja Szumińskiego”
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://kbs-opalenica.wzss.pl/regulation/1167
@@ -215,7 +215,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261206-otwarte_zawody_strzeleckie_gwiazdorskie_strzelanie@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Gwiazdorskie Strzelanie”
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://kbs-opalenica.wzss.pl/regulation/1168

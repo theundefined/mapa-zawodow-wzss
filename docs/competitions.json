@@ -460,6 +460,7 @@
             {
                 "date": "5 kwi 2026",
                 "name": "Dynamiczno Historyczne",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1324",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -470,6 +471,7 @@
             {
                 "date": "19 kwi 2026",
                 "name": "Mistrzostwa Klubu",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1325",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -480,6 +482,7 @@
             {
                 "date": "1 maj 2026",
                 "name": "Puchar Konstytucji",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1326",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -490,6 +493,7 @@
             {
                 "date": "7 cze 2026",
                 "name": "Weteranów KŻR",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1327",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -500,6 +504,7 @@
             {
                 "date": "21 cze 2026",
                 "name": "Puchar Pleszewa",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1328",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -510,6 +515,7 @@
             {
                 "date": "28 cze 2026",
                 "name": "Piknik strzelecki Puchar PL",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1329",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -520,6 +526,7 @@
             {
                 "date": "12 lip 2026",
                 "name": "Puchar Bila",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1330",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -530,6 +537,7 @@
             {
                 "date": "26 lip 2026",
                 "name": "KŻR BIL INDYWIDUALNE KLUBOWE",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1331",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -540,6 +548,7 @@
             {
                 "date": "9 sie 2026",
                 "name": "Puchar Starosty",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1332",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -550,6 +559,7 @@
             {
                 "date": "23 sie 2026",
                 "name": "Memoriał Prezesa Jacka Przepierskiego",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1333",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -560,6 +570,7 @@
             {
                 "date": "6 wrz 2026",
                 "name": "Kubeł karczemki",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1334",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -570,6 +581,7 @@
             {
                 "date": "20 wrz 2026",
                 "name": "Puchar Burmistrza Pleszewa",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1335",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -580,6 +592,7 @@
             {
                 "date": "4 paź 2026",
                 "name": "Jesień snajpera",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1336",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -590,6 +603,7 @@
             {
                 "date": "18 paź 2026",
                 "name": "Puchar jesienny",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1337",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -600,6 +614,7 @@
             {
                 "date": "8 lis 2026",
                 "name": "Puchar niepodległości",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1338",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -610,6 +625,7 @@
             {
                 "date": "6 gru 2026",
                 "name": "Puchar Barbórki",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1339",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -620,6 +636,7 @@
             {
                 "date": "31 gru 2026",
                 "name": "Zawody sylwestrowe",
+                "regulation_link": "https://gilza.wzss.pl/regulation/1340",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -659,6 +676,26 @@
                 "date": "1 lut 2026",
                 "name": "Zawody Toruńskie",
                 "regulation_link": "https://amarant.wzss.pl/regulation/1236",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "NSS Czarnków",
+        "location": "Strzelnica Kurkowego Bractwa Strzeleckiego Margonin",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://nss.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 lut 2026",
+                "name": "ZAWODY LUTOWE",
+                "regulation_link": "https://nss.wzss.pl/regulation/1341",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -843,6 +880,24 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WLKS GRUNWALD Poznań",
+        "location": "KS Magnum ul. Witosa 45",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "16 lut 2026",
+                "name": "Walczymy o Licencje na 2027 rok",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -1260,6 +1315,25 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa ,,Jóźwiak\", Nowolipsk 59, 63-313 Chocz",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://guardians.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 mar 2026",
+                "name": "Przywitanie Wiosny",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -1810,33 +1884,47 @@
         "location": "Sarbka 52 64-700 Czarnków",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://nalecz.wzss.pl",
         "competitions": [
             {
                 "date": "26 kwi 2026",
                 "name": "Zawody Inauguracyjne",
+                "regulation_link": "https://nalecz.wzss.pl/regulation/1317",
                 "weapons": [
-                    "Karabin:\n                                                    Statyczna i Dynamiczna",
+                    "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             },
             {
                 "date": "10 maj 2026",
                 "name": "Czarnkowska Majówka",
+                "regulation_link": "https://nalecz.wzss.pl/regulation/1318",
                 "weapons": [
-                    "Karabin:\n                                                    Statyczna i Dynamiczna",
+                    "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             },
             {
                 "date": "14 cze 2026",
                 "name": "Lato w lesie",
+                "regulation_link": "https://nalecz.wzss.pl/regulation/1319",
                 "weapons": [
-                    "Karabin:\n                                                    Statyczna i Dynamiczna",
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 paź 2026",
+                "name": "Zawody jesienne",
+                "regulation_link": "https://nalecz.wzss.pl/regulation/1322",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
@@ -2093,15 +2181,16 @@
         "location": "Sarbka 52  64-700 Czarnków",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://nalecz.wzss.pl",
         "competitions": [
             {
                 "date": "13 wrz 2026",
                 "name": "Zawody dożynkowe",
+                "regulation_link": "https://nalecz.wzss.pl/regulation/1321",
                 "weapons": [
-                    "Karabin:\n                                                    Statyczna i Dynamiczna",
+                    "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
+                    "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -2121,25 +2210,6 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
-        "club": "NAŁĘCZ Czarnków",
-        "location": "Sarbka 52 64-700 Czarnkóe",
-        "latitude": null,
-        "longitude": null,
-        "website": "",
-        "competitions": [
-            {
-                "date": "18 paź 2026",
-                "name": "Zawody jesienne",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna i Dynamiczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna i Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }

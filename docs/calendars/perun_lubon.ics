@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260221-otwarte_zawody_klubowe_1@wzss.map
 SUMMARY:Otwarte Zawody Klubowe #1
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1154
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260327-zawody_w_strone_slonca_wg_steel_challenge_1@wzss.map
 SUMMARY:Zawody "W stronę słońca" wg Steel Challenge #1
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1157
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260424-zawody_w_strone_slonca_wg_steel_challenge_2@wzss.map
 SUMMARY:Zawody "W stronę słońca" wg Steel Challenge #2
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1170
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260612-zawody_w_strone_slonca_wg_steel_challenge_3@wzss.map
 SUMMARY:Zawody "W stronę słońca" wg Steel Challenge #3
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1171
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260904-zawody_w_strone_slonca_wg_steel_challenge_4@wzss.map
 SUMMARY:Zawody "W stronę słońca" wg Steel Challenge #4
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1172
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260919-otwarte_zawody_klubowe_2@wzss.map
 SUMMARY:Otwarte Zawody Klubowe #2
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1155
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261016-zawody_w_strone_slonca_wg_steel_challenge_5_final@wzss.map
 SUMMARY:Zawody "W stronę słońca" wg Steel Challenge #5 FINAŁ
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1174
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261128-otwarte_zawody_klubowe_3@wzss.map
 SUMMARY:Otwarte Zawody Klubowe #3
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://perun.wzss.pl/regulation/1156

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260411-turniej_wiosenny_ksk_nieczajna@wzss.map
 SUMMARY:Turniej Wiosenny KSK Nieczajna
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nieczajna.wzss.pl/regulation/1287
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260620-turniej_wakacyjny_ksk_nieczajna@wzss.map
 SUMMARY:Turniej Wakacyjny KSK Nieczajna
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nieczajna.wzss.pl/regulation/1289
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260808-turniej_letni_ksk_nieczajna@wzss.map
 SUMMARY:Turniej Letni KSK Nieczajna
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nieczajna.wzss.pl/regulation/1290
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20260926-turniej_jesienny_ksk_nieczajna@wzss.map
 SUMMARY:Turniej Jesienny KSK Nieczajna
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nieczajna.wzss.pl/regulation/1292
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260129T042446Z
+DTSTAMP:20260130T042704Z
 UID:20261114-turniej_zimowy_ksk_nieczajna@wzss.map
 SUMMARY:Turniej Zimowy KSK Nieczajna
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nieczajna.wzss.pl/regulation/1293
