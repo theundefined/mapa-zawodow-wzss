@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260130T042704Z
+DTSTAMP:20260131T042234Z
 UID:20260705-ku_pamieci_bitwy_kluszynskiej_4_vii_1610@wzss.map
 SUMMARY:Ku pamięci Bitwy Kłuszyńskiej 4 VII 1610
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260130T042704Z
+DTSTAMP:20260131T042234Z
 UID:20261018-ku_pamieci_bitwy_odolanowskiej_22_x_1945_najwiekszej_wielkopolskiej_potyczki_zolnierzy_niezlomnych@wzss.map
 SUMMARY:Ku pamięci Bitwy Odolanowskiej 22 X 1945 Największej Wielkopolskiej  Potyczki Żołnierzy Niezłomnych
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open

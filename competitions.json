@@ -706,102 +706,6 @@
         ]
     },
     {
-        "club": "DEFENDU Poznań",
-        "location": "Hive, Młyńska, Józefowo",
-        "latitude": 52.4508,
-        "longitude": 16.2081,
-        "website": "https://defendu.wzss.pl",
-        "competitions": [
-            {
-                "date": "7 lut 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1148",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "21 mar 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1189",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "18 kwi 2026",
-                "name": "Bitwa pod Racławicami",
-                "weapons": [
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "26 - 28 cze 2026",
-                "name": "Mistrzostwa Europy",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "18 lip 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1201",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "12 wrz 2026",
-                "name": "Bitwa pod Beresteczkiem",
-                "weapons": [
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "10 paź 2026",
-                "name": "Bitwa pod Wiedniem",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "7 lis 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
-                "regulation_link": "https://defendu.wzss.pl/regulation/1202",
-                "weapons": [
-                    "Karabin:\n                                                    Statyczna",
-                    "Pistolet:\n                                                    Statyczna",
-                    "Strzelba:\n                                                    Statyczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "28 lis 2026",
-                "name": "Memoriał Mariusza Koziarskiego",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "MAGNUM Poznań",
         "location": "Strzelnica Magnum, Poznań ul. Witosa 45",
         "latitude": null,
@@ -890,11 +794,12 @@
         "location": "KS Magnum ul. Witosa 45",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://wlks-grunwald.wzss.pl",
         "competitions": [
             {
                 "date": "16 lut 2026",
                 "name": "Walczymy o Licencje na 2027 rok",
+                "regulation_link": "https://wlks-grunwald.wzss.pl/regulation/1343",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -1154,6 +1059,102 @@
         ]
     },
     {
+        "club": "DEFENDU Poznań",
+        "location": "Hive, Młyńska, Józefowo",
+        "latitude": 52.4508,
+        "longitude": 16.2081,
+        "website": "https://defendu.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 mar 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1148",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 kwi 2026",
+                "name": "Bitwa pod Racławicami",
+                "weapons": [
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "26 - 28 cze 2026",
+                "name": "Mistrzostwa Europy",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 lip 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1201",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "22 sie 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1189",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 wrz 2026",
+                "name": "Bitwa pod Beresteczkiem",
+                "weapons": [
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "name": "Bitwa pod Wiedniem",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "7 lis 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                \n                                                                    MGUN 2026\n                                                                )",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1202",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "Memoriał Mariusza Koziarskiego",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "FORT Słupca",
         "location": "Gajowa 1, 62-400 Słupca",
         "latitude": 51.0951816,
@@ -1239,6 +1240,35 @@
                 "date": "5 - 6 gru 2026",
                 "name": "Zawody Mikołajkowe",
                 "regulation_link": "https://bock.wzss.pl/regulation/1286",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "KBS Śrem",
+        "location": "ŚREM ZAMENHOFA 5",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "14 mar 2026",
+                "name": "ZAWODY KLUBOWE",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 paź 2026",
+                "name": "ZAWODY KLUBOWE",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
