@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20260216-walczymy_o_licencje_na_2027_rok@wzss.map
 SUMMARY:Walczymy o Licencje na 2027 rok
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wlks-grunwald.wzss.pl/regulation/1343

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20260426-zawody_inauguracyjne@wzss.map
 SUMMARY:Zawody Inauguracyjne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nalecz.wzss.pl/regulation/1317
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20260510-czarnkowska_majowka@wzss.map
 SUMMARY:Czarnkowska Majówka
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nalecz.wzss.pl/regulation/1318
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20260614-lato_w_lesie@wzss.map
 SUMMARY:Lato w lesie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nalecz.wzss.pl/regulation/1319
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20261018-zawody_jesienne@wzss.map
 SUMMARY:Zawody jesienne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nalecz.wzss.pl/regulation/1322
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260131T042234Z
+DTSTAMP:20260201T045713Z
 UID:20260913-zawody_dozynkowe@wzss.map
 SUMMARY:Zawody dożynkowe
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://nalecz.wzss.pl/regulation/1321
