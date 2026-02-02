@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260125-puchar_wyzwolenia@wzss.map
 SUMMARY:Puchar wyzwolenia
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1223
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260215-puchar_prezesa_zr@wzss.map
 SUMMARY:Puchar Prezesa ZR
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1282
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260315-otwarcie_sezonu_kulowego@wzss.map
 SUMMARY:Otwarcie Sezonu Kulowego
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260405-dynamiczno_historyczne@wzss.map
 SUMMARY:Dynamiczno Historyczne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1324
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260419-mistrzostwa_klubu@wzss.map
 SUMMARY:Mistrzostwa Klubu
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1325
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260501-puchar_konstytucji@wzss.map
 SUMMARY:Puchar Konstytucji
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1326
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260607-weteranow_kzr@wzss.map
 SUMMARY:Weteranów KŻR
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1327
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260621-puchar_pleszewa@wzss.map
 SUMMARY:Puchar Pleszewa
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1328
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260628-piknik_strzelecki_puchar_pl@wzss.map
 SUMMARY:Piknik strzelecki Puchar PL
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1329
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260712-puchar_bila@wzss.map
 SUMMARY:Puchar Bila
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1330
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260726-kzr_bil_indywidualne_klubowe@wzss.map
 SUMMARY:KŻR BIL INDYWIDUALNE KLUBOWE
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1331
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260809-puchar_starosty@wzss.map
 SUMMARY:Puchar Starosty
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1332
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260823-memorial_prezesa_jacka_przepierskiego@wzss.map
 SUMMARY:Memoriał Prezesa Jacka Przepierskiego
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1333
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260906-kubel_karczemki@wzss.map
 SUMMARY:Kubeł karczemki
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1334
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20260920-puchar_burmistrza_pleszewa@wzss.map
 SUMMARY:Puchar Burmistrza Pleszewa
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1335
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20261004-jesien_snajpera@wzss.map
 SUMMARY:Jesień snajpera
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1336
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20261018-puchar_jesienny@wzss.map
 SUMMARY:Puchar jesienny
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1337
@@ -161,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20261108-puchar_niepodleglosci@wzss.map
 SUMMARY:Puchar niepodległości
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1338
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20261206-puchar_barborki@wzss.map
 SUMMARY:Puchar Barbórki
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1339
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260201T045713Z
+DTSTAMP:20260202T045316Z
 UID:20261231-zawody_sylwestrowe@wzss.map
 SUMMARY:Zawody sylwestrowe
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy\nRegulamin: https://gilza.wzss.pl/regulation/1340
