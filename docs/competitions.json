@@ -1014,11 +1014,12 @@
         "location": "Strzelnica NITRO os. Lipowe 16",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://tarcza-poznan.wzss.pl",
         "competitions": [
             {
                 "date": "6 - 8 mar 2026",
                 "name": "IV EDYCJA POZNAŃ FIVE STEEL O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
+                "regulation_link": "https://tarcza-poznan.wzss.pl/regulation/1295",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1068,6 +1069,7 @@
             {
                 "date": "18 kwi 2026",
                 "name": "Bitwa pod Racławicami",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1145",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
@@ -1076,6 +1078,7 @@
             {
                 "date": "26 - 28 cze 2026",
                 "name": "Mistrzostwa Europy",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1205",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1107,6 +1110,7 @@
             {
                 "date": "12 wrz 2026",
                 "name": "Bitwa pod Beresteczkiem",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1149",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
@@ -1115,6 +1119,7 @@
             {
                 "date": "10 paź 2026",
                 "name": "Bitwa pod Wiedniem",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1203",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1135,6 +1140,7 @@
             {
                 "date": "28 lis 2026",
                 "name": "Memoriał Mariusza Koziarskiego",
+                "regulation_link": "https://defendu.wzss.pl/regulation/1204",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1429,6 +1435,8 @@
                 "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
                 "regulation_link": "https://bellona.wzss.pl/regulation/1273",
                 "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             },
@@ -1557,7 +1565,7 @@
         "location": "Strzelnica NITRO Mościenica os. Lipowe 16",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://tarcza-poznan.wzss.pl",
         "competitions": [
             {
                 "date": "10 - 12 kwi 2026",
@@ -1705,6 +1713,7 @@
             {
                 "date": "18 kwi 2026",
                 "name": "MITYNG Broni Kolekcjonerskiej i Małokalibrowej",
+                "regulation_link": "https://bellona.wzss.pl/regulation/1276",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna i Dynamiczna",
@@ -2008,6 +2017,7 @@
             {
                 "date": "9 maj 2026",
                 "name": "DZIEŃ FLAGI RP 2026",
+                "regulation_link": "https://bellona.wzss.pl/regulation/1275",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna i Dynamiczna",
@@ -2108,7 +2118,7 @@
         "location": "Strzelnica NIECZAJNA 33",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://tarcza-poznan.wzss.pl",
         "competitions": [
             {
                 "date": "29 - 31 maj 2026",
@@ -2125,7 +2135,7 @@
         "location": "Strzelnic NIECZAJNA 33",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://tarcza-poznan.wzss.pl",
         "competitions": [
             {
                 "date": "6 - 7 cze 2026",
