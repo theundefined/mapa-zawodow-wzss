@@ -1023,7 +1023,7 @@
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             }
         ]
@@ -1354,7 +1354,7 @@
         "competitions": [
             {
                 "date": "22 mar 2026",
-                "name": "Przywitanie Wiosny",
+                "name": "Powitanie Wiosny",
                 "weapons": [
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
@@ -1574,7 +1574,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             },
             {
@@ -1584,7 +1584,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             },
             {
@@ -1594,7 +1594,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             },
             {
@@ -1604,7 +1604,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             },
             {
@@ -1614,7 +1614,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             }
         ]
@@ -2125,7 +2125,7 @@
                 "name": "LETNIA STRZELBA IPSC L.2 O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             }
         ]
@@ -2143,7 +2143,7 @@
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             },
             {
@@ -2151,7 +2151,7 @@
                 "name": "MISTRZOSTWA WIELKOPOLSKI STRZELBA IPSC L.2",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
+                    "Klasa:"
                 ]
             }
         ]
