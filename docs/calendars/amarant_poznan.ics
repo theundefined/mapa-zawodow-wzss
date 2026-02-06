@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260111-zawody_jagiellonskie@wzss.map
 SUMMARY:Zawody Jagiellońskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1228
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260201-zawody_torunskie@wzss.map
 SUMMARY:Zawody Toruńskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1236
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260301-zawody_parnawskie@wzss.map
 SUMMARY:Zawody Parnawskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1237
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260328-zawody_generalskie@wzss.map
 SUMMARY:Zawody Generalskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1238
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260425-zawody_koronacyjne@wzss.map
 SUMMARY:Zawody Koronacyjne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1239
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260530-zawody_konstytucyjne@wzss.map
 SUMMARY:Zawody Konstytucyjne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1240
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260627-zawody_mohylewskie@wzss.map
 SUMMARY:Zawody Mohylewskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1241
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260725-zawody_krolewskie@wzss.map
 SUMMARY:Zawody Królewskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1242
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260829-zawody_polockie@wzss.map
 SUMMARY:Zawody Połockie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1243
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260926-zawody_bezdanskie@wzss.map
 SUMMARY:Zawody Bezdańskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1244
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20261024-zawody_unijne@wzss.map
 SUMMARY:Zawody Unijne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1245
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20261128-zawody_oliwskie@wzss.map
 SUMMARY:Zawody Oliwskie
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://amarant.wzss.pl/regulation/1246

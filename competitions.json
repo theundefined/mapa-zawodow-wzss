@@ -86,6 +86,26 @@
                     "Pistolet:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "14 mar 2026",
+                "name": "Puchar Wiosny",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1346",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 mar 2026",
+                "name": "Zawody Pistolet Wojskowy II + PN",
+                "regulation_link": "https://wks-grunwald.wzss.pl/regulation/1347",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -1293,6 +1313,51 @@
         ]
     },
     {
+        "club": "BURSZTYN Kalisz",
+        "location": "Pleszew – strzelnica Karczemka",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "21 mar 2026",
+                "name": "23. Puchar Wiosny",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "21 mar 2026",
+                "name": "Turniej Strzelecki 3xTRAP50 cz. I",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Juniorzy"
+                ]
+            },
+            {
+                "date": "16 maj 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń małokalibrowa + Kcz) (ZK)",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            },
+            {
+                "date": "20 cze 2026",
+                "name": "32. Otwarte Mistrzostwa Południowej Wielkopolski o Puchar TASOMIX Sp. z o.o. Biskupice Ołoboczne",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            }
+        ]
+    },
+    {
         "club": "LESNA Leszno",
         "location": "Robaczyn",
         "latitude": 51.99254,
@@ -1448,6 +1513,33 @@
                     "Karabin:\n                                                    Statyczna",
                     "Pistolet:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BURSZTYN Kalisz",
+        "location": "Kalisz - strzelnica ZSPP",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "28 mar 2026",
+                "name": "25. Turniej Wielkanocny (ZK)",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "25 kwi 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń pneumatyczna) (ZK)",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
                 ]
             }
         ]
@@ -2127,6 +2219,33 @@
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
                     "Klasa:"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BURSZTYN Kalisz",
+        "location": "Wolica strzelnica PZŁ",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "6 cze 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń centralnego zapłonu) (ZK)",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            },
+            {
+                "date": "6 cze 2026",
+                "name": "Turniej Strzelecki 3xTRAP50 cz. II",
+                "weapons": [
+                    "Strzelba:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Juniorzy"
                 ]
             }
         ]

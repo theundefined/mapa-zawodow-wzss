@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260124-xiii_zimowy_turniej_pneumatyczny@wzss.map
 SUMMARY:XIII Zimowy Turniej Pneumatyczny
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy Jr. młodsi\nRegulamin: https://bellona.wzss.pl/regulation/1208
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260214-zimowa_9_ii_26_si_vis_pacem_parabellum@wzss.map
 SUMMARY:"ZIMOWA 9  II/26 "_ SI VIS PACEM PARABELLUM
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://bellona.wzss.pl/regulation/1209
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260307-swieto_kobiet_2026@wzss.map
 SUMMARY:Święto Kobiet 2026
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna i Dynamiczna, Klasa: Open Młodzicy Juniorzy\nRegulamin: https://bellona.wzss.pl/regulation/1267
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260328-liga_malokalibrowa_2026_cz_1_3@wzss.map
 SUMMARY:LIGA MAŁOKALIBROWA 2026 cz.1/3
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy\nRegulamin: https://bellona.wzss.pl/regulation/1272
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260425-liga_malokalibrowa_2026_cz_2_3@wzss.map
 SUMMARY:LIGA MAŁOKALIBROWA 2026 cz.2/3
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy\nRegulamin: https://bellona.wzss.pl/regulation/1273
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260530-liga_malokalibrowa_2026_cz_3_3@wzss.map
 SUMMARY:LIGA MAŁOKALIBROWA 2026 cz.3/3
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy\nRegulamin: https://bellona.wzss.pl/regulation/1274
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260418-mityng_broni_kolekcjonerskiej_i_malokalibrowej@wzss.map
 SUMMARY:MITYNG Broni Kolekcjonerskiej i Małokalibrowej
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna i Dynamiczna, Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://bellona.wzss.pl/regulation/1276
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-DTSTAMP:20260205T044424Z
+DTSTAMP:20260206T044348Z
 UID:20260509-dzien_flagi_rp_2026@wzss.map
 SUMMARY:DZIEŃ FLAGI RP 2026
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna i Dynamiczna, Strzelba: Statyczna i Dynamiczna, Klasa: Open\nRegulamin: https://bellona.wzss.pl/regulation/1275
