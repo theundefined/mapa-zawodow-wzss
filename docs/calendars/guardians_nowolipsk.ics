@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260206T044348Z
+DTSTAMP:20260207T042543Z
 UID:20260227-klara_ipsc_hg_pcc_l1@wzss.map
 SUMMARY:KLARA IPSC HG + PCC - L1
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://guardians.wzss.pl/regulation/1230
@@ -17,10 +17,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-DTSTAMP:20260206T044348Z
+DTSTAMP:20260207T042543Z
 UID:20260322-powitanie_wiosny@wzss.map
 SUMMARY:Powitanie Wiosny
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna i Dynamiczna, Klasa: Open
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna i Dynamiczna, Klasa: Open\nRegulamin: https://guardians.wzss.pl/regulation/1342
 LOCATION:Strzelnica Sportowa „Klara”
 END:VEVENT
 END:VCALENDAR
