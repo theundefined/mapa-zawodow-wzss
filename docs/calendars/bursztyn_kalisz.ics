@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260321-23_puchar_wiosny@wzss.map
 SUMMARY:23. Puchar Wiosny
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260321-turniej_strzelecki_3xtrap50_cz_i@wzss.map
 SUMMARY:Turniej Strzelecki 3xTRAP50 cz. I
 DESCRIPTION:Bronie: Strzelba: Statyczna, Klasa: Open Juniorzy
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260516-mistrzostwa_kss_lok_bursztyn_bron_malokalibrowa_kcz_zk@wzss.map
 SUMMARY:Mistrzostwa KSS LOK BURSZTYN (broń małokalibrowa + Kcz) (ZK)
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy Jr. młodsi
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260620-32_otwarte_mistrzostwa_poludniowej_wielkopolski_o_puchar_tasomix_sp_z_o_o_biskupice_oloboczne@wzss.map
 SUMMARY:32. Otwarte Mistrzostwa Południowej Wielkopolski o Puchar TASOMIX Sp. z o.o. Biskupice Ołoboczne
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy Juniorzy Jr. młodsi
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260328-25_turniej_wielkanocny_zk@wzss.map
 SUMMARY:25. Turniej Wielkanocny (ZK)
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260425-mistrzostwa_kss_lok_bursztyn_bron_pneumatyczna_zk@wzss.map
 SUMMARY:Mistrzostwa KSS LOK BURSZTYN (broń pneumatyczna) (ZK)
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy Juniorzy Jr. młodsi
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260606-mistrzostwa_kss_lok_bursztyn_bron_centralnego_zaplonu_zk@wzss.map
 SUMMARY:Mistrzostwa KSS LOK BURSZTYN (broń centralnego zapłonu) (ZK)
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open Młodzicy Juniorzy Jr. młodsi
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260606-turniej_strzelecki_3xtrap50_cz_ii@wzss.map
 SUMMARY:Turniej Strzelecki 3xTRAP50 cz. II
 DESCRIPTION:Bronie: Strzelba: Statyczna, Klasa: Open Juniorzy

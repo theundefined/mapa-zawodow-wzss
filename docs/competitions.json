@@ -991,6 +991,42 @@
         ]
     },
     {
+        "club": "KBS Śmigiel",
+        "location": "Śmigiel ul. Kościuszki 20",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "22 lut 2026",
+                "name": "81 Rocznica Wyzwolenia Śmigla",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
+            },
+            {
+                "date": "15 mar 2026",
+                "name": "Turniej Wiosenny",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
+            },
+            {
+                "date": "12 kwi 2026",
+                "name": "34 Rocznica Reaktywacji KBS Śmigiel",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
+                ]
+            }
+        ]
+    },
+    {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa „Klara”",
         "latitude": 51.7611567,
@@ -2362,6 +2398,24 @@
                     "Pistolet:\n                                                    Statyczna",
                     "Strzelba:\n                                                    Statyczna",
                     "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "KBS Śmigiel",
+        "location": "Śmigiel ul Kościuszki 20",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "25 paź 2026",
+                "name": "Memoriał Braci KBS Śmigiel",
+                "weapons": [
+                    "Karabin:\n                                                    Statyczna",
+                    "Pistolet:\n                                                    Statyczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy"
                 ]
             }
         ]

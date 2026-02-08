@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20260207T042543Z
+DTSTAMP:20260208T045835Z
 UID:20260222-karabin_centralnego_zaplon_snajper_i_mini_snajper_100m@wzss.map
 SUMMARY:Karabin centralnego zapłon, snajper i mini snajper – 100m
 DESCRIPTION:Bronie: Karabin: Statyczna, Klasa: Open\nRegulamin: https://tarcza-szamotuly.wzss.pl/regulation/1186
