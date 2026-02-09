@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260131-zawody_z_okazji_106_rocznicy_powrotu_rawicza_do_polski@wzss.map
 SUMMARY:Zawody z okazji 106 rocznicy Powrotu Rawicza do Polski
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1188
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260222-xii_zimowe_zawody_puchar_prezesa_bock@wzss.map
 SUMMARY:XII zimowe zawody - Puchar Prezesa BOCK
 DESCRIPTION:Bronie: Strzelba: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1259
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260314-powitanie_wiosny@wzss.map
 SUMMARY:Powitanie Wiosny
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1270
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260606-grand_prix_rawicza@wzss.map
 SUMMARY:Grand Prix Rawicza
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1284
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20261017-mistrzostwa_klubu_bock@wzss.map
 SUMMARY:Mistrzostwa Klubu Bock
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1285
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20261205-zawody_mikolajkowe@wzss.map
 SUMMARY:Zawody Mikołajkowe
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://bock.wzss.pl/regulation/1286

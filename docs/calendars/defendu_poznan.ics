@@ -6,132 +6,84 @@ METHOD:PUBLISH
 X-WR-CALNAME:DEFENDU Poznań - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
-DTSTAMP:20260208T045835Z
-UID:20260307-trophy_mgun_zawody_odbywaja_sie_w_cyklu_mgun_2026@wzss.map
-SUMMARY:trophy
-    
-
-
-
-
-                                                            MGUN
-                                                        
-
-                                                                (zawody odbywają się w cyklu:
-                                                                
-                                                                    MGUN 2026
-                                                                )
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+DTSTAMP:20260118T195537Z
+UID:20260207-mgun@wzss.map
+SUMMARY:MGUN
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1148
+LOCATION:Hive, Młyńska, Józefowo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+DTSTAMP:20260118T195537Z
+UID:20260321-mgun@wzss.map
+SUMMARY:MGUN
+DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1189
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260418-bitwa_pod_raclawicami@wzss.map
 SUMMARY:Bitwa pod Racławicami
-DESCRIPTION:Bronie: Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1145
+DESCRIPTION:Bronie: Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260626-mistrzostwa_europy@wzss.map
 SUMMARY:Mistrzostwa Europy
-DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1205
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260208T045835Z
-UID:20260718-trophy_mgun_zawody_odbywaja_sie_w_cyklu_mgun_2026@wzss.map
-SUMMARY:trophy
-    
-
-
-
-
-                                                            MGUN
-                                                        
-
-                                                                (zawody odbywają się w cyklu:
-                                                                
-                                                                    MGUN 2026
-                                                                )
+DTSTAMP:20260118T195537Z
+UID:20260718-mgun@wzss.map
+SUMMARY:MGUN
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1201
-LOCATION:Hive, Młyńska, Józefowo
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DTSTAMP:20260208T045835Z
-UID:20260822-trophy_mgun_zawody_odbywaja_sie_w_cyklu_mgun_2026@wzss.map
-SUMMARY:trophy
-    
-
-
-
-
-                                                            MGUN
-                                                        
-
-                                                                (zawody odbywają się w cyklu:
-                                                                
-                                                                    MGUN 2026
-                                                                )
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1189
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20260912-bitwa_pod_beresteczkiem@wzss.map
 SUMMARY:Bitwa pod Beresteczkiem
-DESCRIPTION:Bronie: Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1149
+DESCRIPTION:Bronie: Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20261010-bitwa_pod_wiedniem@wzss.map
 SUMMARY:Bitwa pod Wiedniem
-DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1203
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260208T045835Z
-UID:20261107-trophy_mgun_zawody_odbywaja_sie_w_cyklu_mgun_2026@wzss.map
-SUMMARY:trophy
-    
-
-
-
-
-                                                            MGUN
-                                                        
-
-                                                                (zawody odbywają się w cyklu:
-                                                                
-                                                                    MGUN 2026
-                                                                )
+DTSTAMP:20260118T195537Z
+UID:20261107-mgun@wzss.map
+SUMMARY:MGUN
 DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1202
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260118T195537Z
 UID:20261128-memorial_mariusza_koziarskiego@wzss.map
 SUMMARY:Memoriał Mariusza Koziarskiego
-DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://defendu.wzss.pl/regulation/1204
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Hive, Młyńska, Józefowo
 END:VEVENT
 END:VCALENDAR
