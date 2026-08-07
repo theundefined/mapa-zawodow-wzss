@@ -8,37 +8,37 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20260222-81_rocznica_wyzwolenia_smigla@wzss.map
 SUMMARY:81 Rocznica Wyzwolenia Śmigla
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open Młodzicy\nRegulamin: https://portal.wzss.pl/regulation/1357
 LOCATION:Śmigiel ul. Kościuszki 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20260315-turniej_wiosenny@wzss.map
 SUMMARY:Turniej Wiosenny
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open Młodzicy\nRegulamin: https://portal.wzss.pl/regulation/1358
 LOCATION:Śmigiel ul. Kościuszki 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20260412-34_rocznica_reaktywacji_kbs_smigiel@wzss.map
 SUMMARY:34 Rocznica Reaktywacji KBS Śmigiel
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open Młodzicy\nRegulamin: https://portal.wzss.pl/regulation/1359
 LOCATION:Śmigiel ul. Kościuszki 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20261025-memorial_braci_kbs_smigiel@wzss.map
 SUMMARY:Memoriał Braci KBS Śmigiel
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open Młodzicy
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open Młodzicy
 LOCATION:Śmigiel ul. Kościuszki 20
 END:VEVENT
 END:VCALENDAR

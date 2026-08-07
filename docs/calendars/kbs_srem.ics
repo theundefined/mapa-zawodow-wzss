@@ -8,19 +8,19 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20260314-zawody_klubowe@wzss.map
 SUMMARY:ZAWODY KLUBOWE
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1344
 LOCATION:ŚREM ZAMENHOFA 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260208T045835Z
+DTSTAMP:20260807T044702Z
 UID:20261017-zawody_klubowe@wzss.map
 SUMMARY:ZAWODY KLUBOWE
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1345
 LOCATION:ŚREM ZAMENHOFA 5
 END:VEVENT
 END:VCALENDAR

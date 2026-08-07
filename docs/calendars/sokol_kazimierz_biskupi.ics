@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SOKÓŁ Kazimierz Biskupi - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260807T044702Z
+UID:20260524-wiosna_ii_2026@wzss.map
+SUMMARY:Wiosna II 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1467
+LOCATION:Kazimierz Biskupi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DTSTAMP:20260807T044702Z
+UID:20260621-lato_2026@wzss.map
+SUMMARY:LATO 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1483
+LOCATION:Kazimierz Biskupi
+END:VEVENT
+END:VCALENDAR

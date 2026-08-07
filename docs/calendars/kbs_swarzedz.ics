@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KBS Swarzędz - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DTSTAMP:20260807T044702Z
+UID:20260613-piknik_strzelecki_krol_kurkowy_2026@wzss.map
+SUMMARY:Piknik Strzelecki Król Kurkowy 2026
+DESCRIPTION:Bronie: Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1449
+LOCATION:Lizawka - Poznań
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KŻR LOK Leszno - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DTSTAMP:20260807T044702Z
+UID:20260425-zawody_klubowe_tur_leszno@wzss.map
+SUMMARY:Zawody Klubowe TUR Leszno
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1445
+LOCATION:Strzelnica WBK Włoszakowice ul. Kurpińskiego 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260807T044702Z
+UID:20260815-klubowa_strzelba@wzss.map
+SUMMARY:klubowa strzelba
+DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1524
+LOCATION:Strzelnica WBK Włoszakowice ul. Kurpińskiego 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260807T044702Z
+UID:20260919-zawody_klubowe_jesien@wzss.map
+SUMMARY:Zawody klubowe Jesień
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open
+LOCATION:Strzelnica WBK Włoszakowice ul. Kurpińskiego 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260807T044702Z
+UID:20261121-zawody_klubowe_memorialy@wzss.map
+SUMMARY:Zawody klubowe MEMORIAŁY
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open
+LOCATION:Strzelnica WBK Włoszakowice ul. Kurpińskiego 29
+END:VEVENT
+END:VCALENDAR

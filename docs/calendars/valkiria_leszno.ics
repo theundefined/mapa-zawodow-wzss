@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VALKIRIA Leszno - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DTSTAMP:20260807T044702Z
+UID:20260517-otwarte_zawody_strzeleckie_kodeks_ognia_ognista_inauguracja@wzss.map
+SUMMARY:Otwarte zawody strzeleckie KODEKS OGNIA - Ognista Inauguracja
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1459
+LOCATION:Strzelnica w Czaczu, ul. Wielichowska 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260807T044702Z
+UID:20260830-otwarte_zawody_strzeleckie_kodeks_ognia_krag_ognia@wzss.map
+SUMMARY:Otwarte zawody strzeleckie KODEKS OGNIA - Krąg Ognia
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1469
+LOCATION:Strzelnica w Czaczu, ul. Wielichowska 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260807T044702Z
+UID:20261018-otwarte_zawody_strzeleckie_kodeks_ognia_zlota_regula@wzss.map
+SUMMARY:Otwarte zawody strzeleckie KODEKS OGNIA - Złota Reguła
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1470
+LOCATION:Strzelnica w Czaczu, ul. Wielichowska 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20260807T044702Z
+UID:20261206-otwarte_zawody_strzeleckie_kodeks_ognia_dekret_ostateczny@wzss.map
+SUMMARY:Otwarte zawody strzeleckie KODEKS OGNIA - Dekret Ostateczny
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1471
+LOCATION:Strzelnica w Czaczu, ul. Wielichowska 42
+END:VEVENT
+END:VCALENDAR

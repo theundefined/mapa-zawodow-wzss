@@ -8,46 +8,100 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260211-zawody_walentynkowe@wzss.map
 SUMMARY:Zawody Walentynkowe
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1277
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1277
 LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260307-zawody_na_dzien_kobiet_i_mezczyzn@wzss.map
 SUMMARY:Zawody na Dzień Kobiet i Mężczyzn
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1278
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1278
 LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260401-zawody_wielkanocne@wzss.map
 SUMMARY:Zawody Wielkanocne
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1279
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1279
 LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260506-majowka_strzelecka@wzss.map
 SUMMARY:Majówka Strzelecka
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1280
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1280
 LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260620-powitanie_lata@wzss.map
 SUMMARY:Powitanie Lata
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Strzelba: Statyczna, Klasa: Open\nRegulamin: https://magnum.wzss.pl/regulation/1281
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1281
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20260807T044702Z
+UID:20260715-zawody_o_puchar_prezesa@wzss.map
+SUMMARY:Zawody o Puchar Prezesa
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1477
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260807T044702Z
+UID:20260805-zawody_razem_z_wojskiem_polskim@wzss.map
+SUMMARY:Zawody Razem z Wojskiem Polskim
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1478
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260807T044702Z
+UID:20260905-zawody_magnum_open_day@wzss.map
+SUMMARY:Zawody Magnum Open Day
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1479
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260807T044702Z
+UID:20261028-zawody_halloweenowe@wzss.map
+SUMMARY:Zawody Halloweenowe
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1480
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260807T044702Z
+UID:20261128-zawody_andrzejkowe@wzss.map
+SUMMARY:Zawody Andrzejkowe
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1481
+LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20260807T044702Z
+UID:20261216-zawody_wigilia_strzelecka@wzss.map
+SUMMARY:Zawody Wigilia Strzelecka
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1482
 LOCATION:Strzelnica Magnum, Poznań ul. Witosa 45
 END:VEVENT
 END:VCALENDAR

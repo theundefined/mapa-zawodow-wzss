@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WIARUS Oborniki - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+DTSTAMP:20260807T044702Z
+UID:20260328-memorial_roberta_mulka@wzss.map
+SUMMARY:Memoriał Roberta Mułka
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1438
+LOCATION:Nad Flintą
+END:VEVENT
+END:VCALENDAR

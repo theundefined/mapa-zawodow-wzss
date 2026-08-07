@@ -8,46 +8,163 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260110-rozpoczecie_sezonu_2026@wzss.map
 SUMMARY:Rozpoczęcie Sezonu 2026
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1177
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1177
 LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260124-zawody_pistolet_wojskowy_i_pn@wzss.map
 SUMMARY:Zawody Pistolet Wojskowy I + PN
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1213
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1213
 LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260131-zawody_pistolet_standard_i_pn@wzss.map
 SUMMARY:Zawody Pistolet Standard I + PN
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1252
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1252
 LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260214-puchar_zimy@wzss.map
 SUMMARY:Puchar Zimy
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1268
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1268
 LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260301
-DTSTAMP:20260118T195537Z
+DTSTAMP:20260807T044702Z
 UID:20260227-i_runda_pucharu_wks_grunwald_2026@wzss.map
 SUMMARY:I Runda Pucharu WKS Grunwald 2026
-DESCRIPTION:Bronie: Karabin: Statyczna, Pistolet: Statyczna, Klasa: Open\nRegulamin: https://wks-grunwald.wzss.pl/regulation/1266
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1266
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+DTSTAMP:20260807T044702Z
+UID:20260314-puchar_wiosny@wzss.map
+SUMMARY:Puchar Wiosny
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1346
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+DTSTAMP:20260807T044702Z
+UID:20260328-zawody_pistolet_wojskowy_ii_pn@wzss.map
+SUMMARY:Zawody Pistolet Wojskowy II + PN
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1347
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260419
+DTSTAMP:20260807T044702Z
+UID:20260417-ii_runda_pucharu_wks_grunwald_2026@wzss.map
+SUMMARY:II Runda Pucharu WKS Grunwald 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1363
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+DTSTAMP:20260807T044702Z
+UID:20260509-puchar_sekcji_strzeleckiej@wzss.map
+SUMMARY:Puchar Sekcji Strzeleckiej
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1362
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+DTSTAMP:20260807T044702Z
+UID:20260523-zawody_pistolet_wojskowy_iii_pn@wzss.map
+SUMMARY:Zawody Pistolet Wojskowy III + PN
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1367
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DTSTAMP:20260807T044702Z
+UID:20260613-puchar_lata@wzss.map
+SUMMARY:Puchar Lata
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1366
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20260807T044702Z
+UID:20260808-mistrzostwa_wks_grunwald_poznan_2026@wzss.map
+SUMMARY:Mistrzostwa WKS Grunwald Poznań 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1364
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260807T044702Z
+UID:20260905-xii_memorial_andrzeja_tomasika@wzss.map
+SUMMARY:XII Memoriał Andrzeja Tomasika
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1368
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260807T044702Z
+UID:20260918-iii_runda_pucharu_wks_grunwald_2026@wzss.map
+SUMMARY:III Runda Pucharu WKS Grunwald 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1369
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260807T044702Z
+UID:20261003-puchar_jesieni@wzss.map
+SUMMARY:Puchar Jesieni
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1370
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260807T044702Z
+UID:20261017-zawody_pistolet_wojskowy_iv_pn@wzss.map
+SUMMARY:Zawody Pistolet Wojskowy IV + PN
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1371
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260807T044702Z
+UID:20261031-zawody_pistolet_standard_ii_pn@wzss.map
+SUMMARY:Zawody Pistolet Standard II + PN
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1372
+LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260807T044702Z
+UID:20261106-iv_runda_pucharu_wks_grunwald_2026@wzss.map
+SUMMARY:IV Runda Pucharu WKS Grunwald 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1373
 LOCATION:Strzelnica WKS Grunwald Poznań, Saperska 48, 61-493 Poznań
 END:VEVENT
 END:VCALENDAR

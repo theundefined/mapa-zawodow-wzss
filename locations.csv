@@ -1,56 +1,114 @@
 location_text,latitude,longitude,website
-Buk ul. Dobieżyńska (w parku),52.357408,16.5166799,https://amarant.wzss.pl
-Centrum Strzeleckie PERUN- Strzelnica Cieśle,52.321389,16.696389,https://perun.wzss.pl
-DĄBRÓWKA LEŚNA GAJOWA 5/4 64-600 OBORNIKI,52.68416,16.8087,https://wolfpack.wzss.pl
-Gajowa 1 62-400 Słupca,51.0951816,17.0405947,https://fort.wzss.pl
-Gostyń ul. Wrocławska 45 A,,,
-HUBERTUS Studzieniec 28A,53.0077681,16.8962952,
-Hive Młyńska Józefowo,52.4508,16.2081,https://defendu.wzss.pl
-Hubertus - Studzieniec 28a,53.0077681,16.8962952,
-KS Magnum ul. Witosa 45,,,https://wlks-grunwald.wzss.pl
-KURKOWE BRACTWO STRZELECKIE w TARNOWIE PODGÓRNYM ul. Zachodnia 3 62-080 Tarnowo Podgórne,52.433333,16.733333,https://kbs-tarnowo.wzss.pl
-Kalisz - strzelnica ZSPP,,,
-Kalisz Śródmiejska 24A // Ostrów Wlkp Tomczeka 34,51.6562,18.0833,https://bellona.wzss.pl
-Karczemka obok Pleszew,51.883333,17.783333,https://gilza.wzss.pl
-Krzywiń ul. Strzelecka 15,,,
-Luboń ul. Poniatowskiego 20,52.35,16.9,https://lbk.wzss.pl
-Nad Flintą Dąbrówka Leśna ul. Gajowa 4/5 64-600 Oborniki,52.6871903,16.8244783,https://wolfpack.wzss.pl
-Ostrów Wlkp ul. Kaliska 87 - strzelnica LOK,,,https://bellona.wzss.pl
-Pleszew – strzelnica Karczemka,,,
-Poznań ul Bałtycka 79,,,https://lbk.wzss.pl
-Rawicz-Sierakowo,,,https://bock.wzss.pl
-Rawicz-Sierakowo Rawicz-leśniczówka,,,https://bock.wzss.pl
-Rawicz-leśniczówka,,,https://bock.wzss.pl
-Robaczyn,51.99254,16.55936,https://lesna.wzss.pl
-Sarbka 52  64-700 Czarnków,,,https://nalecz.wzss.pl
-Sarbka 52 64-700 Czarnków,,,https://nalecz.wzss.pl
-Strzelnic NIECZAJNA 33,,,https://tarcza-poznan.wzss.pl
-Strzelnica Bryllandia,51.9300422,17.5798909,https://jedenastka.wzss.pl
-Strzelnica JÓŹWIAK Nowolipsk 59 gm. Chocz,,,https://bellona.wzss.pl
-Strzelnica KBS Margonin,52.966667,17.1,https://nss.wzss.pl
-Strzelnica KLARA Sobótka 3A 63-450 Ostrów Wlkp,51.7611567,17.8432614,https://bellona.wzss.pl
-Strzelnica Kaliskiego Bractwa Strzelców Kurkowych Wał Jagielloński 9 62-800 Kalisz,,,
-Strzelnica Kurkowego Bractwa Strzeleckiego Margonin,,,https://nss.wzss.pl
-Strzelnica KŻR w Buku (w parku),52.357408,16.5166799,https://amarant.wzss.pl
-Strzelnica KŻR w Buku ul. Dobieżyńska (w parku),52.357408,16.5166799,https://amarant.wzss.pl
-Strzelnica LEONHARD - Radziwiłłów k/Gorzyce Wielkie,,,https://bellona.wzss.pl
-Strzelnica Magnum Poznań ul. Witosa 45,,,https://magnum.wzss.pl
-Strzelnica NIECZAJNA 33,,,https://tarcza-poznan.wzss.pl
-Strzelnica NITRO Mościenica os. Lipowe 16,,,https://tarcza-poznan.wzss.pl
-Strzelnica NITRO os. Lipowe 16,,,https://tarcza-poznan.wzss.pl
-Strzelnica Nieczajna,,,https://nieczajna.wzss.pl
-Strzelnica Sarbka,,,
-Strzelnica Sportowa Jóźwiak Nowolipsk,,,
-Strzelnica Sportowa Jóźwiak Nowolipsk 59 63-313 Chocz,,,https://guardians.wzss.pl
-Strzelnica Sportowa „Klara”,51.7611567,17.8432614,https://guardians.wzss.pl
-Strzelnica TRAP Krotoszyn ul. Bolewskiego,,,
-Strzelnica Trzcinowy Zakątek Górsko,52.566667,16.333333,https://amarant.wzss.pl
-Strzelnica WKS Grunwald Poznań Saperska 48 61-493 Poznań,52.3770214,16.9147393,https://wks-grunwald.wzss.pl
-Strzelnica klubowa w Mutowie,52.638221868887385,16.58586710625372,https://tarcza-szamotuly.wzss.pl
-Strzelnica sportowa JÓŹWIAK -  Nowolipsk 59,,,https://bellona.wzss.pl
-Wolica strzelnica PZŁ,,,
-ZDRÓJ,52.233333,16.433333,
-ul.Parkowa 44 64-330 Opalenica,52.308611,16.415278,https://kbs-opalenica.wzss.pl
-ŚREM ZAMENHOFA 5,,,
-Śmigiel ul Kościuszki 20,,,
-Śmigiel ul. Kościuszki 20,,,
+BK Wronki Szklarnia 6a,,,https://portal.wzss.pl
+Buk ul. Dobieżyńska (w parku),52.357408,16.5166799,https://portal.wzss.pl
+Centrum Strzeleckie PERUN- Strzelnica Cieśle,52.321389,16.696389,https://portal.wzss.pl
+Chodziez,,,https://portal.wzss.pl
+Chodzież,,,https://portal.wzss.pl
+DĄBRÓWKA LEŚNA GAJOWA 5/4 64-600 OBORNIKI,52.68416,16.8087,https://portal.wzss.pl
+Dąbrówka Leśna,,,https://portal.wzss.pl
+Gajowa 1 62-400 Słupca,51.0951816,17.0405947,https://portal.wzss.pl
+Gostyń ul. Wrocławska 45 A,,,https://portal.wzss.pl
+HUBERTUS Studzieniec 28A,53.0077681,16.8962952,https://portal.wzss.pl
+HUBERTUS w Chodzieży,,,https://portal.wzss.pl
+Hive Młyńska Józefowo,52.4508,16.2081,https://portal.wzss.pl
+Hubertus - Studzieniec 28a,53.0077681,16.8962952,https://portal.wzss.pl
+Hubertus Chodzież,,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45,,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45 ( Dojazd ),,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45 ( Dojazd ) Poznań,,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45 ( ul. Dojazd ),,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45 (ul. Dojazd ) Poznań,,,https://portal.wzss.pl
+KS Magnum ul. Witosa 45 Poznań,,,https://portal.wzss.pl
+KURKOWE BRACTWO STRZELECKIE w TARNOWIE PODGÓRNYM ul. Zachodnia 3 62-080 Tarnowo Podgórne,52.433333,16.733333,https://portal.wzss.pl
+Kalisz - strzelnica ZSPP,,,https://portal.wzss.pl
+Kalisz Śródmiejska 24A // Ostrów Wlkp Tomczeka 34,51.6562,18.0833,https://portal.wzss.pl
+Karczemka obok Pleszew,51.883333,17.783333,https://portal.wzss.pl
+Kazimierz Biskupi,,,https://portal.wzss.pl
+Kazimierz Biskupi ul. Kościuszki 6,,,https://portal.wzss.pl
+Krzywiń ul. Strzelecka 15,,,https://portal.wzss.pl
+Lizawka - Poznań,,,https://portal.wzss.pl
+Lizawka ul. Bałtycka,,,https://portal.wzss.pl
+Luboń ul. Poniatowskiego 20,52.35,16.9,https://portal.wzss.pl
+Międzychód-Przedlesie,,,https://portal.wzss.pl
+Mutowo,,,https://portal.wzss.pl
+Nad Flintą,,,https://portal.wzss.pl
+Nad Flintą Dąbrówka Leśna ul. Gajowa 4/5 64-600 Oborniki,52.6871903,16.8244783,https://portal.wzss.pl
+Nieczajna 33,,,https://portal.wzss.pl
+Nitro Mościenica,,,https://portal.wzss.pl
+Nowolipsk,,,https://portal.wzss.pl
+Nowolipsk 59 gm. Chocz,,,https://portal.wzss.pl
+Ostrów Wlkp ul. Kaliska 87 - strzelnica LOK,,,https://portal.wzss.pl
+Pleszew - strzelnica ul. Poniatowskiego 7,,,https://portal.wzss.pl
+Pleszew – strzelnica Karczemka,,,https://portal.wzss.pl
+Potażniki nr 3A,,,https://portal.wzss.pl
+Poznań ul Bałtycka 79,,,https://portal.wzss.pl
+Rawicz  Targowa 1,,,https://portal.wzss.pl
+Rawicz-Sierakowo,,,https://portal.wzss.pl
+Rawicz-Sierakowo Rawicz-leśniczówka,,,https://portal.wzss.pl
+Rawicz-leśniczówka,,,https://portal.wzss.pl
+Robaczyn,51.99254,16.55936,https://portal.wzss.pl
+STRZELNICA MYSLIWSKO SPOROTWA PZŁ W KRZYWINIU,,,https://portal.wzss.pl
+STRZELNICA MYSLIWSKO-SPORTOWA PZŁ W KRZYWNIU,,,https://portal.wzss.pl
+STRZELNICA PZŁ W KRZYWINIU,,,https://portal.wzss.pl
+Sarbka 52 64-700 Czarnków,,,https://portal.wzss.pl
+Strzelnic NIECZAJNA 33,,,https://portal.wzss.pl
+Strzelnica : KŁ Darz Bór Połajewo ; miejscowość Boruszyn przy Leśniczówce.,,,https://portal.wzss.pl
+Strzelnica Bractwa Kurkowego w Margoninie,,,https://portal.wzss.pl
+Strzelnica Bryllandia,51.9300422,17.5798909,https://portal.wzss.pl
+Strzelnica JÓŹWIAK Nowolipsk 59 gm. Chocz,,,https://portal.wzss.pl
+Strzelnica KBS Margonin,52.966667,17.1,https://portal.wzss.pl
+Strzelnica KBS Włoszakowice ul. Kurpińskiego,,,https://portal.wzss.pl
+Strzelnica KLARA Sobótka 3A 63-450 Ostrów Wlkp,51.7611567,17.8432614,https://portal.wzss.pl
+Strzelnica Kaliskiego Bractwa Strzelców Kurkowych Wał Jagielloński 9 62-800 Kalisz,,,https://portal.wzss.pl
+Strzelnica Koła Łowieckiego nr 40 Diana,,,https://portal.wzss.pl
+Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google),,,https://portal.wzss.pl
+Strzelnica Kurkowego Bractwa Strzeleckiego Margonin,,,https://portal.wzss.pl
+Strzelnica KŻR w Buku (w parku),52.357408,16.5166799,https://portal.wzss.pl
+Strzelnica KŻR w Buku ul. Dobieżyńska (w parku),52.357408,16.5166799,https://portal.wzss.pl
+Strzelnica LEONHARD - Radziwiłłów k/Gorzyce Wielkie,,,https://portal.wzss.pl
+Strzelnica LOK Września ul Ogrodowa 6,,,https://portal.wzss.pl
+Strzelnica Lizawka  Poznań,,,https://portal.wzss.pl
+Strzelnica Lizawka  ul. Bałtycka 79 Poznań,,,https://portal.wzss.pl
+Strzelnica Lizawka Poznań,,,https://portal.wzss.pl
+Strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń,,,https://portal.wzss.pl
+Strzelnica MOSIR  Gajowa 1 62-400 Słupca,,,https://portal.wzss.pl
+Strzelnica Magnum Poznań ul. Witosa 45,,,https://portal.wzss.pl
+Strzelnica Margonin,,,https://portal.wzss.pl
+Strzelnica NIECZAJNA 33,,,https://portal.wzss.pl
+Strzelnica NITRO Mościenica os. Lipowe 16,,,https://portal.wzss.pl
+Strzelnica NITRO os. Lipowe 16,,,https://portal.wzss.pl
+Strzelnica Nieczajna,,,https://portal.wzss.pl
+Strzelnica Orchowo,,,https://portal.wzss.pl
+Strzelnica PZŁ w Krzywiniu,,,https://portal.wzss.pl
+Strzelnica Sarbka,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak Nowolipsk,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak Nowolipsk 59,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak Nowolipsk 59 63-313 Chocz,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak Nowolipsk 59 k. Chocza,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak Nowolipsk 59 k/Chocza,,,https://portal.wzss.pl
+Strzelnica Sportowa Jóźwiak k. Chocza,,,https://portal.wzss.pl
+Strzelnica Sportowa Kamień k. Kalisza,,,https://portal.wzss.pl
+Strzelnica Sportowa pl. T. Kościuszki 5 64-100 Leszno,,,https://portal.wzss.pl
+Strzelnica Sportowa „Klara”,51.7611567,17.8432614,https://portal.wzss.pl
+Strzelnica TRAP Krotoszyn ul. Bolewskiego,,,https://portal.wzss.pl
+Strzelnica Trzcinowy Zakątek Górsko,52.566667,16.333333,https://portal.wzss.pl
+Strzelnica WBK Włoszakowice ul. Kurpińskiego 29,,,https://portal.wzss.pl
+Strzelnica WKS Grunwald Poznań Saperska 48 61-493 Poznań,52.3770214,16.9147393,https://portal.wzss.pl
+Strzelnica klubowa w Mutowie,52.638221868887385,16.58586710625372,https://portal.wzss.pl
+Strzelnica myśliwsko-sportowa LIZAWKA ul. Bałtycka 79 Poznań,,,https://portal.wzss.pl
+Strzelnica sportowa Grodzisk Wielkopolski - Zdrój,,,https://portal.wzss.pl
+Strzelnica sportowa JÓŹWIAK -  Nowolipsk 59,,,https://portal.wzss.pl
+Strzelnica sportowa Jóźwiak Nowolipsk 59 k/Chocza,,,https://portal.wzss.pl
+Strzelnica sportowa Kamień k. Kalisza,,,https://portal.wzss.pl
+Strzelnica sportowo-myśliwska PZŁ Krzywiń ul. Strzelecka,,,https://portal.wzss.pl
+Strzelnica w Czaczu ul. Wielichowska 42,,,https://portal.wzss.pl
+Strzelnica w Robaczynie,,,https://portal.wzss.pl
+Wieleń - strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń,,,https://portal.wzss.pl
+Wolica strzelnica PZŁ,,,https://portal.wzss.pl
+ZDRÓJ,52.233333,16.433333,https://portal.wzss.pl
+i WZSS Strzelnica BRYLLANDIA WITASZYCE UL. PIASKOWA 28,,,https://portal.wzss.pl
+strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń,,,https://portal.wzss.pl
+ul.Parkowa 44 64-330 Opalenica,52.308611,16.415278,https://portal.wzss.pl
+ŚREM ZAMENHOFA 5,,,https://portal.wzss.pl
+Śmigiel ul Kościuszki 20,,,https://portal.wzss.pl
+Śmigiel ul. Kościuszki 20,,,https://portal.wzss.pl

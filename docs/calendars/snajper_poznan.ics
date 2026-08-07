@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WZSS//Mapa Zawodow//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SNAJPER Poznań - Zawody
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+DTSTAMP:20260807T044702Z
+UID:20260411-zawody_klubowe_kzr_lok_snajper@wzss.map
+SUMMARY:Zawody klubowe KŻR LOK „SNAJPER”
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1431
+LOCATION:Strzelnica sportowa Grodzisk Wielkopolski - Zdrój
+END:VEVENT
+END:VCALENDAR
