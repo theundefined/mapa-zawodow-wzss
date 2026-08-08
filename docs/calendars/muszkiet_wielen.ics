@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260418-wiosenne_zawody_strzeleckie@wzss.map
 SUMMARY:Wiosenne Zawody Strzeleckie
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1378
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20261003-zakonczenie_sezonu_strzeleckiego@wzss.map
 SUMMARY:Zakończenie Sezonu Strzeleckiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1523
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260509-turniej_majowy@wzss.map
 SUMMARY:Turniej Majowy
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1460
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260912-jesienny_puchar_prezesa@wzss.map
 SUMMARY:Jesienny Puchar Prezesa
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa:\nRegulamin: https://portal.wzss.pl/regulation/1522

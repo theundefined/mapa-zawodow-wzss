@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260516-otwarte_zawody_strzeleckie_grand_prix_i@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie - Grand Prix I
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1468

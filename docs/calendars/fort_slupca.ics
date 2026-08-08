@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260314-powitanie_wiosny_link_do_zapisow_w_regulaminie@wzss.map
 SUMMARY:Powitanie Wiosny (link do zapisów w regulaminie)
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1206
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20261003-zawody_o_puchar_prezesa_fort@wzss.map
 SUMMARY:Zawody o Puchar Prezesa FORT
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1222
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260807T044702Z
+DTSTAMP:20260808T040353Z
 UID:20260523-majowka_z_fort_em@wzss.map
 SUMMARY:Majówka Z FORT-em
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1220
