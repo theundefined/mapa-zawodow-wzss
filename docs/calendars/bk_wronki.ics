@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260521-klubowe_zawody_strzeleckie_bk_we_wronkach@wzss.map
 SUMMARY:Klubowe Zawody Strzeleckie BK we Wronkach
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1444

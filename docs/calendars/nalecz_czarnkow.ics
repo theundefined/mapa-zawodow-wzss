@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260425-zawody_inauguracyjne@wzss.map
 SUMMARY:Zawody Inauguracyjne
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1317
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260614-lato_w_lesie@wzss.map
 SUMMARY:Lato w lesie
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa i Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1319
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20261018-zawody_jesienne@wzss.map
 SUMMARY:Zawody jesienne
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1322
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260726-czarnkowskie_wakacje@wzss.map
 SUMMARY:Czarnkowskie Wakacje
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1318

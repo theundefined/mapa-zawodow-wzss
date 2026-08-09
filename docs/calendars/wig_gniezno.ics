@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260327-poznan_mini_five_steel@wzss.map
 SUMMARY:POZNAŃ MINI FIVE STEEL
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa:\nRegulamin: https://portal.wzss.pl/regulation/1430
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260726-zawody_klubowe_ksk_wig_orchowo_26_07_20267@wzss.map
 SUMMARY:Zawody Klubowe KSK WIG Orchowo 26.07.20267
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1489
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260823-zawody_klubowe_ksk_wig_orchowo_23_08_2026@wzss.map
 SUMMARY:Zawody Klubowe KSK WIG Orchowo 23.08.2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1490
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20261004-zawody_klubowe_ksk_wig_orchowo@wzss.map
 SUMMARY:Zawody Klubowe KSK WIG Orchowo
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open

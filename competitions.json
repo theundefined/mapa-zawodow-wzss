@@ -2517,6 +2517,36 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "5 wrz 2026",
+                "name": "\"War of HONOR 2026\" Edycja 3 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:"
+                ]
+            },
+            {
+                "date": "8 lis 2026",
+                "name": "\"War of HONOR 2026\" Edycja 4 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:"
+                ]
+            },
+            {
+                "date": "13 gru 2026",
+                "name": "\"War of HONOR 2026\" Edycja 5 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:"
+                ]
             }
         ]
     },
@@ -4339,6 +4369,25 @@
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "TARCZA Poznań",
+        "location": "Strzelnica NITRO Mościenica os.Lipowe 16",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "9 - 11 paź 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:"
                 ]
             }
         ]

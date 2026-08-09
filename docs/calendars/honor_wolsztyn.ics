@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260418-war_of_honor_2026_edycja_1_na_podtrzymanie_licencji_zawodniczenj_na_rok_2027@wzss.map
 SUMMARY:"War of HONOR 2026" Edycja 1 na podtrzymanie licencji zawodniczenj na rok 2027
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1442
@@ -17,10 +17,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260607-war_of_honor_2026_edycja_2_zawodow_rozgrywamy_8_konkurencji_komplet_na_przedluzenie_licencji_zawodniczej_na_rok_2027_z_nagrodami_w_klasyfikacji_generalnej_za_miejsca_1_3600_zl_2_2100_zl_3_1000_zl_zapraszamy@wzss.map
 SUMMARY:"War of HONOR 2026" Edycja 2 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1465
+LOCATION:Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260809T040935Z
+UID:20260905-war_of_honor_2026_edycja_3_zawodow_rozgrywamy_8_konkurencji_komplet_na_przedluzenie_licencji_zawodniczej_na_rok_2027_z_nagrodami_w_klasyfikacji_generalnej_za_miejsca_1_3600_zl_2_2100_zl_3_1000_zl_zapraszamy@wzss.map
+SUMMARY:"War of HONOR 2026" Edycja 3 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa:
+LOCATION:Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260809T040935Z
+UID:20261108-war_of_honor_2026_edycja_4_zawodow_rozgrywamy_8_konkurencji_komplet_na_przedluzenie_licencji_zawodniczej_na_rok_2027_z_nagrodami_w_klasyfikacji_generalnej_za_miejsca_1_3600_zl_2_2100_zl_3_1000_zl_zapraszamy@wzss.map
+SUMMARY:"War of HONOR 2026" Edycja 4 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa:
+LOCATION:Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260809T040935Z
+UID:20261213-war_of_honor_2026_edycja_5_zawodow_rozgrywamy_8_konkurencji_komplet_na_przedluzenie_licencji_zawodniczej_na_rok_2027_z_nagrodami_w_klasyfikacji_generalnej_za_miejsca_1_3600_zl_2_2100_zl_3_1000_zl_zapraszamy@wzss.map
+SUMMARY:"War of HONOR 2026" Edycja 5 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa:
 LOCATION:Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google)
 END:VEVENT
 END:VCALENDAR

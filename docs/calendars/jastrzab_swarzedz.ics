@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260509-klubowe_zawody_strzeleckie@wzss.map
 SUMMARY:Klubowe zawody strzeleckie
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1447
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260523-xviii_otwarty_wieloboj_strzelecki_zawody_o_puchar_burmistrza_miasta_i_gminy_nekla@wzss.map
 SUMMARY:XVIII Otwarty Wielobój Strzelecki. Zawody o Puchar Burmistrza Miasta i Gminy Nekla
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1452
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260704-klubowe_zawody_strzeleckie@wzss.map
 SUMMARY:Klubowe zawody strzeleckie
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1451
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260830-kepno_2026@wzss.map
 SUMMARY:Kępno 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1515
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260905-otwarte_mistrzostwa_kzr_lok_jastrzab_swarzedz_2026@wzss.map
 SUMMARY:Otwarte Mistrzostwa KŻR LOK JASTRZĄB Swarzędz 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa i Dynamiczna, Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1530

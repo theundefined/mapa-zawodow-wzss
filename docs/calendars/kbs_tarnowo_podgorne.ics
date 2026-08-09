@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260110-otwarte_zawody_strzeleckie_rozpoczecie_sezonu@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Rozpoczęcie Sezonu”
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1232
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260201-otwarte_zawody_strzeleckie_zawody_rocznicowe@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Zawody Rocznicowe”
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1233
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260315-otwarte_zawody_strzeleckie_zawody_wiosenne@wzss.map
 SUMMARY:Otwarte Zawody Strzeleckie „Zawody Wiosenne”
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1386

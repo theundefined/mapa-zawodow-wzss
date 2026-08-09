@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260329-czarny_lotos_spring_challenge@wzss.map
 SUMMARY:CZARNY LOTOS SPRING CHALLENGE
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1429
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260808T040353Z
+DTSTAMP:20260809T040935Z
 UID:20260614-czarny_lotos_summer_challenge@wzss.map
 SUMMARY:CZARNY LOTOS SUMMER CHALLENGE
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1473
