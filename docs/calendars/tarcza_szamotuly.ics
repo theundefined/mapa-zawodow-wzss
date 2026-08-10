@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260222-karabin_centralnego_zaplon_snajper_i_mini_snajper_100m@wzss.map
 SUMMARY:Karabin centralnego zapłon, snajper i mini snajper – 100m
 DESCRIPTION:Bronie: Karabin: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1186
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260321-klubowa_strzelba_dynamiczna@wzss.map
 SUMMARY:Klubowa strzelba dynamiczna
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1387
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260322-strzelba_ipsc_lvl1_i_runda_pucharu_klubu_ks_tarcza_szamotuly@wzss.map
 SUMMARY:Strzelba IPSC lvl1 – I Runda Pucharu Klubu KS Tarcza Szamotuły
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1388
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260329-karabin_centralnego_zaplonu_snajper_i_mini_snajper_100m_memorial_m_michalskiego@wzss.map
 SUMMARY:Karabin centralnego zapłonu, snajper i mini snajper 100m – Memoriał M. Michalskiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1389
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260426-wiosna_2026_inauguracja_sezonu_strzeleckiego@wzss.map
 SUMMARY:Wiosna 2026 – Inauguracja sezonu strzeleckiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1391
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260510-wiosenne_ipsc_pistolet_22lr_i_mini_rifle_22lr@wzss.map
 SUMMARY:Wiosenne IPSC pistolet .22lr i mini rifle .22lr
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1392
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260524-karabin_centralnego_zaplonu_snajper_i_mini_snajper_100m_puchar_janusza_olszyka@wzss.map
 SUMMARY:Karabin centralnego zapłonu, snajper i mini snajper 100m – Puchar Janusza Olszyka
 DESCRIPTION:Bronie: Karabin: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1393
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260606-ix_mistrzostwa_wielkopolski_w_strzelaniu_z_broni_historycznej_centralnego_zaplonu@wzss.map
 SUMMARY:IX Mistrzostwa Wielkopolski w Strzelaniu z Broni Historycznej Centralnego Zapłonu
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1394
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260627-klubowa_strzelba_dynamiczna@wzss.map
 SUMMARY:Klubowa strzelba dynamiczna
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1395
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260628-strzelba_ipsc_lvl1_ii_runda_pucharu_klubu_ks_tarcza_szamotuly@wzss.map
 SUMMARY:Strzelba IPSC lvl1 – II Runda Pucharu Klubu KS Tarcza Szamotuły
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1396
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260809-xv_turniej_strzelecki_o_puchar_starosty_szamotulskiego@wzss.map
 SUMMARY:XV Turniej strzelecki o Puchar Starosty Szamotulskiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1505
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260823-klubowy_shoot_off@wzss.map
 SUMMARY:Klubowy SHOOT OFF
 DESCRIPTION:Bronie: Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1506
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260906-mistrzostwa_klubowe_20_lecie_ks_tarcza_szamotuly@wzss.map
 SUMMARY:Mistrzostwa klubowe – 20 lecie KS TARCZA Szamotuły
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa:\nRegulamin: https://portal.wzss.pl/regulation/1507
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260920-jesienne_ipsc_pistolet_22lr_i_mini_rifle_22lr@wzss.map
 SUMMARY:Jesienne IPSC pistolet .22lr i mini rifle .22lr
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1508
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261003-klubowa_strzelba_dynamiczna_zaliczeniowa@wzss.map
 SUMMARY:Klubowa strzelba dynamiczna/zaliczeniowa
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1509
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261004-strzelba_ipsc_lvl1_iii_runda_pucharu_klubu_ks_tarcza_szamotuly@wzss.map
 SUMMARY:Strzelba IPSC lvl1 – III Runda Pucharu Klubu KS Tarcza Szamotuły
 DESCRIPTION:Bronie: Strzelba: Dynamiczna, Klasa: Open
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261108-karabin_centralnego_zaplonu_snajper_i_mini_snajper_100m_mistrzostwa_klubu_2026@wzss.map
 SUMMARY:Karabin centralnego zapłonu, snajper i mini snajper 100m – Mistrzostwa Klubu 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1512
@@ -161,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261122-jesien_2026_zakonczenie_sezonu_strzeleckiego@wzss.map
 SUMMARY:Jesień 2026 – Zakończenie sezonu strzeleckiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1513
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261206-zimowe_zawody_dynamiczne_2026@wzss.map
 SUMMARY:Zimowe zawody dynamiczne 2026
 DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Strzelba: Dynamiczna, Klasa: Open
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260418-trap_25_puchar_prezesa_ks_tarcza_szamotuly@wzss.map
 SUMMARY:TRAP 25 – Puchar Prezesa KS Tarcza Szamotuły
 DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1390
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260726-trap_25_wakacyjny_rzutek@wzss.map
 SUMMARY:TRAP 25 – Wakacyjny rzutek
 DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1504
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261018-trap_25_puchar_klubu_ks_tarcza_szamotuly@wzss.map
 SUMMARY:TRAP 25 – Puchar Klubu KS Tarcza Szamotuły
 DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1511

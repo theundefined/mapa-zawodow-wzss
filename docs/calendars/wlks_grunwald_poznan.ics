@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260216-walczymy_o_licencje_na_2027_rok@wzss.map
 SUMMARY:Walczymy o Licencje na 2027 rok
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1343
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260323-memorial_izabeli_szwarczynskiej@wzss.map
 SUMMARY:Memoriał Izabeli Szwarczyńskiej
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1397
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260420-turniej_cztery_pory_roku_wiosna_2026@wzss.map
 SUMMARY:Turniej Cztery Pory Roku WIOSNA 2026
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1417
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260518-pistolet_pcz_karabin_kcz_strzelba@wzss.map
 SUMMARY:Pistolet Pcz, Karabin Kcz, Strzelba
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1418
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260615-turniej_cztery_pory_roku_lato_2026@wzss.map
 SUMMARY:Turniej Cztery Pory Roku Lato 2026
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1420
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260921-mistrzostwa_wlkp_klubu_strzeleckiego_grunwald@wzss.map
 SUMMARY:Mistrzostwa Wlkp. Klubu Strzeleckiego Grunwald
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1421
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261026-mistrzostwa_wlkp_klubu_strzeleckiego_grunwald@wzss.map
 SUMMARY:Mistrzostwa Wlkp. Klubu Strzeleckiego Grunwald
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1424
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261109-strzelanie_uzupelniajace_licencja_na_2027_rok@wzss.map
 SUMMARY:Strzelanie uzupełniające / Licencja na 2027 rok
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1425
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261207-turniej_cztery_pory_roku_zima_2026@wzss.map
 SUMMARY:Turniej Cztery Pory Roku Zima 2026
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1423
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20261012-turniej_cztery_pory_roku_jesien_2026@wzss.map
 SUMMARY:Turniej Cztery Pory Roku Jesień 2026
 DESCRIPTION:Bronie: Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1422

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260627-o_puchar_prezesa_klubu_strrzeleckiego_margolin_grunwald_616@wzss.map
 SUMMARY:O Puchar Prezesa Klubu Strrzeleckiego Margolin-Grunwald "616"
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1403
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260808-zakonczenie_lata_klub_strzelecki_margolin_swieto_wojska_polskiego@wzss.map
 SUMMARY:Zakończenie Lata- Klub Strzelecki Margolin-Święto Wojska Polskiego
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1404

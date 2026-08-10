@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260620-xxviii_turniej_o_bulawe_marszalka_wlkp@wzss.map
 SUMMARY:XXVIII Turniej o Buławę Marszałka Wlkp
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1484
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260815-puchar_komendanta_st_smoly_a_t_pawlowskich@wzss.map
 SUMMARY:Puchar Komendanta , St. Smoły , A.T. Pawłowskich
 DESCRIPTION:Bronie: Karabin: Sportowa i Dynamiczna, Pistolet: Sportowa i Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1528

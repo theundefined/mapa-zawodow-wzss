@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260809T040935Z
+DTSTAMP:20260810T042153Z
 UID:20260613-piknik_strzelecki_krol_kurkowy_2026@wzss.map
 SUMMARY:Piknik Strzelecki Król Kurkowy 2026
 DESCRIPTION:Bronie: Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1449
