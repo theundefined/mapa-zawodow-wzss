@@ -694,8 +694,8 @@
     {
         "club": "BOCK Rawicz",
         "location": "Rawicz-Sierakowo",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.6186933,
+        "longitude": 16.8562254,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -731,8 +731,8 @@
     {
         "club": "NSS Czarnków",
         "location": "Strzelnica Kurkowego Bractwa Strzeleckiego Margonin",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.966667,
+        "longitude": 17.1,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -750,8 +750,8 @@
     {
         "club": "MAGNUM Poznań",
         "location": "Strzelnica Magnum, Poznań ul. Witosa 45",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -888,8 +888,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -981,8 +981,8 @@
     {
         "club": "VIS Gostyń",
         "location": "Gostyń, ul. Wrocławska 45 A",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.8692551,
+        "longitude": 17.0131082,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1041,8 +1041,8 @@
     {
         "club": "BOCK Rawicz",
         "location": "Rawicz-leśniczówka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.6186933,
+        "longitude": 16.8562254,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1058,8 +1058,8 @@
     {
         "club": "ZBROJOWNIA Suchy Las",
         "location": "Strzelnica Lizawka  ul. Bałtycka 79 Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1077,8 +1077,8 @@
     {
         "club": "KBS Śmigiel",
         "location": "Śmigiel ul. Kościuszki 20",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.0153854,
+        "longitude": 16.5238932,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1150,8 +1150,8 @@
     {
         "club": "TARCZA Poznań",
         "location": "Strzelnica NITRO os. Lipowe 16",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.2491493,
+        "longitude": 17.0538962,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1168,8 +1168,8 @@
     {
         "club": "NSS Czarnków",
         "location": "Chodzież",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1187,8 +1187,8 @@
     {
         "club": "BELLONA Kalisz",
         "location": "Strzelnica JÓŹWIAK, Nowolipsk 59 gm. Chocz",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1281,8 +1281,8 @@
     {
         "club": "FORT Słupca",
         "location": "Gajowa 1, 62-400 Słupca",
-        "latitude": 51.0951816,
-        "longitude": 17.0405947,
+        "latitude": 52.290898,
+        "longitude": 17.8878214,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1310,8 +1310,8 @@
     {
         "club": "BOCK Rawicz",
         "location": "Rawicz-Sierakowo, Rawicz-leśniczówka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.6186933,
+        "longitude": 16.8562254,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1359,8 +1359,8 @@
     {
         "club": "KBS Śrem",
         "location": "ŚREM ZAMENHOFA 5",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.082897,
+        "longitude": 17.0195888,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1487,8 +1487,8 @@
     {
         "club": "BURSZTYN Kalisz",
         "location": "Pleszew – strzelnica Karczemka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.883333,
+        "longitude": 17.783333,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1591,8 +1591,8 @@
     {
         "club": "TARCZA Szamotuły",
         "location": "Mutowo",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.638221868887385,
+        "longitude": 16.58586710625372,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1751,8 +1751,8 @@
     {
         "club": "MUSZKIET Konin",
         "location": "Potażniki nr 3A",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.1727,
+        "longitude": 18.33923,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1770,8 +1770,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa ,,Jóźwiak\", Nowolipsk 59, 63-313 Chocz",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1789,8 +1789,8 @@
     {
         "club": "ZBROJOWNIA Suchy Las",
         "location": "Strzelnica Lizawka Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1858,8 +1858,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45 Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1875,8 +1875,8 @@
     {
         "club": "WIG Gniezno",
         "location": "Nitro Mościenica",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.2491493,
+        "longitude": 17.0538962,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1893,8 +1893,8 @@
     {
         "club": "WIARUS Oborniki",
         "location": "Nad Flintą",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.6871903,
+        "longitude": 16.8244783,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1957,8 +1957,8 @@
     {
         "club": "BELLONA Kalisz",
         "location": "Ostrów Wlkp ul. Kaliska 87 - strzelnica LOK",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.65645,
+        "longitude": 17.83473,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -1993,8 +1993,8 @@
     {
         "club": "BURSZTYN Kalisz",
         "location": "Kalisz - strzelnica ZSPP",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.7543192,
+        "longitude": 18.0846727,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2044,8 +2044,8 @@
     {
         "club": "CZARNY LOTOS ZŁOTNIKI",
         "location": "STRZELNICA PZŁ W KRZYWINIU",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2063,8 +2063,8 @@
     {
         "club": "TARCZA Poznań",
         "location": "Strzelnica NITRO Mościenica os. Lipowe 16",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.2491493,
+        "longitude": 17.0538962,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2118,8 +2118,8 @@
     {
         "club": "WKSS Poznań",
         "location": "Strzelnica Bractwa Kurkowego w Margoninie",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.966667,
+        "longitude": 17.1,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2147,8 +2147,8 @@
     {
         "club": "SNAJPER Poznań",
         "location": "Strzelnica sportowa Grodzisk Wielkopolski - Zdrój",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.233333,
+        "longitude": 16.433333,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2165,8 +2165,8 @@
     {
         "club": "RENEGACI Bytkowo",
         "location": "Nieczajna 33",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.5822785,
+        "longitude": 16.75799,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2183,8 +2183,8 @@
     {
         "club": "NIECZAJNA Złotniki",
         "location": "Strzelnica Nieczajna",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.5822785,
+        "longitude": 16.75799,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2242,8 +2242,8 @@
     {
         "club": "TARCZA Piła",
         "location": "HUBERTUS w Chodzieży",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2280,8 +2280,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa ,,Jóźwiak\", Nowolipsk 59",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2298,8 +2298,8 @@
     {
         "club": "HONOR Wolsztyn",
         "location": "Strzelnica Krutla pomiędzy Wolsztynem a Obrą (oznaczona na mapach google)",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.0942994,
+        "longitude": 16.059383,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2357,8 +2357,8 @@
     {
         "club": "BELLONA Kalisz",
         "location": "Strzelnica LEONHARD - Radziwiłłów k/Gorzyce Wielkie",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.6235865,
+        "longitude": 17.7116663,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2376,8 +2376,8 @@
     {
         "club": "MUSZKIET Wieleń",
         "location": "strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.8834648,
+        "longitude": 16.1747902,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2405,8 +2405,8 @@
     {
         "club": "TARCZA Szamotuły",
         "location": "Dąbrówka Leśna",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.68416,
+        "longitude": 16.8087,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2438,8 +2438,8 @@
     {
         "club": "VIS Gostyń",
         "location": "Strzelnica TRAP Krotoszyn, ul. Bolewskiego",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.6726614,
+        "longitude": 17.4326468,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2487,8 +2487,8 @@
     {
         "club": "COMMANDO Luboń",
         "location": "Dąbrówka Leśna",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.68416,
+        "longitude": 16.8087,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2516,8 +2516,8 @@
     {
         "club": "7,62 Trzcianka",
         "location": "Strzelnica Sarbka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.93148,
+        "longitude": 16.64697,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2563,8 +2563,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45 (ul. Dojazd ) Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2580,8 +2580,8 @@
     {
         "club": "DIANA Poznań",
         "location": "Strzelnica myśliwsko-sportowa LIZAWKA, ul. Bałtycka 79, Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2613,8 +2613,8 @@
     {
         "club": "NAŁĘCZ Czarnków",
         "location": "Sarbka 52 64-700 Czarnków",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.93148,
+        "longitude": 16.64697,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2652,8 +2652,8 @@
     {
         "club": "KŻR LOK Leszno",
         "location": "Strzelnica WBK Włoszakowice ul. Kurpińskiego 29",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9313254,
+        "longitude": 16.3678696,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2670,8 +2670,8 @@
     {
         "club": "DO CELU Leszno",
         "location": "STRZELNICA MYSLIWSKO-SPORTOWA PZŁ W KRZYWNIU",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2872,8 +2872,8 @@
     {
         "club": "NSS Czarnków",
         "location": "Hubertus Chodzież",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2941,8 +2941,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa ,,Jóźwiak\" k. Chocza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2960,8 +2960,8 @@
     {
         "club": "MUSZKIET Wieleń",
         "location": "Wieleń - strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.8834648,
+        "longitude": 16.1747902,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -2979,8 +2979,8 @@
     {
         "club": "KBSK Kalisz",
         "location": "Strzelnica Kaliskiego Bractwa Strzelców Kurkowych, Wał Jagielloński 9, 62-800 Kalisz",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.7561727,
+        "longitude": 18.1081954,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3024,8 +3024,8 @@
     {
         "club": "JASTRZĄB Swarzędz",
         "location": "Strzelnica LOK, Września, ul Ogrodowa 6",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.3254863,
+        "longitude": 17.5816401,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3060,8 +3060,8 @@
     {
         "club": "BELLONA Kalisz",
         "location": "Strzelnica sportowa JÓŹWIAK -  Nowolipsk 59",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3158,8 +3158,8 @@
     {
         "club": "SHADOW Mosina",
         "location": "Strzelnica w Robaczynie",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.99254,
+        "longitude": 16.55936,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3177,8 +3177,8 @@
     {
         "club": "VALKIRIA Leszno",
         "location": "Strzelnica w Czaczu, ul. Wielichowska 42",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.0428,
+        "longitude": 16.53204,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3226,8 +3226,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45 ( Dojazd ) Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3245,8 +3245,8 @@
     {
         "club": "BK Wronki",
         "location": "BK Wronki Szklarnia 6a",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.7157289,
+        "longitude": 16.34705,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3263,8 +3263,8 @@
     {
         "club": "TARCZA Piła",
         "location": "Chodzież",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3292,8 +3292,8 @@
     {
         "club": "FORT Słupca",
         "location": "Strzelnica MOSIR , Gajowa 1, 62-400 Słupca",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.290898,
+        "longitude": 17.8878214,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3311,8 +3311,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa ,,Jóźwiak\" Nowolipsk 59 k. Chocza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3330,8 +3330,8 @@
     {
         "club": "SOKÓŁ Kazimierz Biskupi",
         "location": "Kazimierz Biskupi",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.31475,
+        "longitude": 18.16951,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3349,8 +3349,8 @@
     {
         "club": "TARCZA Poznań",
         "location": "Strzelnica NIECZAJNA 33",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.5822785,
+        "longitude": 16.75799,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3366,8 +3366,8 @@
     {
         "club": "BURSZTYN Kalisz",
         "location": "Wolica strzelnica PZŁ",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.7067747,
+        "longitude": 18.1471074,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3419,8 +3419,8 @@
     {
         "club": "TARCZA Poznań",
         "location": "Strzelnic NIECZAJNA 33",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.5822785,
+        "longitude": 16.75799,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3445,8 +3445,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica sportowa ,,Kamień\" k. Kalisza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.8222476,
+        "longitude": 18.2322998,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3463,8 +3463,8 @@
     {
         "club": "KBS Swarzędz",
         "location": "Lizawka - Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3489,8 +3489,8 @@
     {
         "club": "CZARNY LOTOS ZŁOTNIKI",
         "location": "Strzelnica PZŁ w Krzywiniu",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3508,8 +3508,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45 ( ul. Dojazd )",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3561,8 +3561,8 @@
     {
         "club": "BK Rawicz",
         "location": "Rawicz , Targowa 1",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.60578,
+        "longitude": 16.860494,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3588,8 +3588,8 @@
     {
         "club": "WKSS Poznań",
         "location": "Nowolipsk",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3607,8 +3607,8 @@
     {
         "club": "SOKÓŁ Kazimierz Biskupi",
         "location": "Kazimierz Biskupi ul. Kościuszki 6",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.31475,
+        "longitude": 18.16951,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3626,8 +3626,8 @@
     {
         "club": "MARGOLIN Kalisz",
         "location": "Strzelnica sportowa Jóźwiak Nowolipsk 59 k/Chocza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3645,8 +3645,8 @@
     {
         "club": "TARCZA Piła",
         "location": "Chodziez",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.0077681,
+        "longitude": 16.8962952,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3704,8 +3704,8 @@
     {
         "club": "BŁYSK Odolanów",
         "location": "Strzelnica Sportowa \"Jóźwiak\" Nowolipsk",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3732,8 +3732,8 @@
     {
         "club": "BELLONA Kalisz",
         "location": "Nowolipsk 59, gm. Chocz",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3776,8 +3776,8 @@
     {
         "club": "GUARDIANS Nowolipsk",
         "location": "Strzelnica Sportowa ,,Kamień\" k. Kalisza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.8222476,
+        "longitude": 18.2322998,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3794,8 +3794,8 @@
     {
         "club": "WIG Gniezno",
         "location": "Strzelnica Orchowo",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.5063314,
+        "longitude": 18.0147496,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3831,8 +3831,8 @@
     {
         "club": "NAŁĘCZ Czarnków",
         "location": "Strzelnica : KŁ Darz Bór Połajewo ; miejscowość Boruszyn przy Leśniczówce.",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.7706311,
+        "longitude": 16.6392153,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3850,8 +3850,8 @@
     {
         "club": "MARGOLIN Kalisz",
         "location": "Strzelnica Sportowa \"Jóźwiak\" Nowolipsk 59 k/Chocza",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9500701,
+        "longitude": 17.9364674,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3869,8 +3869,8 @@
     {
         "club": "KŻR LOK Leszno",
         "location": "Strzelnica sportowo-myśliwska PZŁ Krzywiń ul. Strzelecka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3886,8 +3886,8 @@
     {
         "club": "CZARNY LOTOS ZŁOTNIKI",
         "location": "Strzelnica sportowa centralny zapłon w Łucjanowie",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3905,8 +3905,8 @@
     {
         "club": "LBK Luboń",
         "location": "Poznań ul Bałtycka 79",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3924,8 +3924,8 @@
     {
         "club": "DO CELU Leszno",
         "location": "STRZELNICA MYSLIWSKO SPOROTWA PZŁ W KRZYWINIU",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3973,8 +3973,8 @@
     {
         "club": "JASTRZĄB Swarzędz",
         "location": "Strzelnica Koła Łowieckiego nr 40 Diana",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -3992,8 +3992,8 @@
     {
         "club": "JASTRZĄB Swarzędz",
         "location": "Lizawka, ul. Bałtycka",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4011,8 +4011,8 @@
     {
         "club": "JEDENASTKA Witaszyce",
         "location": "i WZSS Strzelnica BRYLLANDIA WITASZYCE UL. PIASKOWA 28",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9300422,
+        "longitude": 17.5798909,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4028,8 +4028,8 @@
     {
         "club": "MUSZKIET Wieleń",
         "location": "Strzelnica M-GOK- Wieleń ul. Sportowa 8; 64-730 Wieleń",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.8834648,
+        "longitude": 16.1747902,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4047,8 +4047,8 @@
     {
         "club": "NAŁĘCZ Czarnków",
         "location": "Strzelnica Sarbka 52  64-700 Czarnków",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.93148,
+        "longitude": 16.64697,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4066,8 +4066,8 @@
     {
         "club": "KŻR LOK Leszno",
         "location": "Strzelnica KBS Włoszakowice ul. Kurpińskiego",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.9313254,
+        "longitude": 16.3678696,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4091,8 +4091,8 @@
     {
         "club": "AMARANT Poznań",
         "location": "Międzychód-Przedlesie",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.6102593,
+        "longitude": 15.8784911,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4110,8 +4110,8 @@
     {
         "club": "TARCZA Poznań",
         "location": "Strzelnica NITRO Mościenica os.Lipowe 16",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.2491493,
+        "longitude": 17.0538962,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4128,8 +4128,8 @@
     {
         "club": "WLKS GRUNWALD Poznań",
         "location": "KS Magnum ul. Witosa 45 ( Dojazd )",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.4305486,
+        "longitude": 16.9013878,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4145,8 +4145,8 @@
     {
         "club": "VIS Gostyń",
         "location": "Krzywiń, ul. Strzelecka 15",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.962928,
+        "longitude": 16.819295,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4163,8 +4163,8 @@
     {
         "club": "KBS Śmigiel",
         "location": "Śmigiel ul Kościuszki 20",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.0153854,
+        "longitude": 16.5238932,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4180,8 +4180,8 @@
     {
         "club": "BURSZTYN Kalisz",
         "location": "Pleszew - strzelnica, ul. Poniatowskiego 7",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.8888362,
+        "longitude": 17.7762698,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4197,8 +4197,8 @@
     {
         "club": "LESNA Leszno",
         "location": "Strzelnica Sportowa pl. T. Kościuszki 5, 64-100 Leszno",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 51.8475269,
+        "longitude": 16.5765565,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4214,8 +4214,8 @@
     {
         "club": "NSS Czarnków",
         "location": "Strzelnica Margonin",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.966667,
+        "longitude": 17.1,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
@@ -4233,8 +4233,8 @@
     {
         "club": "ZBROJOWNIA Suchy Las",
         "location": "Strzelnica Lizawka  Poznań",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.420392,
+        "longitude": 17.0219185,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
