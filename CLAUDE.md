@@ -38,12 +38,14 @@ Brak testów jednostkowych w repo.
 
 1. **Pobranie i parsowanie HTML** (`fetch_competitions_html`, `parse_competitions`) — strona portalu WZSS jest scrapowana przez BeautifulSoup na podstawie klas Tailwind (`text-2xl` jako nagłówki miesięcy, `sm:grid-cols-12` jako wiersze zawodów). To krucha, strukturalna zależność od HTML-a portalu — jeśli scraper przestanie działać, najpierw sprawdź, czy zmieniła się struktura/klasy CSS na `portal.wzss.pl`.
 2. **Wzbogacenie o współrzędne** — `locations.csv` to ręcznie utrzymywana mapa `location_text -> (latitude, longitude, website)`. Nowe lokalizacje wykryte podczas scrapowania trafiają do CSV z pustymi współrzędnymi (`update_locations_csv`) i wymagają ręcznego uzupełnienia lat/lon przed kolejnym uruchomieniem, inaczej zawody nie pojawią się na mapie (`verify_locations.py` do tego służy).
-3. **Generowanie kalendarzy ICS** (`save_calendars`, `generate_slug`, `parse_date_range_for_ics`) — dla każdego klubu tworzony jest osobny plik `calendars/<slug>.ics`, gdzie `<slug>` to transliterowana nazwa klubu (polskie znaki -> ASCII, spacje -> `_`). Parsowanie dat obsługuje polskie skróty miesięcy (`sty`, `lut`, ...) oraz zakresy dat typu `"27 - 28 lut 2026"`.
-4. **Wyjścia**: `competitions.json` (lista lokalizacji z zagnieżdżonymi zawodami) i katalog `calendars/`.
+3. **Generowanie kalendarzy ICS** (`save_calendars`, `generate_slug`, `parse_date_range_for_ics`) — dla każdego klubu tworzony jest osobny plik `calendars/<slug>.ics` (katalog lokalny, gitignorowany — patrz niżej), gdzie `<slug>` to transliterowana nazwa klubu (polskie znaki -> ASCII, spacje -> `_`). Parsowanie dat obsługuje polskie skróty miesięcy (`sty`, `lut`, ...) oraz zakresy dat typu `"27 - 28 lut 2026"`.
+4. **Wyjścia**: `competitions.json` (lista lokalizacji z zagnieżdżonymi zawodami) i lokalny katalog `calendars/` — oba to tylko pośredni build output kroku "Fetch new data" w workflow, kopiowany dalej do `docs/`.
 
 ### Publikacja (`docs/`)
 
-`docs/` to katalog serwowany przez GitHub Pages i musi zawierać kopie `competitions.json`, `calendars/*.ics` oraz `index.html` (kopia `map.html`). Workflow (`.github/workflows/update_map.yml`) kopiuje te pliki po scrapowaniu — **jeśli edytujesz `map.html` ręcznie, pamiętaj też o `docs/index.html`** (oba muszą pozostać identyczne; workflow tego automatycznie nie robi dla `index.html`, tylko dla danych).
+`docs/` to jedyny katalog serwowany przez GitHub Pages i jedyne miejsce, gdzie `.ics`-y trafiają do gita — musi zawierać kopie `competitions.json`, `calendars/*.ics` (w `docs/calendars/`) oraz `index.html` (kopia `map.html`). Workflow (`.github/workflows/update_map.yml`) kopiuje te pliki po scrapowaniu — **jeśli edytujesz `map.html` ręcznie, pamiętaj też o `docs/index.html`** (oba muszą pozostać identyczne; workflow tego automatycznie nie robi dla `index.html`, tylko dla danych).
+
+Lokalny katalog `calendars/` w korzeniu repo jest w `.gitignore` — to tylko robocze wyjście `fetch_competitions.py` przed skopiowaniem do `docs/calendars/` przez workflow, nigdy nie jest commitowany (żeby nie dryfował niezależnie od tego, co faktycznie jest publikowane).
 
 ### Frontend (`map.html` / `docs/index.html`)
 
