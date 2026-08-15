@@ -5,22 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:COMMANDO Luboń - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-DTSTAMP:20260810T042153Z
-UID:20260419-o_puchar_prezesa@wzss.map
-SUMMARY:O Puchar Prezesa
-DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1440
-LOCATION:Dąbrówka Leśna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260810T042153Z
-UID:20260927-memorial_pogromcow_enigmy@wzss.map
-SUMMARY:Memoriał Pogromców Enigmy
-DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1441
-LOCATION:Dąbrówka Leśna
-END:VEVENT
 END:VCALENDAR

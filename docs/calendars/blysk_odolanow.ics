@@ -5,22 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BŁYSK Odolanów - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DTSTAMP:20260810T042153Z
-UID:20260705-ku_pamieci_bitwy_kluszynskiej_4_vii_1610@wzss.map
-SUMMARY:Ku pamięci Bitwy Kłuszyńskiej 4 VII 1610
-DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1260
-LOCATION:Strzelnica Sportowa "Jóźwiak" Nowolipsk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20260810T042153Z
-UID:20261011-ku_pamieci_bitwy_odolanowskiej_22_x_1945_najwiekszej_wielkopolskiej_potyczki_zolnierzy_niezlomnych@wzss.map
-SUMMARY:Ku pamięci Bitwy Odolanowskiej 22 X 1945 Największej Wielkopolskiej  Potyczki Żołnierzy Niezłomnych
-DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
-LOCATION:Strzelnica Sportowa "Jóźwiak" Nowolipsk
-END:VEVENT
 END:VCALENDAR
