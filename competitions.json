@@ -1294,16 +1294,6 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
-            },
-            {
-                "date": "3 paź 2026",
-                "regulation_link": "https://portal.wzss.pl/regulation/1222",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
             }
         ]
     },
@@ -3305,6 +3295,16 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "3 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1222",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -3390,6 +3390,16 @@
             },
             {
                 "date": "29 sie 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1492",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "29 sie 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1494",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -3398,6 +3408,7 @@
             },
             {
                 "date": "19 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1493",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3470,14 +3481,6 @@
             {
                 "date": "13 cze 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1449",
-                "weapons": [
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "30 sie 2026",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
@@ -4089,6 +4092,24 @@
         ]
     },
     {
+        "club": "WIARUS Oborniki",
+        "location": "Nad Flintą Dąbrówk Leśna",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "19 wrz 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "AMARANT Poznań",
         "location": "Międzychód-Przedlesie",
         "latitude": 52.6102593,
@@ -4120,7 +4141,7 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
-                    "Klasa:"
+                    "Klasa:\n                                                                                                    Open"
                 ]
             }
         ]
