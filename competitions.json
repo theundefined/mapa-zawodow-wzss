@@ -2994,7 +2994,7 @@
                 ]
             },
             {
-                "date": "3 paź 2026",
+                "date": "19 wrz 2026",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4059,6 +4059,31 @@
         ]
     },
     {
+        "club": "BK Rawicz",
+        "location": "Bractwa Kurkowego w Rawiczu , Targowa 1",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "12 wrz 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:"
+                ]
+            }
+        ]
+    },
+    {
         "club": "NAŁĘCZ Czarnków",
         "location": "Strzelnica Sarbka 52  64-700 Czarnków",
         "latitude": 52.93148,
@@ -4125,10 +4150,11 @@
         "location": "SCHRON85 62-510 Konin ul. Przemysłowa 85 (teren fugo)",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://portal.wzss.pl",
         "competitions": [
             {
                 "date": "20 - 29 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1538",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
