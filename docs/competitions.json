@@ -3163,6 +3163,16 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "26 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1541",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -3833,7 +3843,7 @@
                 ]
             },
             {
-                "date": "4 paź 2026",
+                "date": "25 paź 2026",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4076,10 +4086,29 @@
             },
             {
                 "date": "10 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1540",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Klasa:"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WKSS Poznań",
+        "location": "Strzelnica \"JÓŹWIAK\" Nowolipsk",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "12 wrz 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
                 ]
             }
         ]
