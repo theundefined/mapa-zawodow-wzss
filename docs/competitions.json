@@ -3173,6 +3173,15 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "21 lis 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -4104,6 +4113,7 @@
         "competitions": [
             {
                 "date": "12 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1542",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
