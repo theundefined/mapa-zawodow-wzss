@@ -2532,6 +2532,7 @@
             },
             {
                 "date": "20 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1315",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2994,7 +2995,7 @@
                 ]
             },
             {
-                "date": "19 wrz 2026",
+                "date": "24 paź 2026",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4151,6 +4152,7 @@
         "competitions": [
             {
                 "date": "19 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1526",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4237,6 +4239,25 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "LBK Luboń",
+        "location": "Lizawka ul Bałtycka 79 Poznań",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1544",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
