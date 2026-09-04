@@ -1705,6 +1705,7 @@
             },
             {
                 "date": "4 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1510",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
@@ -4144,6 +4145,32 @@
         ]
     },
     {
+        "club": "BK Wronki",
+        "location": "Szklarnia 6a, 64-510 Wronki",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "17 wrz 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1545",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "15 paź 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "KŻR LOK Leszno",
         "location": "Strzelnica KBS Włoszakowice ul. Kurpińskiego",
         "latitude": 51.9313254,
@@ -4235,6 +4262,7 @@
         "competitions": [
             {
                 "date": "9 - 11 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1531",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -4252,7 +4280,7 @@
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
-                "date": "10 paź 2026",
+                "date": "11 paź 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1544",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
