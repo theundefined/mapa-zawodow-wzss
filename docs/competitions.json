@@ -3791,14 +3791,6 @@
                 ]
             },
             {
-                "date": "19 wrz 2026",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
                 "date": "10 paź 2026",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -4162,6 +4154,7 @@
             },
             {
                 "date": "15 paź 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1546",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
