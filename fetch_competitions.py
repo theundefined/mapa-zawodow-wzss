@@ -145,7 +145,7 @@ def parse_competitions(
                 if date_div:
                     competition["date"] = date_div.text.strip()
 
-                name_strong = sibling.find("strong", class_="leading-4")
+                name_strong = sibling.find(class_="competition-name")
                 if name_strong:
                     competition["name"] = name_strong.text.strip()
 

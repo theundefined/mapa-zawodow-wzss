@@ -5,4 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BK Rawicz - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+DTSTAMP:20260905T205633Z
+UID:20260620-xxviii_turniej_o_bulawe_marszalka_wlkp@wzss.map
+SUMMARY:XXVIII Turniej o Buławę Marszałka Wlkp
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1484
+LOCATION:Rawicz , Targowa 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260905T205633Z
+UID:20260815-puchar_komendanta_st_smoly_a_t_pawlowskich@wzss.map
+SUMMARY:Puchar Komendanta , St. Smoły , A.T. Pawłowskich
+DESCRIPTION:Bronie: Karabin: Sportowa i Dynamiczna, Pistolet: Sportowa i Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1528
+LOCATION:Rawicz , Targowa 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260905T205633Z
+UID:20260912-iii_turniej_o_ryngraf_aop_przyjemskiego@wzss.map
+SUMMARY:III Turniej o Ryngraf  AOP Przyjemskiego
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1539
+LOCATION:Rawicz , Targowa 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260905T205633Z
+UID:20261010-turniej_leszka_i_marcina_stonskich_i_roberta_szymkowiaka@wzss.map
+SUMMARY:Turniej  Leszka i Marcina Stońskich i Roberta Szymkowiaka
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa:\nRegulamin: https://portal.wzss.pl/regulation/1540
+LOCATION:Rawicz , Targowa 1
+END:VEVENT
 END:VCALENDAR

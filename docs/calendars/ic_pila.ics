@@ -5,4 +5,85 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:IC Piła - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+DTSTAMP:20260905T205633Z
+UID:20260321-puchar_wiosny@wzss.map
+SUMMARY:Puchar Wiosny
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1207
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+DTSTAMP:20260905T205633Z
+UID:20260418-zdobywanie_odznaki_pzss_puchar_zarzadu_klubu@wzss.map
+SUMMARY:Zdobywanie Odznaki PZSS - Puchar Zarządu Klubu
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1379
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DTSTAMP:20260905T205633Z
+UID:20260517-puchar_starosty_pilskiego@wzss.map
+SUMMARY:Puchar Starosty Pilskiego
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1380
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DTSTAMP:20260905T205633Z
+UID:20260614-wakacje_2026@wzss.map
+SUMMARY:Wakacje 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1381
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DTSTAMP:20260905T205633Z
+UID:20260726-v_boj_wakacyjny@wzss.map
+SUMMARY:V-bój wakacyjny
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1516
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260905T205633Z
+UID:20260919-puchar_jesieni@wzss.map
+SUMMARY:Puchar Jesieni
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1382
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260905T205633Z
+UID:20261017-mistrzostwa_regionu_w_rt_oraz_zawody_w_konkurencjach_dynamicznych_pistolet_strzelba_o_puchar_zarzadu_klubu@wzss.map
+SUMMARY:Mistrzostwa Regionu w RT oraz Zawody w Konkurencjach Dynamicznych pistolet/strzelba o Puchar Zarządu Klubu
+DESCRIPTION:Bronie: Karabin: Sportowa i Dynamiczna, Pistolet: Sportowa i Dynamiczna, Strzelba: Sportowa i Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1383
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260905T205633Z
+UID:20261114-puchar_niepodleglosci@wzss.map
+SUMMARY:Puchar Niepodległości
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1384
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260905T205633Z
+UID:20261205-zawody_mikolajkowe@wzss.map
+SUMMARY:Zawody Mikołajkowe
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1385
+LOCATION:Hubertus - Studzieniec 28a
+END:VEVENT
 END:VCALENDAR

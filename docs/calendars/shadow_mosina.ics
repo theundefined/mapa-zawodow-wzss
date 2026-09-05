@@ -5,4 +5,31 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:SHADOW Mosina - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DTSTAMP:20260905T205633Z
+UID:20260516-otwarte_zawody_strzeleckie_grand_prix_i@wzss.map
+SUMMARY:Otwarte Zawody Strzeleckie - Grand Prix I
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1468
+LOCATION:Strzelnica w Robaczynie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260905T205633Z
+UID:20260926-otwarte_zawody_strzeleckie_grand_prix_ii@wzss.map
+SUMMARY:Otwarte Zawody Strzeleckie - Grand Prix II
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1541
+LOCATION:Strzelnica w Robaczynie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260905T205633Z
+UID:20261121-otwarte_zawody_strzeleckie_grand_prix_iii@wzss.map
+SUMMARY:Otwarte Zawody Strzeleckie - Grand Prix III
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
+LOCATION:Strzelnica w Robaczynie
+END:VEVENT
 END:VCALENDAR

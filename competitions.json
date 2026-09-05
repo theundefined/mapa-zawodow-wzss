@@ -8,6 +8,7 @@
         "competitions": [
             {
                 "date": "10 sty 2026",
+                "name": "Otwarte Zawody Strzeleckie „Rozpoczęcie Sezonu”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1232",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -18,6 +19,7 @@
             },
             {
                 "date": "1 lut 2026",
+                "name": "Otwarte Zawody Strzeleckie „Zawody Rocznicowe”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1233",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -28,6 +30,7 @@
             },
             {
                 "date": "15 mar 2026",
+                "name": "Otwarte Zawody Strzeleckie „Zawody Wiosenne”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1386",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -47,6 +50,7 @@
         "competitions": [
             {
                 "date": "10 sty 2026",
+                "name": "Rozpoczęcie Sezonu 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1177",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -56,6 +60,7 @@
             },
             {
                 "date": "24 sty 2026",
+                "name": "Zawody Pistolet Wojskowy I + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1213",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -65,6 +70,7 @@
             },
             {
                 "date": "31 sty 2026",
+                "name": "Zawody Pistolet Standard I + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1252",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -74,6 +80,7 @@
             },
             {
                 "date": "14 lut 2026",
+                "name": "Puchar Zimy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1268",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -83,6 +90,7 @@
             },
             {
                 "date": "27 - 28 lut 2026",
+                "name": "I Runda Pucharu WKS Grunwald 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1266",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -92,6 +100,7 @@
             },
             {
                 "date": "14 mar 2026",
+                "name": "Puchar Wiosny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1346",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -101,6 +110,7 @@
             },
             {
                 "date": "28 mar 2026",
+                "name": "Zawody Pistolet Wojskowy II + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1347",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -110,6 +120,7 @@
             },
             {
                 "date": "17 - 18 kwi 2026",
+                "name": "II Runda Pucharu WKS Grunwald 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1363",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -119,6 +130,7 @@
             },
             {
                 "date": "9 maj 2026",
+                "name": "Puchar Sekcji Strzeleckiej",
                 "regulation_link": "https://portal.wzss.pl/regulation/1362",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -128,6 +140,7 @@
             },
             {
                 "date": "23 maj 2026",
+                "name": "Zawody Pistolet Wojskowy III + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1367",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -137,6 +150,7 @@
             },
             {
                 "date": "13 cze 2026",
+                "name": "Puchar Lata",
                 "regulation_link": "https://portal.wzss.pl/regulation/1366",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -146,6 +160,7 @@
             },
             {
                 "date": "8 sie 2026",
+                "name": "Mistrzostwa WKS Grunwald Poznań 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1364",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -155,6 +170,7 @@
             },
             {
                 "date": "5 wrz 2026",
+                "name": "XII Memoriał Andrzeja Tomasika",
                 "regulation_link": "https://portal.wzss.pl/regulation/1368",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -164,6 +180,7 @@
             },
             {
                 "date": "18 - 19 wrz 2026",
+                "name": "III Runda Pucharu WKS Grunwald 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1369",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -173,6 +190,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "Puchar Jesieni",
                 "regulation_link": "https://portal.wzss.pl/regulation/1370",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -182,6 +200,7 @@
             },
             {
                 "date": "17 paź 2026",
+                "name": "Zawody Pistolet Wojskowy IV + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1371",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -191,6 +210,7 @@
             },
             {
                 "date": "31 paź 2026",
+                "name": "Zawody Pistolet Standard II + PN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1372",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -200,6 +220,7 @@
             },
             {
                 "date": "6 - 7 lis 2026",
+                "name": "IV Runda Pucharu WKS Grunwald 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1373",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -218,6 +239,7 @@
         "competitions": [
             {
                 "date": "10 sty 2026",
+                "name": "Zawody Margonin 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1229",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -237,6 +259,7 @@
         "competitions": [
             {
                 "date": "11 sty 2026",
+                "name": "Zimowe Strzały",
                 "regulation_link": "https://portal.wzss.pl/regulation/1190",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -247,6 +270,7 @@
             },
             {
                 "date": "15 lut 2026",
+                "name": "Serca na tarczy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1191",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -257,6 +281,7 @@
             },
             {
                 "date": "14 mar 2026",
+                "name": "Wiosenne przebudzenie strzelców",
                 "regulation_link": "https://portal.wzss.pl/regulation/1192",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -267,6 +292,7 @@
             },
             {
                 "date": "18 kwi 2026",
+                "name": "Kwiaty i strzały",
                 "regulation_link": "https://portal.wzss.pl/regulation/1193",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -277,6 +303,7 @@
             },
             {
                 "date": "2 maj 2026",
+                "name": "Biało-Czerwony strzał",
                 "regulation_link": "https://portal.wzss.pl/regulation/1194",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -287,6 +314,7 @@
             },
             {
                 "date": "27 cze 2026",
+                "name": "Wakacyjny strzał",
                 "regulation_link": "https://portal.wzss.pl/regulation/1195",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -297,6 +325,7 @@
             },
             {
                 "date": "22 sie 2026",
+                "name": "Wakacyjna dogrywka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1196",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -307,6 +336,7 @@
             },
             {
                 "date": "27 wrz 2026",
+                "name": "Kampania wrześniowa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1197",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -317,6 +347,7 @@
             },
             {
                 "date": "10 paź 2026",
+                "name": "Jesienny wiatr na celowniku",
                 "regulation_link": "https://portal.wzss.pl/regulation/1198",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -327,6 +358,7 @@
             },
             {
                 "date": "14 lis 2026",
+                "name": "Andrzejkowe strzały",
                 "regulation_link": "https://portal.wzss.pl/regulation/1199",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -337,6 +369,7 @@
             },
             {
                 "date": "5 gru 2026",
+                "name": "Zimowe tarcze Mikołaja",
                 "regulation_link": "https://portal.wzss.pl/regulation/1200",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -356,6 +389,7 @@
         "competitions": [
             {
                 "date": "11 sty 2026",
+                "name": "Zawody Jagiellońskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1228",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -375,6 +409,7 @@
         "competitions": [
             {
                 "date": "18 sty 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Ryngraf Św.Sebastiana\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Brackie\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1158",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -384,6 +419,7 @@
             },
             {
                 "date": "15 mar 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Wiosna w Opalenicy”\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1159",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -394,6 +430,7 @@
             },
             {
                 "date": "12 kwi 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Mistrzostwa KBS Opalenica” \n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1160",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -404,6 +441,7 @@
             },
             {
                 "date": "17 maj 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Mistrzostwa Drużynowe” \n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1161",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -414,6 +452,7 @@
             },
             {
                 "date": "14 cze 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Puchar Prezesa” \n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1162",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -424,6 +463,7 @@
             },
             {
                 "date": "9 sie 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Lato w Opalenicy”\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1163",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -434,6 +474,7 @@
             },
             {
                 "date": "6 wrz 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „Kampania Wrześniowa” \n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1164",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -444,6 +485,7 @@
             },
             {
                 "date": "4 paź 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Otwarte Zawody Strzeleckie „ Złota Jesień w Opalenicy”\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        Spotowe\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1165",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -454,6 +496,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "Jesień w Opalenicy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1166",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -464,6 +507,7 @@
             },
             {
                 "date": "8 lis 2026",
+                "name": "Otwarte Zawody Strzeleckie „Memoriał Andrzeja Szumińskiego”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1167",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -474,6 +518,7 @@
             },
             {
                 "date": "6 gru 2026",
+                "name": "Otwarte Zawody Strzeleckie „Gwiazdorskie Strzelanie”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1168",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -493,6 +538,7 @@
         "competitions": [
             {
                 "date": "24 sty 2026",
+                "name": "XIII Zimowy Turniej Pneumatyczny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1208",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -511,6 +557,7 @@
         "competitions": [
             {
                 "date": "25 sty 2026",
+                "name": "Puchar wyzwolenia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1223",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -521,6 +568,7 @@
             },
             {
                 "date": "15 lut 2026",
+                "name": "Puchar Prezesa ZR",
                 "regulation_link": "https://portal.wzss.pl/regulation/1282",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -531,6 +579,7 @@
             },
             {
                 "date": "15 mar 2026",
+                "name": "Otwarcie Sezonu Kulowego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1323",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -541,6 +590,7 @@
             },
             {
                 "date": "28 mar 2026",
+                "name": "ŚWIĘTO KŻR ,,KOMUNALNI\" LOK w KALISZ",
                 "regulation_link": "https://portal.wzss.pl/regulation/1324",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -551,6 +601,7 @@
             },
             {
                 "date": "19 kwi 2026",
+                "name": "Mistrzostwa Klubu",
                 "regulation_link": "https://portal.wzss.pl/regulation/1325",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -561,6 +612,7 @@
             },
             {
                 "date": "1 maj 2026",
+                "name": "Puchar Konstytucji",
                 "regulation_link": "https://portal.wzss.pl/regulation/1326",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -571,6 +623,7 @@
             },
             {
                 "date": "7 cze 2026",
+                "name": "Weteranów KŻR",
                 "regulation_link": "https://portal.wzss.pl/regulation/1327",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -581,6 +634,7 @@
             },
             {
                 "date": "21 cze 2026",
+                "name": "Puchar Pleszewa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1328",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -591,6 +645,7 @@
             },
             {
                 "date": "12 lip 2026",
+                "name": "Puchar Bila",
                 "regulation_link": "https://portal.wzss.pl/regulation/1330",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -601,6 +656,7 @@
             },
             {
                 "date": "9 sie 2026",
+                "name": "Puchar Starosty",
                 "regulation_link": "https://portal.wzss.pl/regulation/1332",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -611,6 +667,7 @@
             },
             {
                 "date": "23 sie 2026",
+                "name": "Memoriał Prezesa Jacka Przepierskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1333",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -621,6 +678,7 @@
             },
             {
                 "date": "6 wrz 2026",
+                "name": "Kubeł karczemki",
                 "regulation_link": "https://portal.wzss.pl/regulation/1334",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -631,6 +689,7 @@
             },
             {
                 "date": "20 wrz 2026",
+                "name": "Puchar Burmistrza Pleszewa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1335",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -641,6 +700,7 @@
             },
             {
                 "date": "4 paź 2026",
+                "name": "Jesień snajpera",
                 "regulation_link": "https://portal.wzss.pl/regulation/1336",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -651,6 +711,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "Puchar jesienny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1337",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -661,6 +722,7 @@
             },
             {
                 "date": "8 lis 2026",
+                "name": "Puchar niepodległości",
                 "regulation_link": "https://portal.wzss.pl/regulation/1338",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -671,6 +733,7 @@
             },
             {
                 "date": "6 gru 2026",
+                "name": "Puchar Barbórki",
                 "regulation_link": "https://portal.wzss.pl/regulation/1339",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -681,6 +744,7 @@
             },
             {
                 "date": "31 gru 2026",
+                "name": "Zawody sylwestrowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1340",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -700,6 +764,7 @@
         "competitions": [
             {
                 "date": "31 sty 2026",
+                "name": "Zawody z okazji 106 rocznicy Powrotu Rawicza do Polski",
                 "regulation_link": "https://portal.wzss.pl/regulation/1188",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -718,6 +783,7 @@
         "competitions": [
             {
                 "date": "1 lut 2026",
+                "name": "Zawody Toruńskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1236",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -737,6 +803,7 @@
         "competitions": [
             {
                 "date": "7 lut 2026",
+                "name": "ZAWODY LUTOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1341",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -756,6 +823,7 @@
         "competitions": [
             {
                 "date": "11 lut 2026",
+                "name": "Zawody Walentynkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1277",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -766,6 +834,7 @@
             },
             {
                 "date": "7 mar 2026",
+                "name": "Zawody na Dzień Kobiet i Mężczyzn",
                 "regulation_link": "https://portal.wzss.pl/regulation/1278",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -776,6 +845,7 @@
             },
             {
                 "date": "1 kwi 2026",
+                "name": "Zawody Wielkanocne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1279",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -786,6 +856,7 @@
             },
             {
                 "date": "6 maj 2026",
+                "name": "Majówka Strzelecka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1280",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -796,6 +867,7 @@
             },
             {
                 "date": "20 cze 2026",
+                "name": "Powitanie Lata",
                 "regulation_link": "https://portal.wzss.pl/regulation/1281",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -806,6 +878,7 @@
             },
             {
                 "date": "15 lip 2026",
+                "name": "Zawody o Puchar Prezesa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1477",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -816,6 +889,7 @@
             },
             {
                 "date": "5 sie 2026",
+                "name": "Zawody Razem z Wojskiem Polskim",
                 "regulation_link": "https://portal.wzss.pl/regulation/1478",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -826,6 +900,7 @@
             },
             {
                 "date": "5 wrz 2026",
+                "name": "Zawody Magnum Open Day",
                 "regulation_link": "https://portal.wzss.pl/regulation/1479",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -836,6 +911,7 @@
             },
             {
                 "date": "28 paź 2026",
+                "name": "Zawody Halloweenowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1480",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -846,6 +922,7 @@
             },
             {
                 "date": "28 lis 2026",
+                "name": "Zawody Andrzejkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1481",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -856,6 +933,7 @@
             },
             {
                 "date": "16 gru 2026",
+                "name": "Zawody Wigilia Strzelecka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1482",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -875,6 +953,7 @@
         "competitions": [
             {
                 "date": "14 lut 2026",
+                "name": "\"ZIMOWA 9  II/26 \"_ SI VIS PACEM PARABELLUM",
                 "regulation_link": "https://portal.wzss.pl/regulation/1209",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -894,6 +973,7 @@
         "competitions": [
             {
                 "date": "16 lut 2026",
+                "name": "Walczymy o Licencje na 2027 rok",
                 "regulation_link": "https://portal.wzss.pl/regulation/1343",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -912,6 +992,7 @@
         "competitions": [
             {
                 "date": "21 lut 2026",
+                "name": "Otwarte Zawody Klubowe #1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1154",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -922,6 +1003,7 @@
             },
             {
                 "date": "27 - 28 mar 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1157",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -931,6 +1013,7 @@
             },
             {
                 "date": "24 - 25 kwi 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1170",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -940,6 +1023,7 @@
             },
             {
                 "date": "4 - 5 wrz 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #4",
                 "regulation_link": "https://portal.wzss.pl/regulation/1172",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -949,6 +1033,7 @@
             },
             {
                 "date": "19 wrz 2026",
+                "name": "Otwarte Zawody Klubowe #2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1155",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -959,6 +1044,7 @@
             },
             {
                 "date": "16 - 17 paź 2026",
+                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #5 FINAŁ",
                 "regulation_link": "https://portal.wzss.pl/regulation/1174",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -968,6 +1054,7 @@
             },
             {
                 "date": "28 lis 2026",
+                "name": "Otwarte Zawody Klubowe #3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1156",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -987,6 +1074,7 @@
         "competitions": [
             {
                 "date": "22 lut 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1304",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -996,6 +1084,7 @@
             },
             {
                 "date": "15 mar 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1305",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1005,6 +1094,7 @@
             },
             {
                 "date": "15 lis 2026",
+                "name": "Zawody Klubowe",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -1013,6 +1103,7 @@
             },
             {
                 "date": "12 gru 2026",
+                "name": "Zawody Klubowe",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -1030,6 +1121,7 @@
         "competitions": [
             {
                 "date": "22 lut 2026",
+                "name": "Karabin centralnego zapłon, snajper i mini snajper – 100m",
                 "regulation_link": "https://portal.wzss.pl/regulation/1186",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1047,6 +1139,7 @@
         "competitions": [
             {
                 "date": "22 lut 2026",
+                "name": "XII zimowe zawody - Puchar Prezesa BOCK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1259",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -1064,6 +1157,7 @@
         "competitions": [
             {
                 "date": "22 lut 2026",
+                "name": "Otwarte Zawody Historyczne \"Bitwa o Cytadelę\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1399",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1083,6 +1177,7 @@
         "competitions": [
             {
                 "date": "22 lut 2026",
+                "name": "81 Rocznica Wyzwolenia Śmigla",
                 "regulation_link": "https://portal.wzss.pl/regulation/1357",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1092,6 +1187,7 @@
             },
             {
                 "date": "15 mar 2026",
+                "name": "Turniej Wiosenny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1358",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1101,6 +1197,7 @@
             },
             {
                 "date": "12 kwi 2026",
+                "name": "34 Rocznica Reaktywacji KBS Śmigiel",
                 "regulation_link": "https://portal.wzss.pl/regulation/1359",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1119,6 +1216,7 @@
         "competitions": [
             {
                 "date": "27 lut - 1 mar 2026",
+                "name": "KLARA IPSC HG + PCC - L1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1230",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1137,6 +1235,7 @@
         "competitions": [
             {
                 "date": "1 mar 2026",
+                "name": "Zawody Parnawskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1237",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1156,6 +1255,7 @@
         "competitions": [
             {
                 "date": "6 - 8 mar 2026",
+                "name": "IV EDYCJA POZNAŃ FIVE STEEL O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
                 "regulation_link": "https://portal.wzss.pl/regulation/1295",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1174,6 +1274,7 @@
         "competitions": [
             {
                 "date": "7 mar 2026",
+                "name": "Zawody Dzień Kobiet",
                 "regulation_link": "https://portal.wzss.pl/regulation/1409",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1193,6 +1294,7 @@
         "competitions": [
             {
                 "date": "7 mar 2026",
+                "name": "Święto Kobiet 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1267",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1212,6 +1314,7 @@
         "competitions": [
             {
                 "date": "7 mar 2026",
+                "name": "MGUN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1148",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1222,6 +1325,7 @@
             },
             {
                 "date": "18 lip 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        MGUN 2026\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1201",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1232,6 +1336,7 @@
             },
             {
                 "date": "22 sie 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        MGUN 2026\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1189",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1242,6 +1347,7 @@
             },
             {
                 "date": "12 wrz 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Bitwa pod Beresteczkiem\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1149",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1250,6 +1356,7 @@
             },
             {
                 "date": "10 paź 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Bitwa pod Wiedniem\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1203",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1259,6 +1366,7 @@
             },
             {
                 "date": "7 lis 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        MGUN 2026\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1202",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1269,6 +1377,7 @@
             },
             {
                 "date": "28 lis 2026",
+                "name": "trophy\n    \n\n\n\n\n                                                            Memoriał Mariusza Koziarskiego\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1204",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1287,6 +1396,7 @@
         "competitions": [
             {
                 "date": "14 mar 2026",
+                "name": "Powitanie Wiosny (link do zapisów w regulaminie)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1206",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1306,6 +1416,7 @@
         "competitions": [
             {
                 "date": "14 - 15 mar 2026",
+                "name": "Powitanie Wiosny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1270",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1316,6 +1427,7 @@
             },
             {
                 "date": "6 - 7 cze 2026",
+                "name": "Grand Prix Rawicza",
                 "regulation_link": "https://portal.wzss.pl/regulation/1284",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1326,6 +1438,7 @@
             },
             {
                 "date": "17 - 18 paź 2026",
+                "name": "Mistrzostwa Klubu Bock",
                 "regulation_link": "https://portal.wzss.pl/regulation/1285",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1336,6 +1449,7 @@
             },
             {
                 "date": "5 - 6 gru 2026",
+                "name": "Zawody Mikołajkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1286",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1355,6 +1469,7 @@
         "competitions": [
             {
                 "date": "14 mar 2026",
+                "name": "ZAWODY KLUBOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1344",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1365,6 +1480,7 @@
             },
             {
                 "date": "17 paź 2026",
+                "name": "ZAWODY KLUBOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1345",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1384,6 +1500,7 @@
         "competitions": [
             {
                 "date": "21 mar 2026",
+                "name": "Puchar Wiosny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1207",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1394,6 +1511,7 @@
             },
             {
                 "date": "18 kwi 2026",
+                "name": "Zdobywanie Odznaki PZSS - Puchar Zarządu Klubu",
                 "regulation_link": "https://portal.wzss.pl/regulation/1379",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1404,6 +1522,7 @@
             },
             {
                 "date": "17 maj 2026",
+                "name": "Puchar Starosty Pilskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1380",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1414,6 +1533,7 @@
             },
             {
                 "date": "14 cze 2026",
+                "name": "Wakacje 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1381",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1424,6 +1544,7 @@
             },
             {
                 "date": "26 lip 2026",
+                "name": "V-bój wakacyjny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1516",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1434,6 +1555,7 @@
             },
             {
                 "date": "19 wrz 2026",
+                "name": "Puchar Jesieni",
                 "regulation_link": "https://portal.wzss.pl/regulation/1382",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1444,6 +1566,7 @@
             },
             {
                 "date": "17 paź 2026",
+                "name": "Mistrzostwa Regionu w RT oraz Zawody w Konkurencjach Dynamicznych pistolet/strzelba o Puchar Zarządu Klubu",
                 "regulation_link": "https://portal.wzss.pl/regulation/1383",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa i Dynamiczna",
@@ -1454,6 +1577,7 @@
             },
             {
                 "date": "14 lis 2026",
+                "name": "Puchar Niepodległości",
                 "regulation_link": "https://portal.wzss.pl/regulation/1384",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1464,6 +1588,7 @@
             },
             {
                 "date": "5 gru 2026",
+                "name": "Zawody Mikołajkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1385",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1483,6 +1608,7 @@
         "competitions": [
             {
                 "date": "21 mar 2026",
+                "name": "23. Puchar Wiosny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1349",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1492,6 +1618,7 @@
             },
             {
                 "date": "21 mar 2026",
+                "name": "Turniej Strzelecki 3xTRAP50 cz. I",
                 "regulation_link": "https://portal.wzss.pl/regulation/1350",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -1500,6 +1627,7 @@
             },
             {
                 "date": "16 maj 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń małokalibrowa + Kcz) (ZK)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1353",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1509,6 +1637,7 @@
             },
             {
                 "date": "20 cze 2026",
+                "name": "32. Otwarte Mistrzostwa Południowej Wielkopolski o Puchar TASOMIX Sp. z o.o. Biskupice Ołoboczne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1356",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1519,6 +1648,7 @@
             },
             {
                 "date": "15 sie 2026",
+                "name": "26. Zawody Rezerwistów WP",
                 "regulation_link": "https://portal.wzss.pl/regulation/1491",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1538,6 +1668,7 @@
         "competitions": [
             {
                 "date": "21 mar 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1224",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1548,6 +1679,7 @@
             },
             {
                 "date": "6 cze 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1225",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1558,6 +1690,7 @@
             },
             {
                 "date": "12 wrz 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1226",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1568,6 +1701,7 @@
             },
             {
                 "date": "12 gru 2026",
+                "name": "Puchar Prezesa KS LESNA Leszno Runda 4",
                 "regulation_link": "https://portal.wzss.pl/regulation/1227",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1587,6 +1721,7 @@
         "competitions": [
             {
                 "date": "21 mar 2026",
+                "name": "Klubowa strzelba dynamiczna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1387",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1595,6 +1730,7 @@
             },
             {
                 "date": "22 mar 2026",
+                "name": "Strzelba IPSC lvl1 – I Runda Pucharu Klubu KS Tarcza Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1388",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1603,6 +1739,7 @@
             },
             {
                 "date": "29 mar 2026",
+                "name": "Karabin centralnego zapłonu, snajper i mini snajper 100m – Memoriał M. Michalskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1389",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1611,6 +1748,7 @@
             },
             {
                 "date": "26 kwi 2026",
+                "name": "Wiosna 2026 – Inauguracja sezonu strzeleckiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1391",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1620,6 +1758,7 @@
             },
             {
                 "date": "10 maj 2026",
+                "name": "Wiosenne IPSC pistolet .22lr i mini rifle .22lr",
                 "regulation_link": "https://portal.wzss.pl/regulation/1392",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1629,6 +1768,7 @@
             },
             {
                 "date": "24 maj 2026",
+                "name": "Karabin centralnego zapłonu, snajper i mini snajper 100m – Puchar Janusza Olszyka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1393",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1637,6 +1777,7 @@
             },
             {
                 "date": "6 cze 2026",
+                "name": "IX Mistrzostwa Wielkopolski w Strzelaniu z Broni Historycznej Centralnego Zapłonu",
                 "regulation_link": "https://portal.wzss.pl/regulation/1394",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1646,6 +1787,7 @@
             },
             {
                 "date": "27 cze 2026",
+                "name": "Klubowa strzelba dynamiczna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1395",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1654,6 +1796,7 @@
             },
             {
                 "date": "28 cze 2026",
+                "name": "Strzelba IPSC lvl1 – II Runda Pucharu Klubu KS Tarcza Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1396",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1662,6 +1805,7 @@
             },
             {
                 "date": "9 sie 2026",
+                "name": "XV Turniej strzelecki o Puchar Starosty Szamotulskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1505",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1671,6 +1815,7 @@
             },
             {
                 "date": "23 sie 2026",
+                "name": "Klubowy SHOOT OFF",
                 "regulation_link": "https://portal.wzss.pl/regulation/1506",
                 "weapons": [
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1679,6 +1824,7 @@
             },
             {
                 "date": "6 wrz 2026",
+                "name": "Mistrzostwa klubowe – 20 lecie KS TARCZA Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1507",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1688,6 +1834,7 @@
             },
             {
                 "date": "20 wrz 2026",
+                "name": "Jesienne IPSC pistolet .22lr i mini rifle .22lr",
                 "regulation_link": "https://portal.wzss.pl/regulation/1508",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1697,6 +1844,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "Klubowa strzelba dynamiczna/zaliczeniowa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1509",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1705,6 +1853,7 @@
             },
             {
                 "date": "4 paź 2026",
+                "name": "Strzelba IPSC lvl1 – III Runda Pucharu Klubu KS Tarcza Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1510",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -1713,6 +1862,7 @@
             },
             {
                 "date": "8 lis 2026",
+                "name": "Karabin centralnego zapłonu, snajper i mini snajper 100m – Mistrzostwa Klubu 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1512",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1721,6 +1871,7 @@
             },
             {
                 "date": "22 lis 2026",
+                "name": "Jesień 2026 – Zakończenie sezonu strzeleckiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1513",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1730,6 +1881,7 @@
             },
             {
                 "date": "6 gru 2026",
+                "name": "Zimowe zawody dynamiczne 2026",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -1748,6 +1900,7 @@
         "competitions": [
             {
                 "date": "22 mar 2026",
+                "name": "Zawody Żołnierzy Wyklętych",
                 "regulation_link": "https://portal.wzss.pl/regulation/1426",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1767,6 +1920,7 @@
         "competitions": [
             {
                 "date": "22 mar 2026",
+                "name": "Powitanie Wiosny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1342",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1786,6 +1940,7 @@
         "competitions": [
             {
                 "date": "22 mar 2026",
+                "name": "Otwarte Zawody Sportowe \"Wiosna\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1400",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1796,6 +1951,7 @@
             },
             {
                 "date": "24 maj 2026",
+                "name": "Otwarte Zawody Historyczne \"Bitwa o Monte Cassino\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1401",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1806,6 +1962,7 @@
             },
             {
                 "date": "21 cze 2026",
+                "name": "Otwarte Zawody Sportowe \"Lato\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1402",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1816,6 +1973,7 @@
             },
             {
                 "date": "9 sie 2026",
+                "name": "Otwarte Zawody Historyczne \"Święto Wojska Polskiego\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1405",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1826,6 +1984,7 @@
             },
             {
                 "date": "4 paź 2026",
+                "name": "Otwarte Zawody Sportowe \"Jesień\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1406",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1836,6 +1995,7 @@
             },
             {
                 "date": "15 lis 2026",
+                "name": "Otwarte Zawody Historyczne \"Święto Niepodległości\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1407",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1855,6 +2015,7 @@
         "competitions": [
             {
                 "date": "23 mar 2026",
+                "name": "Memoriał Izabeli Szwarczyńskiej",
                 "regulation_link": "https://portal.wzss.pl/regulation/1397",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -1872,6 +2033,7 @@
         "competitions": [
             {
                 "date": "27 mar 2026",
+                "name": "POZNAŃ MINI FIVE STEEL",
                 "regulation_link": "https://portal.wzss.pl/regulation/1430",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -1890,6 +2052,7 @@
         "competitions": [
             {
                 "date": "28 mar 2026",
+                "name": "Memoriał Roberta Mułka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1438",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1909,6 +2072,7 @@
         "competitions": [
             {
                 "date": "28 mar 2026",
+                "name": "I Runda Pucharu LBK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1214",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1918,6 +2082,7 @@
             },
             {
                 "date": "16 maj 2026",
+                "name": "II Runda Pucharu LBK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1215",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1927,6 +2092,7 @@
             },
             {
                 "date": "24 paź 2026",
+                "name": "III Runda Pucharu LBK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1216",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1936,6 +2102,7 @@
             },
             {
                 "date": "28 lis 2026",
+                "name": "IV Runda Pucharu LBK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1217",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1954,6 +2121,7 @@
         "competitions": [
             {
                 "date": "28 mar 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.1/3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1272",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1963,6 +2131,7 @@
             },
             {
                 "date": "25 kwi 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.2/3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1273",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1972,6 +2141,7 @@
             },
             {
                 "date": "30 maj 2026",
+                "name": "LIGA MAŁOKALIBROWA 2026 cz.3/3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1274",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1990,6 +2160,7 @@
         "competitions": [
             {
                 "date": "28 mar 2026",
+                "name": "25. Turniej Wielkanocny (ZK)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1351",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -1999,6 +2170,7 @@
             },
             {
                 "date": "25 kwi 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń pneumatyczna) (ZK)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1352",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2008,6 +2180,7 @@
             },
             {
                 "date": "7 lis 2026",
+                "name": "36. Zawody Strzeleckie o Puchar Niepodległości (broń pneumatyczna)",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2016,6 +2189,7 @@
             },
             {
                 "date": "5 gru 2026",
+                "name": "29. Mikołajkowe Zawody Strzeleckie",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2024,6 +2198,7 @@
             },
             {
                 "date": "30 gru 2026",
+                "name": "Turniej Noworoczny 2027",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2041,6 +2216,7 @@
         "competitions": [
             {
                 "date": "29 mar 2026",
+                "name": "CZARNY LOTOS SPRING CHALLENGE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1429",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2060,6 +2236,7 @@
         "competitions": [
             {
                 "date": "10 - 12 kwi 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1296",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -2070,6 +2247,7 @@
             },
             {
                 "date": "6 - 8 lis 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2079,6 +2257,7 @@
             },
             {
                 "date": "20 - 22 lis 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2088,6 +2267,7 @@
             },
             {
                 "date": "4 - 6 gru 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2097,6 +2277,7 @@
             },
             {
                 "date": "28 - 30 gru 2026",
+                "name": "TURNIEJ ZALICZENIOWY OSTATNIEJ SZANSY (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2115,6 +2296,7 @@
         "competitions": [
             {
                 "date": "11 kwi 2026",
+                "name": "ZAWODY KLUBOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1428",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2125,6 +2307,7 @@
             },
             {
                 "date": "23 maj 2026",
+                "name": "ZAWODY KLUBOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1464",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2144,6 +2327,7 @@
         "competitions": [
             {
                 "date": "11 kwi 2026",
+                "name": "Zawody klubowe KŻR LOK „SNAJPER”",
                 "regulation_link": "https://portal.wzss.pl/regulation/1431",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2162,6 +2346,7 @@
         "competitions": [
             {
                 "date": "11 - 12 kwi 2026",
+                "name": "PCSL Nieczajna vol1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1434",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -2180,6 +2365,7 @@
         "competitions": [
             {
                 "date": "11 kwi 2026",
+                "name": "Turniej Wiosenny KSK Nieczajna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1287",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2190,6 +2376,7 @@
             },
             {
                 "date": "20 cze 2026",
+                "name": "Turniej Wakacyjny KSK Nieczajna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1289",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2200,6 +2387,7 @@
             },
             {
                 "date": "8 sie 2026",
+                "name": "Turniej Letni KSK Nieczajna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1290",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2210,6 +2398,7 @@
             },
             {
                 "date": "26 wrz 2026",
+                "name": "Turniej Jesienny KSK Nieczajna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1292",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2220,6 +2409,7 @@
             },
             {
                 "date": "14 lis 2026",
+                "name": "Turniej Zimowy KSK Nieczajna",
                 "regulation_link": "https://portal.wzss.pl/regulation/1293",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2239,6 +2429,7 @@
         "competitions": [
             {
                 "date": "11 kwi 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1439",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2258,6 +2449,7 @@
         "competitions": [
             {
                 "date": "12 kwi 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1169",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2277,6 +2469,7 @@
         "competitions": [
             {
                 "date": "18 - 19 kwi 2026",
+                "name": "King Kong IPSC L1 HG / PCC vol. 1",
                 "regulation_link": "https://portal.wzss.pl/regulation/1361",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -2295,6 +2488,7 @@
         "competitions": [
             {
                 "date": "18 kwi 2026",
+                "name": "\"War of HONOR 2026\" Edycja 1 na podtrzymanie licencji zawodniczenj na rok 2027",
                 "regulation_link": "https://portal.wzss.pl/regulation/1442",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2305,6 +2499,7 @@
             },
             {
                 "date": "7 cze 2026",
+                "name": "\"War of HONOR 2026\" Edycja 2 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
                 "regulation_link": "https://portal.wzss.pl/regulation/1465",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2315,6 +2510,7 @@
             },
             {
                 "date": "5 wrz 2026",
+                "name": "\"War of HONOR 2026\" Edycja 3 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
                 "regulation_link": "https://portal.wzss.pl/regulation/1532",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2325,6 +2521,7 @@
             },
             {
                 "date": "8 lis 2026",
+                "name": "\"War of HONOR 2026\" Edycja 4 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
                 "regulation_link": "https://portal.wzss.pl/regulation/1533",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2335,6 +2532,7 @@
             },
             {
                 "date": "13 gru 2026",
+                "name": "\"War of HONOR 2026\" Edycja 5 zawodów - rozgrywamy 8 konkurencji (komplet na przedłużenie licencji zawodniczej na rok 2027) z nagrodami- w klasyfikacji generalnej za miejsca: 1: 3600 zł, 2: 2100 zł, 3: 1000 zł ZAPRASZAMY !!",
                 "regulation_link": "https://portal.wzss.pl/regulation/1534",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2354,6 +2552,7 @@
         "competitions": [
             {
                 "date": "18 kwi 2026",
+                "name": "MITYNG Broni Kolekcjonerskiej i Małokalibrowej",
                 "regulation_link": "https://portal.wzss.pl/regulation/1276",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2373,6 +2572,7 @@
         "competitions": [
             {
                 "date": "18 kwi 2026",
+                "name": "Wiosenne Zawody Strzeleckie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1378",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2383,6 +2583,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "Zakończenie Sezonu Strzeleckiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1523",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2402,6 +2603,7 @@
         "competitions": [
             {
                 "date": "18 kwi 2026",
+                "name": "TRAP 25 – Puchar Prezesa KS Tarcza Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1390",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2410,6 +2612,7 @@
             },
             {
                 "date": "26 lip 2026",
+                "name": "TRAP 25 – Wakacyjny rzutek",
                 "regulation_link": "https://portal.wzss.pl/regulation/1504",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2418,6 +2621,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "TRAP 25 – Puchar Klubu KS Tarcza Szamotuły",
                 "regulation_link": "https://portal.wzss.pl/regulation/1511",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2435,6 +2639,7 @@
         "competitions": [
             {
                 "date": "19 kwi 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1306",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2445,6 +2650,7 @@
             },
             {
                 "date": "17 maj 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1307",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2455,6 +2661,7 @@
             },
             {
                 "date": "14 cze 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1308",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2465,6 +2672,7 @@
             },
             {
                 "date": "13 wrz 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1309",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2484,6 +2692,7 @@
         "competitions": [
             {
                 "date": "19 kwi 2026",
+                "name": "O Puchar Prezesa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1440",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2494,6 +2703,7 @@
             },
             {
                 "date": "27 wrz 2026",
+                "name": "Memoriał Pogromców Enigmy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1441",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2513,6 +2723,7 @@
         "competitions": [
             {
                 "date": "19 kwi 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
                 "regulation_link": "https://portal.wzss.pl/regulation/1313",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2523,6 +2734,7 @@
             },
             {
                 "date": "17 maj 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
                 "regulation_link": "https://portal.wzss.pl/regulation/1314",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2533,6 +2745,7 @@
             },
             {
                 "date": "20 wrz 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
                 "regulation_link": "https://portal.wzss.pl/regulation/1315",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2543,6 +2756,7 @@
             },
             {
                 "date": "11 paź 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2561,6 +2775,7 @@
         "competitions": [
             {
                 "date": "20 kwi 2026",
+                "name": "Turniej Cztery Pory Roku WIOSNA 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1417",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -2578,6 +2793,7 @@
         "competitions": [
             {
                 "date": "23 - 26 kwi 2026",
+                "name": "X Otwarte Mistrzostwa Wielkopolski w strzelaniu do rzutków",
                 "regulation_link": "https://portal.wzss.pl/regulation/1435",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2586,6 +2802,7 @@
             },
             {
                 "date": "23 - 26 kwi 2026",
+                "name": "ZŁOTY RZUTEK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1436",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2594,6 +2811,7 @@
             },
             {
                 "date": "24 - 26 kwi 2026",
+                "name": "II Runda Pucharu Polski Open (rzutki)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1437",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2611,6 +2829,7 @@
         "competitions": [
             {
                 "date": "25 kwi 2026",
+                "name": "Zawody Inauguracyjne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1317",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2621,6 +2840,7 @@
             },
             {
                 "date": "14 cze 2026",
+                "name": "Lato w lesie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1319",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2631,6 +2851,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "Zawody jesienne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1322",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2650,6 +2871,7 @@
         "competitions": [
             {
                 "date": "25 kwi 2026",
+                "name": "Zawody Klubowe TUR Leszno",
                 "regulation_link": "https://portal.wzss.pl/regulation/1445",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2668,6 +2890,7 @@
         "competitions": [
             {
                 "date": "25 kwi 2026",
+                "name": "ZAWODY WIOSENNE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1453",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2678,6 +2901,7 @@
             },
             {
                 "date": "30 maj 2026",
+                "name": "OTWARTE MISTRZOSTWA KLUBU STRZELECKIEGO \"DO CELU\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1454",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2697,6 +2921,7 @@
         "competitions": [
             {
                 "date": "25 kwi 2026",
+                "name": "PISTOL-MIX26",
                 "regulation_link": "https://portal.wzss.pl/regulation/1248",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -2705,6 +2930,7 @@
             },
             {
                 "date": "9 maj 2026",
+                "name": "RIFLE-MIX26",
                 "regulation_link": "https://portal.wzss.pl/regulation/1249",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2713,6 +2939,7 @@
             },
             {
                 "date": "20 cze 2026",
+                "name": "Memoriał Mirosława Malickiego MMM26",
                 "regulation_link": "https://portal.wzss.pl/regulation/1250",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -2721,6 +2948,7 @@
             },
             {
                 "date": "10 paź 2026",
+                "name": "Ewokacja 6. Pułku Lotnictwa Myśliwsko-Bombowego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1251",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -2729,6 +2957,7 @@
             },
             {
                 "date": "25 paź 2026",
+                "name": "LAST SHOOTING 26",
                 "regulation_link": "https://portal.wzss.pl/regulation/1450",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2748,6 +2977,7 @@
         "competitions": [
             {
                 "date": "25 kwi 2026",
+                "name": "Zawody Koronacyjne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1239",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2758,6 +2988,7 @@
             },
             {
                 "date": "30 maj 2026",
+                "name": "Zawody Konstytucyjne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1240",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2768,6 +2999,7 @@
             },
             {
                 "date": "25 lip 2026",
+                "name": "Zawody Królewskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1242",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2778,6 +3010,7 @@
             },
             {
                 "date": "29 sie 2026",
+                "name": "Zawody Połockie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1243",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2788,6 +3021,7 @@
             },
             {
                 "date": "26 wrz 2026",
+                "name": "Zawody Bezdańskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1244",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2798,6 +3032,7 @@
             },
             {
                 "date": "24 paź 2026",
+                "name": "Zawody Unijne",
                 "regulation_link": "https://portal.wzss.pl/regulation/1245",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2808,6 +3043,7 @@
             },
             {
                 "date": "28 lis 2026",
+                "name": "Zawody Oliwskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1246",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2827,6 +3063,7 @@
         "competitions": [
             {
                 "date": "26 kwi 2026",
+                "name": "I RUNDA GRYF GUN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1253",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2836,6 +3073,7 @@
             },
             {
                 "date": "17 maj 2026",
+                "name": "II RUNDA GRYF GUN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1254",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2845,6 +3083,7 @@
             },
             {
                 "date": "21 cze 2026",
+                "name": "III RUNDA GRYF GUN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1255",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2854,6 +3093,7 @@
             },
             {
                 "date": "30 sie 2026",
+                "name": "IV RUNDA GRYF GUN",
                 "regulation_link": "https://portal.wzss.pl/regulation/1256",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2872,6 +3112,7 @@
         "competitions": [
             {
                 "date": "2 maj 2026",
+                "name": "Zawody Majowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1410",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2882,6 +3123,7 @@
             },
             {
                 "date": "30 maj 2026",
+                "name": "Zawody Dzień Dziecka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1411",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2892,6 +3134,7 @@
             },
             {
                 "date": "18 lip 2026",
+                "name": "Wakacjada",
                 "regulation_link": "https://portal.wzss.pl/regulation/1412",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2902,6 +3145,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "Zawody Październikowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1413",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2912,6 +3156,7 @@
             },
             {
                 "date": "7 lis 2026",
+                "name": "Zawody Listopadowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1414",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2922,6 +3167,7 @@
             },
             {
                 "date": "5 gru 2026",
+                "name": "Zawody Mikołajkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1416",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2941,6 +3187,7 @@
         "competitions": [
             {
                 "date": "3 maj 2026",
+                "name": "Puchar Starosty Powiatu Pleszewskiego - 3 Maja",
                 "regulation_link": "https://portal.wzss.pl/regulation/1446",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2960,6 +3207,7 @@
         "competitions": [
             {
                 "date": "9 maj 2026",
+                "name": "Turniej Majowy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1460",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2979,6 +3227,7 @@
         "competitions": [
             {
                 "date": "9 maj 2026",
+                "name": "STRZELANIE OBYWATELSKIE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1262",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2989,6 +3238,7 @@
             },
             {
                 "date": "23 maj 2026",
+                "name": "Zawody strzeleckie o puchar Mieczysława Jałowieckiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1263",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -2997,6 +3247,7 @@
             },
             {
                 "date": "24 paź 2026",
+                "name": "JESIENNE ZAWODY STRZELECKIE",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3006,6 +3257,7 @@
             },
             {
                 "date": "7 lis 2026",
+                "name": "STRZELANIE NIEPODLEGŁOŚCIOWE",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3024,6 +3276,7 @@
         "competitions": [
             {
                 "date": "9 maj 2026",
+                "name": "Klubowe zawody strzeleckie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1447",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3033,6 +3286,7 @@
             },
             {
                 "date": "23 maj 2026",
+                "name": "XVIII Otwarty Wielobój Strzelecki. Zawody o Puchar Burmistrza Miasta i Gminy Nekla",
                 "regulation_link": "https://portal.wzss.pl/regulation/1452",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3042,6 +3296,7 @@
             },
             {
                 "date": "4 lip 2026",
+                "name": "Klubowe zawody strzeleckie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1451",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3060,6 +3315,7 @@
         "competitions": [
             {
                 "date": "9 maj 2026",
+                "name": "DZIEŃ FLAGI RP 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1275",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3079,6 +3335,7 @@
         "competitions": [
             {
                 "date": "10 maj 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1179",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3089,6 +3346,7 @@
             },
             {
                 "date": "7 cze 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1180",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3099,6 +3357,7 @@
             },
             {
                 "date": "12 lip 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1181",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3109,6 +3368,7 @@
             },
             {
                 "date": "13 wrz 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1182",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3119,6 +3379,7 @@
             },
             {
                 "date": "11 paź 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1183",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3129,6 +3390,7 @@
             },
             {
                 "date": "8 lis 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1184",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3139,6 +3401,7 @@
             },
             {
                 "date": "27 gru 2026",
+                "name": "OTWARTE ZAWODY STRZELECKIE WOLF PACK",
                 "regulation_link": "https://portal.wzss.pl/regulation/1185",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3158,6 +3421,7 @@
         "competitions": [
             {
                 "date": "16 maj 2026",
+                "name": "Otwarte Zawody Strzeleckie - Grand Prix I",
                 "regulation_link": "https://portal.wzss.pl/regulation/1468",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3168,6 +3432,7 @@
             },
             {
                 "date": "26 wrz 2026",
+                "name": "Otwarte Zawody Strzeleckie - Grand Prix II",
                 "regulation_link": "https://portal.wzss.pl/regulation/1541",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3178,6 +3443,7 @@
             },
             {
                 "date": "21 lis 2026",
+                "name": "Otwarte Zawody Strzeleckie - Grand Prix III",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3196,6 +3462,7 @@
         "competitions": [
             {
                 "date": "17 maj 2026",
+                "name": "Otwarte zawody strzeleckie KODEKS OGNIA - Ognista Inauguracja",
                 "regulation_link": "https://portal.wzss.pl/regulation/1459",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3206,6 +3473,7 @@
             },
             {
                 "date": "30 sie 2026",
+                "name": "Otwarte zawody strzeleckie KODEKS OGNIA - Krąg Ognia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1469",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3216,6 +3484,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "Otwarte zawody strzeleckie KODEKS OGNIA - Złota Reguła",
                 "regulation_link": "https://portal.wzss.pl/regulation/1470",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3226,6 +3495,7 @@
             },
             {
                 "date": "6 gru 2026",
+                "name": "Otwarte zawody strzeleckie KODEKS OGNIA - Dekret Ostateczny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1471",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3245,6 +3515,7 @@
         "competitions": [
             {
                 "date": "18 maj 2026",
+                "name": "Pistolet Pcz, Karabin Kcz, Strzelba",
                 "regulation_link": "https://portal.wzss.pl/regulation/1418",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3264,6 +3535,7 @@
         "competitions": [
             {
                 "date": "21 maj 2026",
+                "name": "Klubowe Zawody Strzeleckie BK we Wronkach",
                 "regulation_link": "https://portal.wzss.pl/regulation/1444",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3282,6 +3554,7 @@
         "competitions": [
             {
                 "date": "23 maj 2026",
+                "name": "Zawody klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1466",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3292,6 +3565,7 @@
             },
             {
                 "date": "13 cze 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1474",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3311,6 +3585,7 @@
         "competitions": [
             {
                 "date": "23 maj 2026",
+                "name": "Majówka Z FORT-em",
                 "regulation_link": "https://portal.wzss.pl/regulation/1220",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3321,6 +3596,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "Zawody o Puchar Prezesa FORT",
                 "regulation_link": "https://portal.wzss.pl/regulation/1222",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3340,6 +3616,7 @@
         "competitions": [
             {
                 "date": "23 maj 2026",
+                "name": "V MEMORIAŁ Prezesa Gustawa Elbla",
                 "regulation_link": "https://portal.wzss.pl/regulation/1462",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3359,6 +3636,7 @@
         "competitions": [
             {
                 "date": "24 maj 2026",
+                "name": "Wiosna II 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1467",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3378,6 +3656,7 @@
         "competitions": [
             {
                 "date": "29 - 31 maj 2026",
+                "name": "LETNIA STRZELBA IPSC L.2 O PUCHAR PREZESA WIELKOPOLSKIEGO ZWIĄZKU STRZELECTWA SPORTOWEGO",
                 "regulation_link": "https://portal.wzss.pl/regulation/1297",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -3395,6 +3674,7 @@
         "competitions": [
             {
                 "date": "6 cze 2026",
+                "name": "Mistrzostwa KSS LOK BURSZTYN (broń centralnego zapłonu) (ZK)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1354",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3405,6 +3685,7 @@
             },
             {
                 "date": "6 cze 2026",
+                "name": "Turniej Strzelecki 3xTRAP50 cz. II",
                 "regulation_link": "https://portal.wzss.pl/regulation/1355",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -3413,6 +3694,7 @@
             },
             {
                 "date": "29 sie 2026",
+                "name": "21. Otwarte Mistrzostwa Kalisza",
                 "regulation_link": "https://portal.wzss.pl/regulation/1492",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3423,6 +3705,7 @@
             },
             {
                 "date": "29 sie 2026",
+                "name": "Turniej Strzelecki 3xTRAP50 cz. III - FINAŁ",
                 "regulation_link": "https://portal.wzss.pl/regulation/1494",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -3431,6 +3714,7 @@
             },
             {
                 "date": "19 wrz 2026",
+                "name": "26. Zawody Złota Jesień o puchar TOMPOL Dębe Kol.",
                 "regulation_link": "https://portal.wzss.pl/regulation/1493",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3441,6 +3725,7 @@
             },
             {
                 "date": "3 paź 2026",
+                "name": "66. Jesienne Zawody Strzeleckie Ziemi Kaliskiej",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3459,6 +3744,7 @@
         "competitions": [
             {
                 "date": "6 - 7 cze 2026",
+                "name": "MISTRZOSTWA WIELKOPOLSKI PISTOLET IPSC L.1 + PCC + MINI RIFLE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1298",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -3468,6 +3754,7 @@
             },
             {
                 "date": "11 - 13 wrz 2026",
+                "name": "MISTRZOSTWA WIELKOPOLSKI STRZELBA IPSC L.2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1299",
                 "weapons": [
                     "Strzelba:\n                                                    Dynamiczna",
@@ -3485,6 +3772,7 @@
         "competitions": [
             {
                 "date": "13 - 14 cze 2026",
+                "name": "King Kong IPSC L1 HG / PCC vol. 2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1463",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -3503,6 +3791,7 @@
         "competitions": [
             {
                 "date": "13 cze 2026",
+                "name": "Piknik Strzelecki Król Kurkowy 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1449",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -3512,6 +3801,7 @@
             },
             {
                 "date": "30 sie 2026",
+                "name": "Piknik Strzelecki Król Żniwny 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1536",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -3530,6 +3820,7 @@
         "competitions": [
             {
                 "date": "14 cze 2026",
+                "name": "CZARNY LOTOS SUMMER CHALLENGE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1473",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3549,6 +3840,7 @@
         "competitions": [
             {
                 "date": "15 cze 2026",
+                "name": "Turniej Cztery Pory Roku Lato 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1420",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -3557,6 +3849,7 @@
             },
             {
                 "date": "21 wrz 2026",
+                "name": "Mistrzostwa Wlkp. Klubu Strzeleckiego Grunwald",
                 "regulation_link": "https://portal.wzss.pl/regulation/1421",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -3565,6 +3858,7 @@
             },
             {
                 "date": "26 paź 2026",
+                "name": "Mistrzostwa Wlkp. Klubu Strzeleckiego Grunwald",
                 "regulation_link": "https://portal.wzss.pl/regulation/1424",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3575,6 +3869,7 @@
             },
             {
                 "date": "9 lis 2026",
+                "name": "Strzelanie uzupełniające / Licencja na 2027 rok",
                 "regulation_link": "https://portal.wzss.pl/regulation/1425",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3585,6 +3880,7 @@
             },
             {
                 "date": "7 gru 2026",
+                "name": "Turniej Cztery Pory Roku Zima 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1423",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -3602,6 +3898,7 @@
         "competitions": [
             {
                 "date": "20 cze 2026",
+                "name": "XXVIII Turniej o Buławę Marszałka Wlkp",
                 "regulation_link": "https://portal.wzss.pl/regulation/1484",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3611,6 +3908,7 @@
             },
             {
                 "date": "15 sie 2026",
+                "name": "Puchar Komendanta , St. Smoły , A.T. Pawłowskich",
                 "regulation_link": "https://portal.wzss.pl/regulation/1528",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa i Dynamiczna",
@@ -3629,6 +3927,7 @@
         "competitions": [
             {
                 "date": "20 cze 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1487",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3648,6 +3947,7 @@
         "competitions": [
             {
                 "date": "21 cze 2026",
+                "name": "LATO 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1483",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3667,6 +3967,7 @@
         "competitions": [
             {
                 "date": "27 cze 2026",
+                "name": "O Puchar Prezesa Klubu Strrzeleckiego Margolin-Grunwald \"616\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1403",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3686,6 +3987,7 @@
         "competitions": [
             {
                 "date": "4 lip 2026",
+                "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1500",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3696,6 +3998,7 @@
             },
             {
                 "date": "8 sie 2026",
+                "name": "Zawody Klubowe Kopia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1518",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3706,6 +4009,7 @@
             },
             {
                 "date": "26 wrz 2026",
+                "name": "Zawody Klubowe Kopia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1519",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3716,6 +4020,7 @@
             },
             {
                 "date": "18 paź 2026",
+                "name": "Zawody Klubowe Kopia Kopia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1520",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3726,6 +4031,7 @@
             },
             {
                 "date": "21 lis 2026",
+                "name": "Zawody Klubowe Kopia",
                 "regulation_link": "https://portal.wzss.pl/regulation/1521",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3745,6 +4051,7 @@
         "competitions": [
             {
                 "date": "5 lip 2026",
+                "name": "Ku pamięci Bitwy Kłuszyńskiej 4 VII 1610",
                 "regulation_link": "https://portal.wzss.pl/regulation/1260",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3755,6 +4062,7 @@
             },
             {
                 "date": "11 paź 2026",
+                "name": "Ku pamięci Bitwy Odolanowskiej 22 X 1945 Największej Wielkopolskiej  Potyczki Żołnierzy Niezłomnych",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3773,6 +4081,7 @@
         "competitions": [
             {
                 "date": "11 lip 2026",
+                "name": "STALOWE WYZWANIE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1501",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -3782,6 +4091,7 @@
             },
             {
                 "date": "5 wrz 2026",
+                "name": "V MEMORIAŁ ZBYSZKA JÓŹWIAKA",
                 "regulation_link": "https://portal.wzss.pl/regulation/1525",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3792,6 +4102,7 @@
             },
             {
                 "date": "10 paź 2026",
+                "name": "STALOWE WYZWANIE",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -3809,6 +4120,7 @@
         "competitions": [
             {
                 "date": "18 - 19 lip 2026",
+                "name": "King Kong IPSC L1 HG / PCC vol. 3",
                 "regulation_link": "https://portal.wzss.pl/regulation/1486",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -3827,6 +4139,7 @@
         "competitions": [
             {
                 "date": "26 lip 2026",
+                "name": "Zawody Klubowe KSK WIG Orchowo 26.07.20267",
                 "regulation_link": "https://portal.wzss.pl/regulation/1489",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3837,6 +4150,7 @@
             },
             {
                 "date": "23 sie 2026",
+                "name": "Zawody Klubowe KSK WIG Orchowo 23.08.2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1490",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3847,6 +4161,7 @@
             },
             {
                 "date": "25 paź 2026",
+                "name": "Zawody Klubowe KSK WIG Orchowo",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3864,6 +4179,7 @@
         "competitions": [
             {
                 "date": "26 lip 2026",
+                "name": "Czarnkowskie Wakacje",
                 "regulation_link": "https://portal.wzss.pl/regulation/1318",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3883,6 +4199,7 @@
         "competitions": [
             {
                 "date": "8 - 11 sie 2026",
+                "name": "Zakończenie Lata- Klub Strzelecki Margolin-Święto Wojska Polskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1404",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3902,6 +4219,7 @@
         "competitions": [
             {
                 "date": "15 sie 2026",
+                "name": "klubowa strzelba",
                 "regulation_link": "https://portal.wzss.pl/regulation/1524",
                 "weapons": [
                     "Strzelba:\n                                                    Sportowa",
@@ -3919,6 +4237,7 @@
         "competitions": [
             {
                 "date": "22 sie 2026",
+                "name": "KSCL Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1535",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3938,6 +4257,7 @@
         "competitions": [
             {
                 "date": "29 sie 2026",
+                "name": "Turniej Rocznicowy",
                 "regulation_link": "https://portal.wzss.pl/regulation/1294",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3957,6 +4277,7 @@
         "competitions": [
             {
                 "date": "29 sie 2026",
+                "name": "ZAWODY LETNIE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1455",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3967,6 +4288,7 @@
             },
             {
                 "date": "24 paź 2026",
+                "name": "ZAWODY JESIENNE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1456",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3977,6 +4299,7 @@
             },
             {
                 "date": "11 lis 2026",
+                "name": "ZAWODY NIEPODLEGŁOŚCIOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1457",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -3987,6 +4310,7 @@
             },
             {
                 "date": "19 gru 2026",
+                "name": "ZAWODY ZIMOWE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1458",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4006,6 +4330,7 @@
         "competitions": [
             {
                 "date": "30 sie 2026",
+                "name": "Kępno 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1515",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4025,6 +4350,7 @@
         "competitions": [
             {
                 "date": "5 wrz 2026",
+                "name": "Otwarte Mistrzostwa KŻR LOK JASTRZĄB Swarzędz 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1530",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4044,6 +4370,7 @@
         "competitions": [
             {
                 "date": "6 wrz 2026",
+                "name": "OTWARTE ZAWODY O PUCHAR WIELKOPOLSKI PREZESA WZSS",
                 "regulation_link": "https://portal.wzss.pl/regulation/1517",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -4061,6 +4388,7 @@
         "competitions": [
             {
                 "date": "12 wrz 2026",
+                "name": "Jesienny Puchar Prezesa",
                 "regulation_link": "https://portal.wzss.pl/regulation/1522",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4080,6 +4408,7 @@
         "competitions": [
             {
                 "date": "12 wrz 2026",
+                "name": "III Turniej o Ryngraf  AOP Przyjemskiego",
                 "regulation_link": "https://portal.wzss.pl/regulation/1539",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4089,6 +4418,7 @@
             },
             {
                 "date": "10 paź 2026",
+                "name": "Turniej  Leszka i Marcina Stońskich i Roberta Szymkowiaka",
                 "regulation_link": "https://portal.wzss.pl/regulation/1540",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4107,6 +4437,7 @@
         "competitions": [
             {
                 "date": "12 wrz 2026",
+                "name": "Zawody klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1542",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4126,6 +4457,7 @@
         "competitions": [
             {
                 "date": "13 wrz 2026",
+                "name": "Zawody dożynkowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1321",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4145,6 +4477,7 @@
         "competitions": [
             {
                 "date": "17 wrz 2026",
+                "name": "Klubowe Zawody Strzeleckie BK we Wronkach",
                 "regulation_link": "https://portal.wzss.pl/regulation/1545",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4154,6 +4487,7 @@
             },
             {
                 "date": "15 paź 2026",
+                "name": "Klubowe Zawody Strzeleckie BK we Wronkach",
                 "regulation_link": "https://portal.wzss.pl/regulation/1546",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4172,6 +4506,7 @@
         "competitions": [
             {
                 "date": "19 wrz 2026",
+                "name": "Zawody klubowe Jesień",
                 "regulation_link": "https://portal.wzss.pl/regulation/1526",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4181,6 +4516,7 @@
             },
             {
                 "date": "21 lis 2026",
+                "name": "Zawody klubowe MEMORIAŁY",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4198,6 +4534,7 @@
         "competitions": [
             {
                 "date": "19 wrz 2026",
+                "name": "Bohaterów Września 39r.",
                 "regulation_link": "https://portal.wzss.pl/regulation/1537",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4217,6 +4554,7 @@
         "competitions": [
             {
                 "date": "20 - 29 wrz 2026",
+                "name": "Zawody Wrześniowe KKSS SCHRON85",
                 "regulation_link": "https://portal.wzss.pl/regulation/1538",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4236,6 +4574,7 @@
         "competitions": [
             {
                 "date": "20 wrz 2026",
+                "name": "Zawody Niemeńskie",
                 "regulation_link": "https://portal.wzss.pl/regulation/1241",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4255,6 +4594,7 @@
         "competitions": [
             {
                 "date": "9 - 11 paź 2026",
+                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1531",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -4274,6 +4614,7 @@
         "competitions": [
             {
                 "date": "11 paź 2026",
+                "name": "Turniej Jesienny",
                 "regulation_link": "https://portal.wzss.pl/regulation/1544",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4293,6 +4634,7 @@
         "competitions": [
             {
                 "date": "12 paź 2026",
+                "name": "Turniej Cztery Pory Roku Jesień 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1422",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
@@ -4310,6 +4652,7 @@
         "competitions": [
             {
                 "date": "18 paź 2026",
+                "name": "Zawody Klubowe",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4328,6 +4671,7 @@
         "competitions": [
             {
                 "date": "25 paź 2026",
+                "name": "Memoriał Braci KBS Śmigiel",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4345,6 +4689,7 @@
         "competitions": [
             {
                 "date": "11 lis 2026",
+                "name": "29. Zawody Strzeleckie o Puchar Niepodległości (broń małokalibrowa)",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4362,6 +4707,7 @@
         "competitions": [
             {
                 "date": "15 lis 2026",
+                "name": "6 Zawody Strzeleckie o Puchar Pamięci Eugeniusza Mikołajczaka",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4379,6 +4725,7 @@
         "competitions": [
             {
                 "date": "21 lis 2026",
+                "name": "Zawody Listopadowe - Margonin",
                 "regulation_link": "https://portal.wzss.pl/regulation/1415",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
@@ -4398,6 +4745,7 @@
         "competitions": [
             {
                 "date": "6 gru 2026",
+                "name": "Otwarte Zawody Sportowe \"Zima\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1408",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
