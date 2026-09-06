@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260905T205633Z
+DTSTAMP:20260906T072404Z
 UID:20260321-puchar_prezesa_ks_lesna_leszno_runda_1@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 1
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1224
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260905T205633Z
+DTSTAMP:20260906T072404Z
 UID:20260606-puchar_prezesa_ks_lesna_leszno_runda_2@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 2
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1225
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260905T205633Z
+DTSTAMP:20260906T072404Z
 UID:20260912-puchar_prezesa_ks_lesna_leszno_runda_3@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 3
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1226
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260905T205633Z
+DTSTAMP:20260906T072404Z
 UID:20261212-puchar_prezesa_ks_lesna_leszno_runda_4@wzss.map
 SUMMARY:Puchar Prezesa KS LESNA Leszno Runda 4
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1227
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260905T205633Z
+DTSTAMP:20260906T072404Z
 UID:20261115-6_zawody_strzeleckie_o_puchar_pamieci_eugeniusza_mikolajczaka@wzss.map
 SUMMARY:6 Zawody Strzeleckie o Puchar Pamięci Eugeniusza Mikołajczaka
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open
