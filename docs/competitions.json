@@ -4586,6 +4586,44 @@
         ]
     },
     {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa „Miłaczewek – Soldier Academy” k. Cekowa",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "27 wrz 2026",
+                "name": "Otwarte Jesienne Mistrzostwa Klubu",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "MUSZKIET Konin",
+        "location": "Potażniki nr 3A 62-513 Krzymów",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "4 paź 2026",
+                "name": "Muszkietowe Zawody Klubowe",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "TARCZA Poznań",
         "location": "Strzelnica NITRO Mościenica os.Lipowe 16",
         "latitude": 52.2491493,
@@ -4638,6 +4676,24 @@
                 "regulation_link": "https://portal.wzss.pl/regulation/1422",
                 "weapons": [
                     "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa Miłaczewek – Soldier Academy",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "16 - 18 paź 2026",
+                "name": "King Kong IPSC L1 HG / PCC vol. 4",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
