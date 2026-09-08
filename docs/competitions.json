@@ -3644,6 +3644,16 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "27 wrz 2026",
+                "name": "Jesień 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -4691,6 +4701,7 @@
             {
                 "date": "16 - 18 paź 2026",
                 "name": "King Kong IPSC L1 HG / PCC vol. 4",
+                "regulation_link": "https://portal.wzss.pl/regulation/1547",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
