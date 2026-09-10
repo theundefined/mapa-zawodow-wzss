@@ -7,8 +7,8 @@ X-WR-CALNAME:SCHRON 85 Konin - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20260909T073956Z
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260910T073624Z
 UID:20260920-zawody_wrzesniowe_kkss_schron85@wzss.map
 SUMMARY:Zawody Wrześniowe KKSS SCHRON85
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1538
