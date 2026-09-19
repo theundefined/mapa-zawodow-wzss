@@ -3735,16 +3735,6 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
-            },
-            {
-                "date": "3 paź 2026",
-                "name": "66. Jesienne Zawody Strzeleckie Ziemi Kaliskiej",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
-                ]
             }
         ]
     },
@@ -4664,6 +4654,25 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "trzelnica sportowa LOK KARCZEMKA m. Ludwina k/Pleszewa",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 paź 2026",
+                "name": "PUCHAR PREZESA KŻR „KOMUNALNI” LOK W KALISZU",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
