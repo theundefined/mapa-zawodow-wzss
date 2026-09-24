@@ -1566,7 +1566,7 @@
             },
             {
                 "date": "17 paź 2026",
-                "name": "Puchar 30-lecia Klubu",
+                "name": "Puchar 30-lecia Klubu - II edycja",
                 "regulation_link": "https://portal.wzss.pl/regulation/1383",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa i Dynamiczna",
@@ -2463,6 +2463,25 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BK Wronki",
+        "location": "Strzelnica BK Wronki Szklarnia 6a",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "16 kwi 2026",
+                "name": "Klubowe Zawody Strzeleckie BK we Wronkach Kopia",
+                "regulation_link": "https://portal.wzss.pl/regulation/1552",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -3743,6 +3762,17 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "3 paź 2026",
+                "name": "66. Jesienne Zawody Strzeleckie Ziemi Kaliskiej",
+                "regulation_link": "https://portal.wzss.pl/regulation/1495",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
             }
         ]
     },
@@ -4677,6 +4707,27 @@
             {
                 "date": "10 paź 2026",
                 "name": "PUCHAR PREZESA KŻR „KOMUNALNI” LOK W KALISZU",
+                "regulation_link": "https://portal.wzss.pl/regulation/1553",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WKSS Poznań",
+        "location": "Strzelnica Bractwa Kurkowego Margonin",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "10 paź 2026",
+                "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1555",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4753,6 +4804,7 @@
             {
                 "date": "18 paź 2026",
                 "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1310",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",

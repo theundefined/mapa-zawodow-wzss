@@ -6,30 +6,39 @@ METHOD:PUBLISH
 X-WR-CALNAME:BK Wronki - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+DTSTAMP:20260924T075556Z
+UID:20260416-klubowe_zawody_strzeleckie_bk_we_wronkach_kopia@wzss.map
+SUMMARY:Klubowe Zawody Strzeleckie BK we Wronkach Kopia
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1552
+LOCATION:Strzelnica BK Wronki Szklarnia 6a
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260923T080514Z
+DTSTAMP:20260924T075556Z
 UID:20260521-klubowe_zawody_strzeleckie_bk_we_wronkach@wzss.map
 SUMMARY:Klubowe Zawody Strzeleckie BK we Wronkach
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1444
-LOCATION:BK Wronki Szklarnia 6a
+LOCATION:Strzelnica BK Wronki Szklarnia 6a
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260923T080514Z
+DTSTAMP:20260924T075556Z
 UID:20260917-klubowe_zawody_strzeleckie_bk_we_wronkach@wzss.map
 SUMMARY:Klubowe Zawody Strzeleckie BK we Wronkach
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1545
-LOCATION:BK Wronki Szklarnia 6a
+LOCATION:Strzelnica BK Wronki Szklarnia 6a
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260923T080514Z
+DTSTAMP:20260924T075556Z
 UID:20261015-klubowe_zawody_strzeleckie_bk_we_wronkach@wzss.map
 SUMMARY:Klubowe Zawody Strzeleckie BK we Wronkach
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1546
-LOCATION:BK Wronki Szklarnia 6a
+LOCATION:Strzelnica BK Wronki Szklarnia 6a
 END:VEVENT
 END:VCALENDAR
