@@ -4795,6 +4795,24 @@
         ]
     },
     {
+        "club": "BELLONA Kalisz",
+        "location": "Strzelnica sportowa LOK 63-400 Ostrów Wielkopolski ul. Kaliska 87",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "17 paź 2026",
+                "name": "Małokalibrowy Puchar Prezesa BELLONA Kalisz",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:"
+                ]
+            }
+        ]
+    },
+    {
         "club": "VIS Gostyń",
         "location": "Krzywiń, ul. Strzelecka 15",
         "latitude": 51.962928,
