@@ -4302,59 +4302,6 @@
         ]
     },
     {
-        "club": "DO CELU Leszno",
-        "location": "STRZELNICA MYSLIWSKO SPOROTWA PZŁ W KRZYWINIU",
-        "latitude": 51.962928,
-        "longitude": 16.819295,
-        "website": "https://portal.wzss.pl",
-        "competitions": [
-            {
-                "date": "29 sie 2026",
-                "name": "ZAWODY LETNIE",
-                "regulation_link": "https://portal.wzss.pl/regulation/1455",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "24 paź 2026",
-                "name": "ZAWODY JESIENNE",
-                "regulation_link": "https://portal.wzss.pl/regulation/1456",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "11 lis 2026",
-                "name": "ZAWODY NIEPODLEGŁOŚCIOWE",
-                "regulation_link": "https://portal.wzss.pl/regulation/1457",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "19 gru 2026",
-                "name": "ZAWODY ZIMOWE",
-                "regulation_link": "https://portal.wzss.pl/regulation/1458",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "JASTRZĄB Swarzędz",
         "location": "Strzelnica Koła Łowieckiego nr 40 Diana",
         "latitude": 52.420392,
@@ -4785,6 +4732,7 @@
             {
                 "date": "17 paź 2026",
                 "name": "Małokalibrowy Puchar Prezesa BELLONA Kalisz",
+                "regulation_link": "https://portal.wzss.pl/regulation/1556",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4804,6 +4752,48 @@
                 "date": "18 paź 2026",
                 "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1310",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "DO CELU Leszno",
+        "location": "STRZELNICA MYSLIWSKO SPOROTWA PZŁ W KRZYWINIU",
+        "latitude": 51.962928,
+        "longitude": 16.819295,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "24 paź 2026",
+                "name": "ZAWODY JESIENNE",
+                "regulation_link": "https://portal.wzss.pl/regulation/1456",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "11 lis 2026",
+                "name": "ZAWODY NIEPODLEGŁOŚCIOWE",
+                "regulation_link": "https://portal.wzss.pl/regulation/1457",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "19 gru 2026",
+                "name": "ZAWODY ZIMOWE",
+                "regulation_link": "https://portal.wzss.pl/regulation/1458",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
