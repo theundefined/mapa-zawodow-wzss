@@ -1022,16 +1022,6 @@
                 ]
             },
             {
-                "date": "4 - 5 wrz 2026",
-                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #4",
-                "regulation_link": "https://portal.wzss.pl/regulation/1172",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
                 "date": "19 wrz 2026",
                 "name": "Otwarte Zawody Klubowe #2",
                 "regulation_link": "https://portal.wzss.pl/regulation/1155",
@@ -1039,16 +1029,6 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "16 - 17 paź 2026",
-                "name": "Zawody \"W stronę słońca\" wg Steel Challenge #5 FINAŁ",
-                "regulation_link": "https://portal.wzss.pl/regulation/1174",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             },
@@ -2774,6 +2754,17 @@
                 "date": "20 wrz 2026",
                 "name": "Cykl Otwartych Zawodów WSS 7.62",
                 "regulation_link": "https://portal.wzss.pl/regulation/1315",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "11 paź 2026",
+                "name": "Cykl Otwartych Zawodów WSS 7.62",
+                "regulation_link": "https://portal.wzss.pl/regulation/1316",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
