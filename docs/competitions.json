@@ -1860,6 +1860,7 @@
             {
                 "date": "6 gru 2026",
                 "name": "Zimowe zawody dynamiczne 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1514",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -4117,6 +4118,16 @@
                 "date": "19 wrz 2026",
                 "name": "STALOWE WYZWANIE",
                 "regulation_link": "https://portal.wzss.pl/regulation/1502",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 paź 2026",
+                "name": "STALOWE WYZWANIE",
+                "regulation_link": "https://portal.wzss.pl/regulation/1503",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
