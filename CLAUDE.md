@@ -51,6 +51,8 @@ Lokalny katalog `calendars/` w korzeniu repo jest w `.gitignore` — to tylko ro
 
 Jeden plik HTML z inline CSS/JS, biblioteka mapowa: Leaflet 1.7.1 z CDN (`unpkg.com`). Przy starcie robi `fetch('competitions.json')`, buduje checkboxy klubów i markery na mapie, filtruje po klubie i zakresie dat (predefiniowane zakresy: najbliższy weekend, 14 dni, bieżący/następny miesiąc, cały rok). Wymaga serwowania przez HTTP (nie działa z `file://` z powodu `fetch`).
 
+**PWA (instalacja na telefonie):** `map.html` linkuje `manifest.webmanifest`, `icons/*` i rejestruje `sw.js` ścieżkami względnymi — te pliki istnieją tylko w `docs/` (ręcznie utrzymywane, workflow ich nie dotyka). Pełny podgląd z PWA: `cd docs && python -m http.server 8000`. `sw.js` serwuje własne pliki strategią network-first (offline z cache), Leaflet z CDN cache-first, kafelków OSM nie cache'uje; przy zmianie listy `APP_SHELL` podbij nazwę `CACHE`.
+
 ### Automatyzacja (`.github/workflows/update_map.yml`)
 
 Cron codziennie o 3:00 UTC + `workflow_dispatch`. Kroki: `fetch_competitions.py` -> `verify_locations.py` -> kopiowanie do `docs/` -> auto-commit (`stefanzweifel/git-auto-commit-action`) z komunikatem "Automated competition map update" na branch `main`. To źródło większości commitów w historii repo.

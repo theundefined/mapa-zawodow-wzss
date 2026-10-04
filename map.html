@@ -4,6 +4,14 @@
     <title>Mapa Zawodów WZSS</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#007bff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Zawody WZSS">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
         body { font-family: sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; color: #333; }
@@ -139,11 +147,32 @@
             visibility: visible;
             opacity: 1;
         }
+        .install-banner {
+            display: none;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            background: #e7f1ff;
+            border: 1px solid #b6d4fe;
+            border-radius: 8px;
+            padding: 10px 15px;
+            margin-bottom: 20px;
+        }
+        .install-banner.visible { display: flex; }
+        .install-banner .install-actions { display: flex; gap: 5px; flex-shrink: 0; }
     </style>
 </head>
 <body>
 
 <h1>Mapa Zawodów WZSS</h1>
+
+<div id="install-banner" class="install-banner">
+    <span id="install-text">Dodaj mapę do ekranu głównego telefonu, aby otwierać ją jak aplikację.</span>
+    <div class="install-actions">
+        <button id="install-btn">Zainstaluj</button>
+        <button class="secondary" onclick="dismissInstallBanner()">Nie teraz</button>
+    </div>
+</div>
 
 <div class="filters">
     <div class="filter-group">
@@ -509,6 +538,49 @@
             });
             displayLocations(locations);
         });
+
+    // Instalacja jako aplikacja (PWA)
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').catch(err => console.warn('Service worker:', err));
+    }
+
+    const installBanner = document.getElementById('install-banner');
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+    const installDismissed = localStorage.getItem('installDismissed') === '1';
+    let deferredInstallPrompt = null;
+
+    function dismissInstallBanner() {
+        installBanner.classList.remove('visible');
+        localStorage.setItem('installDismissed', '1');
+    }
+
+    // Android / Chrome / Edge: własny przycisk instalacji
+    window.addEventListener('beforeinstallprompt', e => {
+        e.preventDefault();
+        deferredInstallPrompt = e;
+        if (!installDismissed) installBanner.classList.add('visible');
+    });
+
+    document.getElementById('install-btn').onclick = () => {
+        if (!deferredInstallPrompt) return;
+        deferredInstallPrompt.prompt();
+        deferredInstallPrompt.userChoice.finally(() => {
+            deferredInstallPrompt = null;
+            installBanner.classList.remove('visible');
+        });
+    };
+
+    window.addEventListener('appinstalled', () => installBanner.classList.remove('visible'));
+
+    // iOS (Safari) nie wspiera beforeinstallprompt — pokaż instrukcję
+    const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent) ||
+        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (isIos && !isStandalone && !installDismissed) {
+        document.getElementById('install-text').innerHTML =
+            'Aby dodać mapę do ekranu głównego, stuknij <b>Udostępnij</b> (kwadrat ze strzałką), a potem <b>Do ekranu początkowego</b>.';
+        document.getElementById('install-btn').style.display = 'none';
+        installBanner.classList.add('visible');
+    }
 
 </script>
 

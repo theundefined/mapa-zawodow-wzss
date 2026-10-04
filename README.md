@@ -24,6 +24,7 @@ Jest to **projekt nieoficjalny**, stworzony hobbystycznie, aby ułatwić życie 
     *   Możliwość pobrania pliku `.ics` dla wybranego klubu.
     *   **Subskrypcja:** Skopiuj link i wklej go do Kalendarza Google lub Outlook. Gdy klub ogłosi nowe zawody, Twój prywatny kalendarz zaktualizuje się automatycznie!
 *   **📱 Responsywność:** Działa wygodnie zarówno na komputerze, jak i na telefonie.
+*   **📲 Aplikacja na telefonie:** Stronę można dodać do ekranu głównego (Android: przycisk „Zainstaluj” lub menu przeglądarki → „Zainstaluj aplikację”; iPhone: Safari → Udostępnij → „Do ekranu początkowego”). Ostatnio pobrane dane są dostępne także offline.
 
 ## ⚙️ Jak to działa (Automatyzacja)
 
