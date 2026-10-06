@@ -4870,6 +4870,25 @@
         ]
     },
     {
+        "club": "SOKÓŁ Kazimierz Biskupi",
+        "location": "Kazimierz Biskupi, Kościuszki 6, 62-530 Kazimierz Biskupi",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 lis 2026",
+                "name": "Jesień",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "ZBROJOWNIA Suchy Las",
         "location": "Strzelnica Lizawka  Poznań",
         "latitude": 52.420392,
