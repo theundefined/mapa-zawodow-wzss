@@ -4806,25 +4806,6 @@
         ]
     },
     {
-        "club": "BRYGADA Poznań",
-        "location": "Lizawka",
-        "latitude": null,
-        "longitude": null,
-        "website": "",
-        "competitions": [
-            {
-                "date": "24 paź 2026",
-                "name": "Zombie Bitwa 10.2026",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "KBS Śmigiel",
         "location": "Śmigiel ul Kościuszki 20",
         "latitude": 52.0153854,
