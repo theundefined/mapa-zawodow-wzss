@@ -1831,14 +1831,6 @@
                 ]
             },
             {
-                "date": "25 paź 2026",
-                "name": "Klubowy SHOOT OFF",
-                "weapons": [
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
                 "date": "8 lis 2026",
                 "name": "Karabin centralnego zapłonu, snajper i mini snajper 100m – Mistrzostwa Klubu 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1512",
@@ -2331,6 +2323,15 @@
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:"
+                ]
+            },
+            {
+                "date": "7 - 8 lis 2026",
+                "name": "PCSL Nieczajna Vol 2",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
                 ]
             }
         ]
@@ -4191,15 +4192,6 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "25 paź 2026",
-                "name": "Zawody Klubowe KSK WIG Orchowo",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
