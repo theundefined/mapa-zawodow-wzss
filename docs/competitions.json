@@ -1316,15 +1316,6 @@
                 ]
             },
             {
-                "date": "12 wrz 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            Bitwa pod Beresteczkiem\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
-                "regulation_link": "https://portal.wzss.pl/regulation/1149",
-                "weapons": [
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
                 "date": "10 paź 2026",
                 "name": "trophy\n    \n\n\n\n\n                                                            Bitwa pod Wiedniem\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1203",
@@ -2814,6 +2805,16 @@
                 "name": "II Runda Pucharu Polski Open (rzutki)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1437",
                 "weapons": [
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "21 lis 2026",
+                "name": "Powitanie Jesieni",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
@@ -4886,6 +4887,25 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "KOS Bugaj",
+        "location": "Sarbka 52 64-700 Czarnków",
+        "latitude": 52.93148,
+        "longitude": 16.64697,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "29 lis 2026",
+                "name": "Zawody Strzeleckie \"KOS\"",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
