@@ -2208,7 +2208,7 @@
                 ]
             },
             {
-                "date": "6 - 8 lis 2026",
+                "date": "5 - 8 lis 2026",
                 "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -3310,6 +3310,7 @@
             {
                 "date": "7 lis 2026",
                 "name": "Klubowe zawody strzeleckie, jesień",
+                "regulation_link": "https://portal.wzss.pl/regulation/1564",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4216,6 +4217,15 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "14 lis 2026",
+                "name": "Zawody Klubowe KSK WIG Orchowo",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -4877,6 +4887,24 @@
             {
                 "date": "15 lis 2026",
                 "name": "6 Zawody Strzeleckie o Puchar Pamięci Eugeniusza Mikołajczaka",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GRYF Grodzisk Wlkp.",
+        "location": "Zdrój",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "15 lis 2026",
+                "name": "Puchar Prezesa GKS GRYF",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
