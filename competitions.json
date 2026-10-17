@@ -2813,6 +2813,7 @@
             {
                 "date": "14 lis 2026",
                 "name": "Powitanie Jesieni",
+                "regulation_link": "https://portal.wzss.pl/regulation/1562",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3581,16 +3582,6 @@
                 "date": "13 cze 2026",
                 "name": "Zawody Klubowe",
                 "regulation_link": "https://portal.wzss.pl/regulation/1474",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "31 paź 2026",
-                "name": "Zawody Klubowe",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4841,6 +4832,45 @@
         ]
     },
     {
+        "club": "BRYGADA Poznań",
+        "location": "Lizawka",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "24 paź 2026",
+                "name": "Zombie Bitwa 10.2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1559",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "SNAJPER Poznań",
+        "location": "GKS „Gryf” Zdrój 49a, Grodzisk Wielkopolski",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "24 paź 2026",
+                "name": "Zawody klubowe KŻR LOK SNAJPER - POZNAŃ.",
+                "regulation_link": "https://portal.wzss.pl/regulation/1566",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "KBS Śmigiel",
         "location": "Śmigiel ul Kościuszki 20",
         "latitude": 52.0153854,
@@ -4905,6 +4935,7 @@
             {
                 "date": "15 lis 2026",
                 "name": "Puchar Prezesa GKS GRYF",
+                "regulation_link": "https://portal.wzss.pl/regulation/1565",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
