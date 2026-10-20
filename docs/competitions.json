@@ -4889,6 +4889,25 @@
         ]
     },
     {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa „Miłaczewek – Soldier Academy” koło Cekowa",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 lis 2026",
+                "name": "Otwarte Zawody o Puchar Prezesa",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "BURSZTYN Kalisz",
         "location": "Pleszew - strzelnica, ul. Poniatowskiego 7",
         "latitude": 51.8888362,
@@ -4916,6 +4935,7 @@
             {
                 "date": "15 lis 2026",
                 "name": "6 Zawody Strzeleckie o Puchar Pamięci Eugeniusza Mikołajczaka",
+                "regulation_link": "https://portal.wzss.pl/regulation/1472",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -4938,6 +4958,26 @@
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "MUSZKIET Konin",
+        "location": "Potażniki 3a",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "15 lis 2026",
+                "name": "Puchar Niepodległości",
+                "regulation_link": "https://portal.wzss.pl/regulation/1567",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
