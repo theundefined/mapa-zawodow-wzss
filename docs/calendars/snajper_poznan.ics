@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20261020T080045Z
+DTSTAMP:20261021T080554Z
 UID:20260411-zawody_klubowe_kzr_lok_snajper@wzss.map
 SUMMARY:Zawody klubowe KŻR LOK „SNAJPER”
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1431
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261020T080045Z
+DTSTAMP:20261021T080554Z
 UID:20261024-zawody_klubowe_kzr_lok_snajper_poznan@wzss.map
 SUMMARY:Zawody klubowe KŻR LOK SNAJPER - POZNAŃ.
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1566
