@@ -217,6 +217,16 @@
                     "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "28 - 29 gru 2026",
+                "name": "Zakończenie Sezonu 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1377",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -1851,6 +1861,15 @@
                 ]
             },
             {
+                "date": "25 paź 2026",
+                "name": "Klubowy SHOOT OFF",
+                "regulation_link": "https://portal.wzss.pl/regulation/1554",
+                "weapons": [
+                    "Pistolet:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
                 "date": "8 lis 2026",
                 "name": "Karabin centralnego zapłonu, snajper i mini snajper 100m – Mistrzostwa Klubu 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1512",
@@ -2239,6 +2258,7 @@
             {
                 "date": "5 - 8 lis 2026",
                 "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1300",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -3636,6 +3656,17 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "31 paź 2026",
+                "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1557",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -4957,6 +4988,7 @@
             {
                 "date": "7 lis 2026",
                 "name": "Otwarte Zawody o Puchar Prezesa",
+                "regulation_link": "https://portal.wzss.pl/regulation/1569",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
