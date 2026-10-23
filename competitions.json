@@ -219,6 +219,46 @@
                 ]
             },
             {
+                "date": "21 lis 2026",
+                "name": "Zawody Pistolet Standard II + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1372",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "28 lis 2026",
+                "name": "Finał Pucharu WKS Grunwald 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1374",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 gru 2026",
+                "name": "Turniej Mikołajkowy",
+                "regulation_link": "https://portal.wzss.pl/regulation/1375",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "19 gru 2026",
+                "name": "Puchar Zimy",
+                "regulation_link": "https://portal.wzss.pl/regulation/1376",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
                 "date": "28 - 29 gru 2026",
                 "name": "Zakończenie Sezonu 2026",
                 "regulation_link": "https://portal.wzss.pl/regulation/1377",
@@ -3702,7 +3742,6 @@
             {
                 "date": "12 gru 2026",
                 "name": "Zawody Mikołajkowe",
-                "regulation_link": "https://portal.wzss.pl/regulation/1563",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -5103,7 +5142,8 @@
         "competitions": [
             {
                 "date": "22 lis 2026",
-                "name": "Jesień",
+                "name": "Jesień II",
+                "regulation_link": "https://portal.wzss.pl/regulation/1558",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
