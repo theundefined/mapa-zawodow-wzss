@@ -1144,6 +1144,7 @@
             {
                 "date": "15 lis 2026",
                 "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1311",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -2222,15 +2223,6 @@
                 "date": "25 kwi 2026",
                 "name": "Mistrzostwa KSS LOK BURSZTYN (broń pneumatyczna) (ZK)",
                 "regulation_link": "https://portal.wzss.pl/regulation/1352",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
-                ]
-            },
-            {
-                "date": "7 lis 2026",
-                "name": "36. Zawody Strzeleckie o Puchar Niepodległości (broń pneumatyczna)",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3351,6 +3343,7 @@
             {
                 "date": "7 lis 2026",
                 "name": "STRZELANIE NIEPODLEGŁOŚCIOWE",
+                "regulation_link": "https://portal.wzss.pl/regulation/1265",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -3742,6 +3735,7 @@
             {
                 "date": "12 gru 2026",
                 "name": "Zawody Mikołajkowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1563",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -5147,7 +5141,7 @@
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Dynamiczna",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
