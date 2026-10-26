@@ -2299,7 +2299,7 @@
                 ]
             },
             {
-                "date": "20 - 22 lis 2026",
+                "date": "19 - 22 lis 2026",
                 "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
@@ -2310,7 +2310,7 @@
             },
             {
                 "date": "4 - 6 gru 2026",
-                "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "name": "TURNIEJ ZALICZENIOWY (4 Pistolety, 2 Karabiny, 2 Strzelby)",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -5032,25 +5032,6 @@
         ]
     },
     {
-        "club": "PROPORZEC Opalenica",
-        "location": "Strzelnica Proporzec",
-        "latitude": null,
-        "longitude": null,
-        "website": "",
-        "competitions": [
-            {
-                "date": "8 lis 2026",
-                "name": "Listopadowe Zawody Klubowe 2026",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "BURSZTYN Kalisz",
         "location": "Pleszew - strzelnica, ul. Poniatowskiego 7",
         "latitude": 51.8888362,
@@ -5141,6 +5122,25 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "IC Piła",
+        "location": "Strzelnica Górzna",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "21 lis 2026",
+                "name": "Puchar Święta Niepodległości",
+                "regulation_link": "https://portal.wzss.pl/regulation/1571",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
