@@ -2301,6 +2301,7 @@
             {
                 "date": "19 - 22 lis 2026",
                 "name": "TURNIEJ STRZELECKI (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1301",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2311,6 +2312,7 @@
             {
                 "date": "4 - 6 gru 2026",
                 "name": "TURNIEJ ZALICZENIOWY (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1302",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -2321,6 +2323,7 @@
             {
                 "date": "28 - 30 gru 2026",
                 "name": "TURNIEJ ZALICZENIOWY OSTATNIEJ SZANSY (4 Pistolety, 2 Karabiny, 2 Strzelby)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1303",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Pistolet:\n                                                    Dynamiczna",
@@ -5162,6 +5165,25 @@
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "NAŁĘCZ Czarnków",
+        "location": "Sarbka 52",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "22 lis 2026",
+                "name": "Zawody Niepodległościowe 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:"
                 ]
             }
         ]
