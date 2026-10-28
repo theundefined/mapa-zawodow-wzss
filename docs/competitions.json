@@ -5035,19 +5035,21 @@
         ]
     },
     {
-        "club": "BURSZTYN Kalisz",
-        "location": "Pleszew - strzelnica, ul. Poniatowskiego 7",
-        "latitude": 51.8888362,
-        "longitude": 17.7762698,
+        "club": "PROPORZEC Opalenica",
+        "location": "Strzelnica Proporzec",
+        "latitude": null,
+        "longitude": null,
         "website": "https://portal.wzss.pl",
         "competitions": [
             {
-                "date": "11 lis 2026",
-                "name": "29. Zawody Strzeleckie o Puchar Niepodległości (broń małokalibrowa)",
+                "date": "8 lis 2026",
+                "name": "Listopadowe Zawody Klubowe 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1570",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
                 ]
             }
         ]
