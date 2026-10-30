@@ -4983,6 +4983,16 @@
                     "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "7 lis 2026",
+                "name": "Zawody klubowe KŻR LOK SNAJPER - POZNAŃ. Kopia",
+                "regulation_link": "https://portal.wzss.pl/regulation/1574",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -5030,6 +5040,25 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BELLONA Kalisz",
+        "location": "Strzelnica sportowa 62-800 Kalisz, ul. Śródmiejska 24A ( wjazd od ul. Fabrycznej)",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "7 lis 2026",
+                "name": "Inauguracja strzelań kulowych w Kaliszu",
+                "regulation_link": "https://portal.wzss.pl/regulation/1576",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
@@ -5182,11 +5211,12 @@
             {
                 "date": "22 lis 2026",
                 "name": "Zawody Niepodległościowe 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1572",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
-                    "Klasa:"
+                    "Klasa:\n                                                                                                    Open"
                 ]
             }
         ]
