@@ -2230,6 +2230,16 @@
                 ]
             },
             {
+                "date": "7 lis 2026",
+                "name": "36. Zawody Strzeleckie o Puchar Niepodległości (broń pneumatyczna)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1496",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            },
+            {
                 "date": "5 gru 2026",
                 "name": "29. Mikołajkowe Zawody Strzeleckie",
                 "weapons": [
@@ -5096,6 +5106,25 @@
         ]
     },
     {
+        "club": "BURSZTYN Kalisz",
+        "location": "Pleszew - strzelnica, ul. Poniatowskiego 7",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "11 lis 2026",
+                "name": "29. Zawody Strzeleckie o Puchar Niepodległości (broń małokalibrowa)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1497",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy\n                                                                                                    Jr. młodsi"
+                ]
+            }
+        ]
+    },
+    {
         "club": "LESNA Leszno",
         "location": "Strzelnica Sportowa pl. T. Kościuszki 5, 64-100 Leszno",
         "latitude": 51.8475269,
@@ -5282,6 +5311,25 @@
                 "date": "6 gru 2026",
                 "name": "Otwarte Zawody Sportowe \"Zima\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1408",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "PLOMO Ostrów Wielkopolski",
+        "location": "Strzelnica Leonhard",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "19 gru 2026",
+                "name": "Nie miałem czasu",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
