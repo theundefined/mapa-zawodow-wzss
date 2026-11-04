@@ -5222,6 +5222,23 @@
         ]
     },
     {
+        "club": "RENEGACI Bytkowo",
+        "location": "Nieczajna33",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "21 lis 2026",
+                "name": "WKKW 2026",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
+                ]
+            }
+        ]
+    },
+    {
         "club": "IC Piła",
         "location": "Strzelnica Górzna",
         "latitude": null,
@@ -5325,11 +5342,12 @@
         "location": "Strzelnica Leonhard",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://portal.wzss.pl",
         "competitions": [
             {
                 "date": "19 gru 2026",
                 "name": "Nie miałem czasu",
+                "regulation_link": "https://portal.wzss.pl/regulation/1603",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
