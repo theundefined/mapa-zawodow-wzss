@@ -437,6 +437,28 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "20 gru 2026",
+                "name": "Zawody Powstańcze",
+                "regulation_link": "https://portal.wzss.pl/regulation/1605",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "10 sty 2027",
+                "name": "Zawody Sejmowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1606",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -5231,6 +5253,7 @@
             {
                 "date": "21 lis 2026",
                 "name": "WKKW 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1604",
                 "weapons": [
                     "Karabin:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open\n                                                                                                    Młodzicy\n                                                                                                    Juniorzy"
