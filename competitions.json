@@ -5332,6 +5332,25 @@
         ]
     },
     {
+        "club": "DYWIZJON Poznań",
+        "location": "Czacz",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "22 lis 2026",
+                "name": "Statyka+",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "KOS Bugaj",
         "location": "Sarbka 52 64-700 Czarnków",
         "latitude": 52.93148,
