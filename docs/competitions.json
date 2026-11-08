@@ -5336,15 +5336,36 @@
         "location": "Czacz",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://portal.wzss.pl",
         "competitions": [
             {
                 "date": "22 lis 2026",
                 "name": "Statyka+",
+                "regulation_link": "https://portal.wzss.pl/regulation/1607",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "PROPORZEC Opalenica",
+        "location": "●\tStrzelnica Fundacji Proporzec, Lwówek Wlkp., ul. Parkowa 2",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "29 lis 2026",
+                "name": "Zawody Klubowe Koniec Sezonu 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1608",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
