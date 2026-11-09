@@ -1418,16 +1418,6 @@
                 ]
             },
             {
-                "date": "10 paź 2026",
-                "name": "trophy\n    \n\n\n\n\n                                                            Bitwa pod Wiedniem\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        IDPA\n                                                                    \n                                                                )",
-                "regulation_link": "https://portal.wzss.pl/regulation/1203",
-                "weapons": [
-                    "Karabin:\n                                                    Dynamiczna",
-                    "Pistolet:\n                                                    Dynamiczna",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
                 "date": "7 lis 2026",
                 "name": "trophy\n    \n\n\n\n\n                                                            MGUN\n                                                        \n\n                                                                (zawody odbywają się w cyklu:\n                                                                                                                                    \n                                                                        MGUN 2026\n                                                                    \n                                                                )",
                 "regulation_link": "https://portal.wzss.pl/regulation/1202",
@@ -5426,6 +5416,235 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GRUNWALD Poznań",
+        "location": "Strzelnica WKS Grunwald, ul. Saperska 48, 61-493 Poznań",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "9 sty 2027",
+                "name": "Rozpoczęcie Sezonu 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1580",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "23 sty 2027",
+                "name": "I Runda Pistolet Wojskowy + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1594",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "6 lut 2027",
+                "name": "Zawody Pistolet Standard I + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1598",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 lut 2027",
+                "name": "Puchar Zimy",
+                "regulation_link": "https://portal.wzss.pl/regulation/1581",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 - 6 mar 2027",
+                "name": "I Runda Pucharu WKS Grunwald 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1589",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 mar 2027",
+                "name": "Puchar Wiosny",
+                "regulation_link": "https://portal.wzss.pl/regulation/1582",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "3 kwi 2027",
+                "name": "II Runda Pistolet Wojskowy + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1595",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "16 - 17 kwi 2027",
+                "name": "II Runda Pucharu WKS Grunwald 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1590",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "8 maj 2027",
+                "name": "Puchar Sekcji Strzeleckiej",
+                "regulation_link": "https://portal.wzss.pl/regulation/1583",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "22 maj 2027",
+                "name": "III Runda Pistolet Wojskowy + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1596",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 cze 2027",
+                "name": "Puchar Lata",
+                "regulation_link": "https://portal.wzss.pl/regulation/1584",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "18 - 19 cze 2027",
+                "name": "Mistrzostwa WKS Grunwald Poznań 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1601",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 wrz 2027",
+                "name": "XIII Memoriał Andrzeja Tomasika",
+                "regulation_link": "https://portal.wzss.pl/regulation/1585",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "17 - 18 wrz 2027",
+                "name": "III Runda Pucharu WKS Grunwald 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1591",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "2 paź 2027",
+                "name": "Puchar Jesieni",
+                "regulation_link": "https://portal.wzss.pl/regulation/1586",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "16 paź 2027",
+                "name": "IV Runda Pistolet Wojskowy + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1597",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "23 paź 2027",
+                "name": "Zawody Pistolet Standard II + PN",
+                "regulation_link": "https://portal.wzss.pl/regulation/1600",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "5 - 6 lis 2027",
+                "name": "IV Runda Pucharu WKS Grunwald 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1592",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "20 lis 2027",
+                "name": "Puchar Zimy",
+                "regulation_link": "https://portal.wzss.pl/regulation/1587",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 lis 2027",
+                "name": "Finał Pucharu WKS Grunwald 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1602",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 gru 2027",
+                "name": "Turniej Mikołajkowy",
+                "regulation_link": "https://portal.wzss.pl/regulation/1588",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 - 28 gru 2027",
+                "name": "Zakończenie sezonu 2027",
+                "regulation_link": "https://portal.wzss.pl/regulation/1593",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
