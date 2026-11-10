@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261109T103538Z
+DTSTAMP:20261110T103549Z
 UID:20261108-listopadowe_zawody_klubowe_2026@wzss.map
 SUMMARY:Listopadowe Zawody Klubowe 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1570
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261109T103538Z
+DTSTAMP:20261110T103549Z
 UID:20261129-zawody_klubowe_koniec_sezonu_2026@wzss.map
 SUMMARY:Zawody Klubowe Koniec Sezonu 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1608
