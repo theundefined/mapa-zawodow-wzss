@@ -3233,6 +3233,48 @@
         ]
     },
     {
+        "club": "SOKÓŁ Kazimierz Biskupi",
+        "location": "Kazimierz Biskupi",
+        "latitude": 52.31475,
+        "longitude": 18.16951,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "26 kwi 2026",
+                "name": "Wiosna 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1448",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "24 maj 2026",
+                "name": "Wiosna II 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1467",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "27 wrz 2026",
+                "name": "Jesień 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1550",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "NSS Czarnków",
         "location": "Hubertus Chodzież",
         "latitude": 53.0077681,
@@ -3801,37 +3843,6 @@
                 "date": "23 maj 2026",
                 "name": "V MEMORIAŁ Prezesa Gustawa Elbla",
                 "regulation_link": "https://portal.wzss.pl/regulation/1462",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
-        "club": "SOKÓŁ Kazimierz Biskupi",
-        "location": "Kazimierz Biskupi",
-        "latitude": 52.31475,
-        "longitude": 18.16951,
-        "website": "https://portal.wzss.pl",
-        "competitions": [
-            {
-                "date": "24 maj 2026",
-                "name": "Wiosna II 2026",
-                "regulation_link": "https://portal.wzss.pl/regulation/1467",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Strzelba:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            },
-            {
-                "date": "27 wrz 2026",
-                "name": "Jesień 2026",
-                "regulation_link": "https://portal.wzss.pl/regulation/1550",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -5342,6 +5353,25 @@
         ]
     },
     {
+        "club": "BK Rawicz",
+        "location": "Borek Wielkopolski , ul. M. Konopnickiej 3a",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "26 lis 2026",
+                "name": "Grand Prix Okręgu Leszczyńskiego",
+                "regulation_link": "https://portal.wzss.pl/regulation/1611",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "PROPORZEC Opalenica",
         "location": "●\tStrzelnica Fundacji Proporzec, Lwówek Wlkp., ul. Parkowa 2",
         "latitude": null,
@@ -5392,6 +5422,26 @@
                 "date": "6 gru 2026",
                 "name": "Otwarte Zawody Sportowe \"Zima\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1408",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "SCHRON 85 Konin",
+        "location": "Schron85",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "13 gru 2026",
+                "name": "Zawody Grudniowe 2026",
+                "regulation_link": "https://portal.wzss.pl/regulation/1610",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
