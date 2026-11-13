@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261112T102717Z
+DTSTAMP:20261113T101735Z
 UID:20261122-statyka@wzss.map
 SUMMARY:Statyka+
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Dynamiczna, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1607

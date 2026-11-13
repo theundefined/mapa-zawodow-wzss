@@ -6,21 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:PROPORZEC Opalenica - Zawody
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261112T102717Z
-UID:20261108-listopadowe_zawody_klubowe_2026@wzss.map
-SUMMARY:Listopadowe Zawody Klubowe 2026
-DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1570
-LOCATION:Strzelnica Proporzec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261112T102717Z
+DTSTAMP:20261113T101735Z
 UID:20261129-zawody_klubowe_koniec_sezonu_2026@wzss.map
 SUMMARY:Zawody Klubowe Koniec Sezonu 2026
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1608
-LOCATION:Strzelnica Proporzec
+LOCATION:●	Strzelnica Fundacji Proporzec, Lwówek Wlkp., ul. Parkowa 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261113T101735Z
+UID:20261213-listopadowe_zawody_klubowe_2026@wzss.map
+SUMMARY:Listopadowe Zawody Klubowe 2026
+DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1570
+LOCATION:●	Strzelnica Fundacji Proporzec, Lwówek Wlkp., ul. Parkowa 2
 END:VEVENT
 END:VCALENDAR
