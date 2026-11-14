@@ -5256,25 +5256,6 @@
         ]
     },
     {
-        "club": "IC Piła",
-        "location": "Strzelnica Górzna",
-        "latitude": null,
-        "longitude": null,
-        "website": "https://portal.wzss.pl",
-        "competitions": [
-            {
-                "date": "21 lis 2026",
-                "name": "Puchar Święta Niepodległości",
-                "regulation_link": "https://portal.wzss.pl/regulation/1571",
-                "weapons": [
-                    "Karabin:\n                                                    Sportowa",
-                    "Pistolet:\n                                                    Sportowa",
-                    "Klasa:\n                                                                                                    Open"
-                ]
-            }
-        ]
-    },
-    {
         "club": "BK Rawicz",
         "location": "Borek Wielkopolski , ul. M. Konopnickiej 3a",
         "latitude": null,
