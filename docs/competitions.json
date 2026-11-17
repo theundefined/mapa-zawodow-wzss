@@ -5375,6 +5375,25 @@
         ]
     },
     {
+        "club": "PESTKA Jabłonna",
+        "location": "NIETKÓW",
+        "latitude": null,
+        "longitude": null,
+        "website": "",
+        "competitions": [
+            {
+                "date": "5 gru 2026",
+                "name": "Zawody Klubowe Pestka",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "ZBROJOWNIA Suchy Las",
         "location": "Strzelnica Lizawka  Poznań",
         "latitude": 52.420392,
