@@ -5379,11 +5379,12 @@
         "location": "NIETKÓW",
         "latitude": null,
         "longitude": null,
-        "website": "",
+        "website": "https://portal.wzss.pl",
         "competitions": [
             {
                 "date": "5 gru 2026",
                 "name": "Zawody Klubowe Pestka",
+                "regulation_link": "https://portal.wzss.pl/regulation/1612",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -5697,6 +5698,100 @@
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BOCK Rawicz",
+        "location": "Strzelnica OSiR w Rawiczu",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "30 sty 2027",
+                "name": "Zawody z okazji 107 rocznicy powrotu Rawicza do Polski",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BOCK Rawicz",
+        "location": "Strzelnica myśliwska leśniczówka Dębno",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "21 lut 2027",
+                "name": "XII Zimowe Zawody o Puchar Prezesa RKS BOCK",
+                "weapons": [
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BOCK Rawicz",
+        "location": "strzelnica OSiR w Rawiczu, strzelnica leśniczówka Dębno",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "20 - 21 mar 2027",
+                "name": "Zawody ,,Powitanie Wiosny\"",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "12 - 13 cze 2027",
+                "name": "Grand Prix Rawicza",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "21 - 22 sie 2027",
+                "name": "Zawody o Statuetkę Rawickiego Niedźwiadka",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "16 - 17 paź 2027",
+                "name": "Mistrzostwa Klubu BOCK w strzelaniu z broni sportowej",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            },
+            {
+                "date": "4 - 5 gru 2027",
+                "name": "Zawody Mikołajkowe",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
