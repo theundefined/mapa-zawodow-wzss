@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20260131-zawody_z_okazji_106_rocznicy_powrotu_rawicza_do_polski@wzss.map
 SUMMARY:Zawody z okazji 106 rocznicy Powrotu Rawicza do Polski
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1188
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20260222-xii_zimowe_zawody_puchar_prezesa_bock@wzss.map
 SUMMARY:XII zimowe zawody - Puchar Prezesa BOCK
 DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1259
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20260314-powitanie_wiosny@wzss.map
 SUMMARY:Powitanie Wiosny
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1270
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20260606-grand_prix_rawicza@wzss.map
 SUMMARY:Grand Prix Rawicza
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1284
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20261017-mistrzostwa_klubu_bock@wzss.map
 SUMMARY:Mistrzostwa Klubu Bock
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1285
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20261205-zawody_mikolajkowe@wzss.map
 SUMMARY:Zawody Mikołajkowe
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1286
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20270130-zawody_z_okazji_107_rocznicy_powrotu_rawicza_do_polski@wzss.map
 SUMMARY:Zawody z okazji 107 rocznicy powrotu Rawicza do Polski
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Klasa: Open
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20270221-xii_zimowe_zawody_o_puchar_prezesa_rks_bock@wzss.map
 SUMMARY:XII Zimowe Zawody o Puchar Prezesa RKS BOCK
 DESCRIPTION:Bronie: Strzelba: Sportowa, Klasa: Open
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20270320-zawody_powitanie_wiosny@wzss.map
 SUMMARY:Zawody ,,Powitanie Wiosny"
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20270612-grand_prix_rawicza@wzss.map
 SUMMARY:Grand Prix Rawicza
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270823
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20270821-zawody_o_statuetke_rawickiego_niedzwiadka@wzss.map
 SUMMARY:Zawody o Statuetkę Rawickiego Niedźwiadka
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20271016-mistrzostwa_klubu_bock_w_strzelaniu_z_broni_sportowej@wzss.map
 SUMMARY:Mistrzostwa Klubu BOCK w strzelaniu z broni sportowej
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271204
 DTEND;VALUE=DATE:20271206
-DTSTAMP:20261118T105152Z
+DTSTAMP:20261119T105346Z
 UID:20271204-zawody_mikolajkowe@wzss.map
 SUMMARY:Zawody Mikołajkowe
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open

@@ -5375,6 +5375,24 @@
         ]
     },
     {
+        "club": "BK Wronki",
+        "location": "Szklarnia 6 a, Wronki",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "3 gru 2026",
+                "name": "Klubowe zawody BK Wronki grudzien 26r.",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
         "club": "PESTKA Jabłonna",
         "location": "NIETKÓW",
         "latitude": null,
@@ -5449,6 +5467,44 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "GUARDIANS Nowolipsk",
+        "location": "Strzelnica Sportowa ,,Klara\" Sobótka k. Ostrowa Wlkp.",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "13 gru 2026",
+                "name": "Zawody Ostatniej Szansy (4P + 2K + 2S)",
+                "regulation_link": "https://portal.wzss.pl/regulation/1620",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa i Dynamiczna",
+                    "Strzelba:\n                                                    Sportowa i Dynamiczna",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "BK Wronki",
+        "location": "Szklarnia 6a, Wronki",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "17 gru 2026",
+                "name": "Klubowe zawody BK Wronki grudzien 26r",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
