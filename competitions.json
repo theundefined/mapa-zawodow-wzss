@@ -1176,6 +1176,7 @@
             {
                 "date": "12 gru 2026",
                 "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1312",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
@@ -5424,6 +5425,26 @@
                 "date": "6 gru 2026",
                 "name": "Otwarte Zawody Sportowe \"Zima\"",
                 "regulation_link": "https://portal.wzss.pl/regulation/1408",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "WKSS Poznań",
+        "location": "Margonin ul. Strzelecka",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "12 gru 2026",
+                "name": "Zawody Klubowe",
+                "regulation_link": "https://portal.wzss.pl/regulation/1623",
                 "weapons": [
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
