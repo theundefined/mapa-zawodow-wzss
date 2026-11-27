@@ -8,10 +8,19 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261126T114042Z
+DTSTAMP:20261127T113409Z
 UID:20261219-nie_mialem_czasu@wzss.map
 SUMMARY:Nie miałem czasu
 DESCRIPTION:Bronie: Karabin: Sportowa, Pistolet: Sportowa, Strzelba: Sportowa, Klasa: Open\nRegulamin: https://portal.wzss.pl/regulation/1603
+LOCATION:Strzelnica Leonhard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261127T113409Z
+UID:20270402-kapitan_splonka_2027_idpa_t2_match@wzss.map
+SUMMARY:Kapitan Spłonka 2027 IDPA T2 match
+DESCRIPTION:Bronie: Karabin: Dynamiczna, Pistolet: Dynamiczna, Klasa: Open
 LOCATION:Strzelnica Leonhard
 END:VEVENT
 END:VCALENDAR

@@ -5292,6 +5292,17 @@
                     "Strzelba:\n                                                    Sportowa",
                     "Klasa:\n                                                                                                    Open"
                 ]
+            },
+            {
+                "date": "27 gru 2026",
+                "name": "OSTATNIA SZANSA",
+                "regulation_link": "https://portal.wzss.pl/regulation/1625",
+                "weapons": [
+                    "Karabin:\n                                                    Sportowa",
+                    "Pistolet:\n                                                    Sportowa",
+                    "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
             }
         ]
     },
@@ -5871,6 +5882,24 @@
                     "Karabin:\n                                                    Sportowa",
                     "Pistolet:\n                                                    Sportowa",
                     "Strzelba:\n                                                    Sportowa",
+                    "Klasa:\n                                                                                                    Open"
+                ]
+            }
+        ]
+    },
+    {
+        "club": "PLOMO Ostrów Wielkopolski",
+        "location": "Strzelnica TRAP Krotoszyn",
+        "latitude": null,
+        "longitude": null,
+        "website": "https://portal.wzss.pl",
+        "competitions": [
+            {
+                "date": "2 - 3 kwi 2027",
+                "name": "Kapitan Spłonka 2027 IDPA T2 match",
+                "weapons": [
+                    "Karabin:\n                                                    Dynamiczna",
+                    "Pistolet:\n                                                    Dynamiczna",
                     "Klasa:\n                                                                                                    Open"
                 ]
             }
